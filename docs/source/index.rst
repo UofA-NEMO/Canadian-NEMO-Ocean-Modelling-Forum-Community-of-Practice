@@ -7,6 +7,12 @@ into what you see *here* using readthedocs.org ,gitlab.com, and sphinx.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Lets add a figure
+.. figure:: ../../figure/fig1.png
+and another one
+.. figure:: ../../figure/grid_ARC60.png
+
+
 .. note::
 
    This project is under active development.
