@@ -1,10 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to the Canadian NEMO Ocean Modelling Forum Commuity of Practice
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**NEMO** is the ocean modelling framework used at the University of Alberta. We are in the progress of updating `Our previous website <http://knossos.eas.ualberta.ca/anha/tools.php/>`_
+into what you see *here* using readthedocs.org ,gitlab.com, and sphinx.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
