@@ -8,7 +8,7 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 Lets add a figure
-.. figure:: ../../figure/fig1.png
+.. figure:: ../../figure/Fig1.png
 and another one
 .. figure:: ../../figure/grid_ARC60.png
 
