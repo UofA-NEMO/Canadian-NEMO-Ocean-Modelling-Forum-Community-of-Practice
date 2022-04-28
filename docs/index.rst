@@ -6,8 +6,8 @@ NEMO is the ocean modelling framework used at the University of Alberta. We are 
 Check out the Usage section for further information, including how to Installation the project.
 
 Lets add a figure
-.. figure:: ../../figure/Fig1.png 
+.. figure:: ../figure/Fig1.png 
 
 and another one 
 
-.. figure:: ../../figure/grid_ARC60.png
+.. figure:: ../figure/grid_ARC60.png
