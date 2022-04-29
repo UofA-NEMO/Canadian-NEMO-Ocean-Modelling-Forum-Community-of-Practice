@@ -35,5 +35,9 @@ How to make a note?
      following.
    - It includes this bullet list.
     
+    
+    
+Join our `our Slack channel <https://app.slack.com/client/T03DHLL65V2/C03DTV2HZ6D>`_.
+
 more to come later
    
