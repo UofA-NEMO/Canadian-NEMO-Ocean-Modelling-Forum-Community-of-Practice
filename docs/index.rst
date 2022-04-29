@@ -37,7 +37,7 @@ How to make a note?
     
     
     
-Join our `our Slack channel <https://app.slack.com/client/T03DHLL65V2/C03DTV2HZ6D>`_.
+Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
 more to come later
    
