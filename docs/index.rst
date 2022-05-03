@@ -43,7 +43,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   Groups
+   Institutions
    Slack
    Sources
 
