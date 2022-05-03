@@ -1,5 +1,5 @@
 ***************************************
-Welcome to the Canadian NEMO Ocean Modelling Forum Commuity of Practice
+NEMO Ocean Modelling Forum Commuity of Practice
 ***************************************
 NEMO is the ocean modelling framework used at the University of Alberta. We are in the progress of updating our previous website into what you see here using readthedocs.org ,gitlab.com, and sphinx.
 
@@ -37,5 +37,13 @@ How to make a note?
     
 Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
+Contents
+========
 
+.. toctree::
+   :maxdepth: 2
    
+   Institutions
+   Slack
+   Sources
+
