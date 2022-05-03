@@ -37,5 +37,11 @@ How to make a note?
     
 Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
+Contents
+========
 
+.. toctree::
+   :maxdepth: 2
    
+   groups
+
