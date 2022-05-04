@@ -1,6 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
-# -- Project information
+##-- Project information
 
 project = 'Canadian NEMO Ocean Modelling Forum Commuity of Practice'
 #copyright = '2021, Graziella'
