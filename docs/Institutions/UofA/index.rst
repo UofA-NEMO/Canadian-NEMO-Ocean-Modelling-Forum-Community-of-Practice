@@ -1,4 +1,4 @@
-uofa
-====
+University of Alberta
+=====================
 
-University of Alberta has a group spot 3
+The Earth and Atmospheric Sciences department at the University of Alberta uses NEMO for their numerical modelling research projects.
