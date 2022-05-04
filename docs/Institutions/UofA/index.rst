@@ -1,1 +1,4 @@
-This is the UofA's homepage
+uofa
+====
+
+University of Alberta has a group spot 3
