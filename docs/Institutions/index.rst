@@ -6,5 +6,5 @@ There are many institutions across Canada which use NEMO. The ones below have jo
 .. toctree::
    :maxdepth: 2
    
-   UofA
+   UofA/index
    
