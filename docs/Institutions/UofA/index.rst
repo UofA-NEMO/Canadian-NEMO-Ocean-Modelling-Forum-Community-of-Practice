@@ -3,6 +3,13 @@ University of Alberta
 
 NEMO is the ocean modelling framework used at the University of Alberta. We are in the progress of updating our previous website into what you see here using readthedocs.org ,gitlab.com, and sphinx.
 
+.. toctree::
+   :maxdepth: 2
+   
+   Configurations
+   
+   
+
 Lets add a figure
 
 .. figure:: _figures_UofA/Fig1.png 
