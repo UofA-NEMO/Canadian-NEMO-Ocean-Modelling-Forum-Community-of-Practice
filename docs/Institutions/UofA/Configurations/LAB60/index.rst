@@ -2,13 +2,13 @@ LAB60
 =====
 
 
-.. figure:: _figures_UofA/Fig1.png 
+.. figure:: ../_figures_UofA/Fig1.png 
 
 Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
 And another figure!
 
-.. figure:: _figures_UofA/grid_ARC60.png
+.. figure:: ../_figures_UofA/grid_ARC60.png
 
 Figure Caption: The horizontal grid spacing of our ARC60 configuration.
 
