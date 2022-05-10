@@ -1,4 +1,5 @@
 Slack Channel
 =============
 
-Click here to join our Slack channel
+    
+Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
