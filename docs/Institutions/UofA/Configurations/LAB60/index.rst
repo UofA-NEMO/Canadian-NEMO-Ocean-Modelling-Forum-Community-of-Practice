@@ -17,6 +17,4 @@ How to make a note?
      following.
    - It includes this bullet list.
     
-    
-    
-Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
+
