@@ -5,13 +5,13 @@ NEMO is the ocean modelling framework used at the University of Alberta. We are 
 
 Lets add a figure
 
-.. figure:: ../../_figures/Fig1.png 
+.. figure:: _figures_UofA/Fig1.png 
 
 Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
 And another figure!
 
-.. figure:: ../../_figures/grid_ARC60.png
+.. figure:: _figures_UofA/grid_ARC60.png
 
 Figure Caption: The horizontal grid spacing of our ARC60 configuration.
 |
