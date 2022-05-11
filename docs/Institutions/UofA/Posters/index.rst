@@ -7,7 +7,7 @@ Posters
 
 use image
 
-.. image:: CMOS_2018_Pennelly_LAB60.pdf
+.. image:: ./CMOS_2018_Pennelly_LAB60.pdf
 
 use figure
 
