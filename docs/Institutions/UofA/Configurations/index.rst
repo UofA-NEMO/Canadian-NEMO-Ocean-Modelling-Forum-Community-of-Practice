@@ -4,7 +4,7 @@ Configurations
 We have multiple configurations that we are actively developing and performing research on:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    ANHA4/index
    eORCA025/index
