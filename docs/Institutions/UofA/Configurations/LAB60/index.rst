@@ -27,3 +27,32 @@ Video Caption: todo
    
 Video Caption: LSW passive tracer
 
+|
+.. raw:: html
+
+   <iframe width="740" height="500" src="https://www.youtube.com/embed/QCDoyX_QZao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video Caption: LAB60 Vorticity
+
+|
+.. raw:: html
+
+   <iframe width="740" height="500" src="https://www.youtube.com/embed/JMFL7OSVOP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video Caption: LAB60 FWC
+
+|
+.. raw:: html
+
+   <iframe width="740" height="500" src="https://www.youtube.com/embed/gTkzgQKRnWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video Caption: LAB60 MLD
+
+
+|
+.. raw:: html
+
+   <iframe width="740" height="500" src="https://www.youtube.com/embed/Q3yKIHNPy_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video Caption: LAB60 Stratification
+
