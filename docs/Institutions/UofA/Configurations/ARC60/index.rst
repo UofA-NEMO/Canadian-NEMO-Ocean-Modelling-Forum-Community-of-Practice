@@ -8,6 +8,6 @@ Pan-Arctic at 1/60 of a degree of horizontal resolution:
 
 Figure Caption: The horizontal grid spacing of our ARC60 configuration.
 
-.. figure:: grid_ARC60.png
+.. figure:: ./grid_ARC60.png
 
 done
