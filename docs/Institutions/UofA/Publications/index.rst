@@ -25,7 +25,7 @@ Lukovich et al., `A baseline evaluation of oceanographic and sea ice conditions 
 
 Lukovich et al., `Simulated impacts of relative climate change and river discharge regulation on sea ice and oceanographic conditions in the Hudson Bay Complex <https://doi.org/10.1525/elementa.2020.00127>`_, Elementa Ecience of the Anthropocene
 
-Marcon et al., `Distinct Ocean Responses to Greenland's Liquid Runoff and Iceberg Melt <https://doi.org/10.1029/2021JC017542>`_, Journal of Geophysical Research: Oceans
+Marson et al., `Distinct Ocean Responses to Greenland's Liquid Runoff and Iceberg Melt <https://doi.org/10.1029/2021JC017542>`_, Journal of Geophysical Research: Oceans
 
 Myers et al., `Extreme High Greenland Blocking Index Leads to the Reversal of Davis and Nares Strait Net Transport Toward the Arctic Ocean <https://doi.org/10.1029/2021GL094178>`_, Geophysical Research Letters
 
@@ -33,7 +33,7 @@ Pennelly and Myers, `Impact of Different Atmospheric Forcing Sets on Modeling La
 
 Ridenour et al., `Hudson Strait Inflow: Structure and Variability <https://doi.org/10.1029/2020JC017089>`_, Journal of Geophysical Research: Oceans
 
-Ruhs et al., `Changing Spatial Patterns of Deep Convection in the Subpolar North Atlantic <https://doi.org/10.1029/2021JC017245>`_, Journal of Geophysical Research: Oceans
+Rühs et al., `Changing Spatial Patterns of Deep Convection in the Subpolar North Atlantic <https://doi.org/10.1029/2021JC017245>`_, Journal of Geophysical Research: Oceans
 
 Stadnyk et al., `Changing freshwater contributions to the Arctic: A 90-year trend analysis (1981-2070) <https://doi.org/10.1525/elementa.2020.00098>`_, Elementa Ecience of the Anthropocene
 
