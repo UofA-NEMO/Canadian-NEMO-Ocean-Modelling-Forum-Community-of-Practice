@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_static_path = ['Institutions/UofA/_static']
+html_static_path = [_static', 'Institutions/UofA/_static']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
