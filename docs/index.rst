@@ -6,9 +6,9 @@ Contents
 ========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    Institutions/index
-   Slack
-   Sources
+   Slack/index
+   Sources/index
 
