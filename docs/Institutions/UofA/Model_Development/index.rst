@@ -1,7 +1,7 @@
 Model Development
 =================
 
-We have developed multiple aspects of the NEMO model:
+We have helped to developed multiple aspects of the NEMO model:
 
 .. toctree::
    :maxdepth: 1
