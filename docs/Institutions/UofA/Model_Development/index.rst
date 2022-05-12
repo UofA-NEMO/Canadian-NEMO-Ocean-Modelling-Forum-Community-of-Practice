@@ -2,9 +2,9 @@ Model Development
 =================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
   
-   icebergs/index
+   Icebergs/index
 
 
 
