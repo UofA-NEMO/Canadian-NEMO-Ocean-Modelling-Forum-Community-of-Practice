@@ -5,15 +5,20 @@ LAB60
 
 Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
+|
+   
+   <iframe width="672" height="378" src="https://www.youtube.com/embed/P1sWemzJ-jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+Video Caption: todo
 
 
-How to make a note?
+|
+   <iframe width="672" height="378" src="https://www.youtube.com/embed/TtaZIwaO57w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+Video Caption: todo
 
-.. note:: This is a note admonition.
-   This is the second line of the first paragraph.
-
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
-    
-
+|
+   
+   <iframe width="672" height="378" src="https://www.youtube.com/embed/rK62guzG3cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+Video Caption: LSW passive tracer
