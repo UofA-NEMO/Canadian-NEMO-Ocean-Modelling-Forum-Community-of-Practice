@@ -6,7 +6,7 @@ Publications related to members of our lab are summarized below.
 2022
 ----
 
-Pennelly and Myers, `Tracking Irminger Ring's properties using a submesoscale ocean model <https://doi.org/10.1016/j.pocean.2021.102735>`, Progress in Oceanography 
+Pennelly and Myers, `Tracking Irminger Ring's properties using a submesoscale ocean model <https://doi.org/10.1016/j.pocean.2021.102735>`_, Progress in Oceanography 
 
 |
 2021
