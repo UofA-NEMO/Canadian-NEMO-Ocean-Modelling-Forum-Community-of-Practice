@@ -1,10 +1,21 @@
-Sources
-=======
+Useful Sources
+==============
 
-MEOPAR
 
-NEMO site
+Modelling systems
+-----------------
+The ocean and sea ice modelling framework `NEMO <https://www.nemo-ocean.eu/>`_.
 
-DRAKKAR site
+|
+Groups
+------
 
-etc.
+`MEOPAR <https://meopar.ca/>`_.
+
+`DRAKKAR <https://www.drakkar-ocean.eu/>`_.
+
+|
+Forcing Products
+----------------
+
+
