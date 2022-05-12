@@ -6,7 +6,7 @@ LAB60
 
 Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
-.. figure:: LAB60_Config.png
+.. figure:: ./LAB60_Config.png
 
 
 How to make a note?
