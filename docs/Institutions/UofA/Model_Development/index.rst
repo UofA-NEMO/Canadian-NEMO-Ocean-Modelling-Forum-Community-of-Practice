@@ -7,6 +7,8 @@ We have helped to developed multiple aspects of the NEMO model:
    :maxdepth: 1
   
    Icebergs/index
+   BLING/index
+   AGRIF/index
 
 done
 
