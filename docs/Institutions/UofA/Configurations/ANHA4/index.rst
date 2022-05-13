@@ -9,6 +9,14 @@ Here we show the 1/4 degree resolution ANHA configuration (ANHA4)
 
 ANHA4 is our low resolution regional configuration that affords us a low-cost, eddy-permitting simulation. Such simulations are particularly useful for any sensitivity studies since we can finish a multi-decade simulation within a month or so. ANHA4 has been a very productive configuration. Its fast simulation time allows us to test all sorts of new model development, parameter testing, coupled systems. Here is our incomplete listing of our ANHA4 simulations with some useful information:
 
+test1
+
+.. csv-table:: ANHA4 Simulation List
+   :file: simulation_table.csv
+   :widths: 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 
+   :header-rows: 1
+
+test2
 
 .. list-table:: ANHA4 Simulation list
    :widths: 5 5 5 5 5 5 5 5 5 5 5 20 22
@@ -41,7 +49,9 @@ ANHA4 is our low resolution regional configuration that affords us a low-cost, e
      - local: /mnt/storage3/xhu/NEMO/ANHA12-EXH006
      - graham: /project/6007519/ANHA/ANHA12-EXH006-S
      
-  .. raw:: html
+test3 
+ 
+.. raw:: html
 
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnXVJj1gTVGrTGVz2FyvTV6v_JrjBDhL7TzCpwWvjBm0h9iTUlohEyLgN8tmuhnoHLN-KDZqkuVJvc/pubhtml"></iframe>
      
