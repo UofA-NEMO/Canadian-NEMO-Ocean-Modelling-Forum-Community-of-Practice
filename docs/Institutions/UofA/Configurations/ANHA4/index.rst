@@ -12,8 +12,8 @@ ANHA4 is our low resolution regional configuration that affords us a low-cost, e
 test1
 
 .. csv-table:: ANHA4 Simulation List
-   :file: simulation_table.csv
-   :widths: 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 
+   :file: ./simulation_table.csv
+   :widths: 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 2, 2 
    :header-rows: 1
 
 test2
