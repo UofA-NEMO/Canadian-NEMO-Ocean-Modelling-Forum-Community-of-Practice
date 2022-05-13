@@ -13,11 +13,9 @@ ANHA12
      - NEMO Version
      - Integration Period
      - Sea Ice Model
-     - Initial Conditions
-     - Open Boundary Conditions
+     - IC/OBC
      - Atmospheric Forcing
      - Runoff Product
-     - CPP keys
      - Output frequency
      - Special Notes
      - Local Output Location
@@ -27,10 +25,8 @@ ANHA12
      - 2002-2018
      - LIM2
      - GLORYS2V3
-     - GLORYS2V3
      - CGRF
      - Monthly w/ Greenland melt
-     - some keys
      - 5 day average
      - Second ANHA12 run
      - local: /mnt/storage3/xhu/NEMO/ANHA12-EXH006
