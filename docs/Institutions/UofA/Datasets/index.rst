@@ -1,19 +1,21 @@
-********
-Datasets
-********
-
 Datasets
 ========
 
 We use multiple datasets for our various simulations. 
 
+Bathymetry Products
+-------------------
+
+* Etopo Gebco
+
+|
+Datasets used to initialize our simulations appear below:
+
 Initial Conditions
 ------------------
 
-Datasets used to initialize our simulations appear below:
-
 Physical data
--------------
+^^^^^^^^^^^^^
 * GLORYS2v3
 
 * GLORYS2v4
@@ -22,11 +24,11 @@ Physical data
 
   
 Biogeochemical data
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 * BLING data from where?
 
-
+|
 Forcing Data
 ------------
 
@@ -34,7 +36,7 @@ Datasets use to force our simulations appear below
 
 
 Atmospheric Forcing
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 * DRAKKAR Forcing Set 5.2 (DFS5.2)
 
@@ -50,18 +52,12 @@ Atmospheric Forcing
 
 * Canadian Meteorlogical Centre Global Deterministic Prediction System ReForecasts (CGRFs)
 
-*****
-test1
-*****
+Runoff Forcing
+^^^^^^^^^^^^^^
 
-test 2
-======
+Iceberg Forcing
+^^^^^^^^^^^^^^^
 
-test 3
-------
-
-test 4
-^^^^^^
-
-
+Biogeochemistry Forcing
+^^^^^^^^^^^^^^^^^^^^^^^
 
