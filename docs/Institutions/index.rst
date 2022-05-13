@@ -1,7 +1,7 @@
 Institutions
 ============
 
-There are many institutions across Canada which use NEMO. The ones below have joined this community forum in order
+NEMO is used across many institutions across Canada. The following list is those institutions which have joined this forum to share their NEMO modelling work.
 
 .. toctree::
    :maxdepth: 1
