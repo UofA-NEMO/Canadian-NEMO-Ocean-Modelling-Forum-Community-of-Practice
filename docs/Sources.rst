@@ -17,7 +17,7 @@ Groups
 |
 Projects
 --------
-`VITALS: Ventilation, Interaction and Transport Across the Labrador Sea <http://knossos.eas.ualberta.ca/vitals/>`_
+`VITALS <http://knossos.eas.ualberta.ca/vitals/>`_: Ventilation, Interaction and Transport Across the Labrador Sea
 
 |
 Forcing Products
