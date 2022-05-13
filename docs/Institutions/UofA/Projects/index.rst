@@ -1,7 +1,7 @@
 Projects
 ========
 
-This is a list of projects that the UofA modelling team has worked on
+This is an incomplete list of projects that the UofA modelling team has worked on. 
 
 
 Cascading of dense water near Davis Strait
