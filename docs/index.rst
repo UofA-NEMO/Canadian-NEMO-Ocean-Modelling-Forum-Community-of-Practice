@@ -11,7 +11,6 @@ Contents
    :maxdepth: 2
    
    Institutions/index
-   Sources/index
    Slack/index
    
 This website is under active development.
