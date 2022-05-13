@@ -11,6 +11,12 @@ Contents
    :maxdepth: 2
    
    Institutions/index
-   Slack/index
+   Sources/index
+   
+   
+   
+   
+Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
+
    
 This website is under active development.
