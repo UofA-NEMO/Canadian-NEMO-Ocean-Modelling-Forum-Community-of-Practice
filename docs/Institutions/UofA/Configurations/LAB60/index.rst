@@ -6,7 +6,7 @@ The ANHA4-SPG12-LAB60 configuration (LAB60 for short) features a regional ANHA4 
 The full documentation for this configuration can be found within `Geoscientific Model Development <https://doi.org/10.5194/gmd-13-4959-2020>`_.
 
 
-.. figure:: ./LAB60_Config.png
+.. figure:: ./LAB60_horz_vert_grid.png
 
 Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
