@@ -2,6 +2,9 @@ eORCA025
 ========
 
 
+
+.. figure:: ./eORCA025_horzgrid.png
+
 eORCA025 Video:
 
 .. raw:: html
