@@ -44,7 +44,7 @@ Atmospheric Forcing
 
 * NCEP Reanalysis
 
-* Canadian Meteorlogical Centre Global ReForecasts (CGRFs)
+* Canadian Meteorlogical Centre Global Deterministic Prediction System ReForecasts (CGRFs)
 
 
 
