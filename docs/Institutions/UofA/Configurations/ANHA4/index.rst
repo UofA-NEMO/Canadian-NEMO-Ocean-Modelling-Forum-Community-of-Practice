@@ -22,8 +22,8 @@ test1
  
 test2
 
-.. csv-table:: test
-
+.. csv-table:: /test.csv
+   :header-rows: 1
  
 test3
 
