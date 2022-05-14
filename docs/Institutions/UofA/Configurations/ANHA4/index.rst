@@ -11,12 +11,21 @@ ANHA4 is our low resolution regional configuration that affords us a low-cost, e
 
 test1
 
-.. csv-table:: ANHA4 Simulation List
-   :file: ./simulation_table.csv
-   :widths: 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 2, 2 
-   :header-rows: 1
+.. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
 
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", 1.99, "On a stick!"
+ 
 test2
+
+.. csv-table:: test
+
+ 
+test3
 
 .. list-table:: ANHA4 Simulation list
    :widths: 5 5 5 5 5 5 5 5 5 5 5 20 22
@@ -48,10 +57,20 @@ test2
      - Second ANHA12 run
      - local: /mnt/storage3/xhu/NEMO/ANHA12-EXH006
      - graham: /project/6007519/ANHA/ANHA12-EXH006-S
+   * - 1
+     - 2
+     - 3
+     - 4 
+     - 5 
+     - 6 
+     - 7
+     - 8
+     - 9
+     - 10
+     - 11
+     - 12
+     - 13
      
-test3 
+done
+     
  
-.. raw:: html
-
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnXVJj1gTVGrTGVz2FyvTV6v_JrjBDhL7TzCpwWvjBm0h9iTUlohEyLgN8tmuhnoHLN-KDZqkuVJvc/pubhtml"></iframe>
-     
