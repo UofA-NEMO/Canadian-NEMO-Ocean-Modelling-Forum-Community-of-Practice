@@ -27,7 +27,14 @@ test2
    :header-rows: 1
    :class: longtable
 
- 
+test2
+
+.. csv-table:: ANHA4 Simulation List
+   :file: /test.csv
+   :header-rows: 1
+   :class: longtable
+
+
 test3
 
 .. list-table:: ANHA4 Simulation list
