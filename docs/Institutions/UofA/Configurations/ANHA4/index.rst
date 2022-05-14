@@ -22,8 +22,11 @@ test1
  
 test2
 
-.. csv-table:: /test.csv
+.. csv-table:: ANHA4 Simulation List
+   :file: ../../../../_static/_UofA/test.csv
    :header-rows: 1
+   :class: longtable
+
  
 test3
 
