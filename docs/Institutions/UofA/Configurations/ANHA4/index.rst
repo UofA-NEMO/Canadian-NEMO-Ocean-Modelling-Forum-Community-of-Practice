@@ -14,7 +14,6 @@ test table
 .. csv-table:: ANHA4 Simulation List
    :file: ../../../../_static/_UofA/test.csv
    :header-rows: 2
-   :stub-rows: 2
    :class: longtable
 
 
