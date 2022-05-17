@@ -20,6 +20,7 @@ A Walkthough
 2. Request collaborate access to our repository- email pennelly AT ualberta.ca . Let me know your GitHub user name as well as institution so I can send an invite to collaborate (as well as a passcode to push data)
 
 3. Once the request has been accepted, you should be able to clone our repository. Navigate to a part of your local system you want the repository saved to, then issue
+
 * git clone https://github.com/UofA-NEMO/Canadian-NEMO-Ocean-Modelling-Forum-Commuity-of-Practice.git 
 
 4. This may take a few moments depending on how much figures/data we put into the repository.
