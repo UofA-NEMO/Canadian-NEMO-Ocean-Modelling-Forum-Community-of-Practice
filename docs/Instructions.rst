@@ -56,7 +56,7 @@ Head back one directory into {MyInstitution}
 
 It is now time to add the files/directories to git. First we let git know what should be included, this is a 'git add'
 
-* git add Configrations/*
+* git add Configurations/*
 
 This will add the Configurations directory and everything within it to push to the github site. Now we need to make a commit with a note:
 
@@ -64,15 +64,14 @@ This will add the Configurations directory and everything within it to push to t
 
 Now git knows we plan to submit a push. Before we do that, lets make sure everyhting is up to date by checking we have the same files as what is currently within the repository. This is a 'pull'
 
-*git pull
+* git pull
 
-Issues occur when the files you have differ from that at the source, particularly if you are trying to update a file. Keeping up to date via 'git pull' really helps 
-prevent these problems.
+Issues occur when the files you have differ from that at the source, particularly if you are trying to update a file that is different. Keeping up to date via 'git pull' really helps prevent these problems.
 
-Now your current files are the same as the repository, minus the new ones you are about to push, lets do that:
+Now your current files are the same as the repository, minus the new ones you are about to push. Lets do that:
 
 * git push
 
-Git will then ask for your user name as well as the passcode the admin should have supplied. enter those and you should get a successful push message
+Git will then ask for your user name as well as the passcode the admin should have supplied. Enter those and you should get a successful push message
 
-If you head to your github page, you can see the new file and directory. Here you can further modify things and save/commit files much quicker than using the terminal. However, you cannot make new directories from the github page, only from the terminal connection.
+If you head to your github page, you can see the new file and directory. Here you can further modify things and save/commit files much quicker than using the terminal. However, you cannot make new directories from the github page, only from the terminal connection. Use the above method to create new directories. You can also copy files into these directories and 'git add' them as well.
