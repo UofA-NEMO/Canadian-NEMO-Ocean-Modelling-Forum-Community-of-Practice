@@ -1,5 +1,5 @@
 Instructions
-------------
+============
 
 For groups/institutions/users who would like to join this community, the following instructions will come in handy. 
 
@@ -13,7 +13,7 @@ Requirements
 This website is built from documents saved onto the GitHub account which ReadTheDocs.org then produces into a website. For others to collaborate, we all work off of the cloned repository. Each user/institution only works within their assigned directory space so we do not interfere with the documents of other groups. Since the repository is cloned, all groups are sync'ed to each other: any file we upload onto this repository then is downloaded and accessible by the other groups. As such, don't upload anything you wouldn't be willing to share, and don't modify anything outside your designated directories. There is a storage limit to how much we can store in the repository- please host large files (videos) elsewhere, only push small files.
 
 A Walkthough
-^^^^^^^^^^^^
+------------
 
 1. Each instruction needs to create a GitHub account and activate it accordingly. You will need to set up git on your local system- I cannot explain it here since each system may vary, but it entail setting up your git user name and email to the local system. 
 
