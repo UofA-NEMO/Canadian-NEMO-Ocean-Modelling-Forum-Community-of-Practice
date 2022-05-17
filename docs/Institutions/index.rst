@@ -7,4 +7,5 @@ NEMO is used across many institutions across Canada. The following list is those
    :maxdepth: 1
    
    UofA/index
+   MyInstitution/index
    
