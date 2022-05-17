@@ -11,6 +11,7 @@ Contents
    :maxdepth: 2
    
    Institutions/index
+   Instructions
    Sources/index
 
 
