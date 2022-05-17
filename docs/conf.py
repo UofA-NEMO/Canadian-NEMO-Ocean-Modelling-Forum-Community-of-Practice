@@ -2,7 +2,7 @@
 
 ##-- Project information
 
-project = 'Canadian NEMO Ocean Modelling Forum Commuity of Practice'
+project = 'Canadian NEMO Ocean Modelling Forum Community of Practice'
 #copyright = '2021, Graziella'
 #author = 'Graziella'
 
