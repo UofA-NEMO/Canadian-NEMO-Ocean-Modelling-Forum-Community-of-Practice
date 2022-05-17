@@ -12,7 +12,7 @@ Contents
    
    Institutions/index
    Instructions
-   Sources/index
+   Sources
 
 
 Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
