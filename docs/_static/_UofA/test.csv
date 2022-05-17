@@ -1,3 +1,3 @@
 Simulation,NEMO version,Integration,Sea Ice Model,IC/BDY,Atmo Forcing,Ouput Freq,Local storage,HPC storage,Publications,Other notes
-ENG011A,3.6,2002-2018,LIM2,GLORYS2v3,CGRFf,5day,/mnt/storage4/nathan/RUNS/ANHA4-ENG011A-S,/project/6007519/ANHA/ANHA4-ENG011A-S,N/A,Reference 3.6 experiment
-lab60,testnote,`1 <https://doi.org/10.5194/gmd-13-4959-2020>`_,3,4,5,6,7,8,9
+ENG011A,3.6,2002-2018,LIM2,GLORYS2v3,CGRF,5day,/mnt/storage4/nathan/RUNS/ANHA4-ENG011A-S,/project/6007519/ANHA/ANHA4-ENG011A-S,N/A,Reference 3.6 experiment
+lab60,testnote,`1 <https://doi.org/10.5194/gmd-13-4959-2020>`_,3,4,5,6,7,8,9,10
