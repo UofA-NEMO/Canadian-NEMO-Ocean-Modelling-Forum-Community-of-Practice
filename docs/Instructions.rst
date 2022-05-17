@@ -11,7 +11,7 @@ Requirements
 * A local storage/system to push/pull code/documents/etc
 * An understanding of boundaries
 
-This website is built from documents saved onto the GitHub account which ReadTheDocs.org then produces into a website. For others to collaborate, we all work off of the cloned repository. Each user/institution only works within their assigned directory space so we do not interfere with the documents of other groups. Since the repository is cloned, all groups are sync'ed to each other: any file we upload onto this repository then is downloaded and accessible by the other groups. As such, don't upload anything you wouldn't be willing to share, and don't modify anything outside your designated directories. There is a storage limit to how much we can store in the repository- please host large files (videos) elsewhere, only push small files.
+This website is built from documents saved onto the GitHub account which ReadTheDocs.org then produces into a website. For others to collaborate, we all work off of the cloned repository. Each user/institution only works within their assigned directory space so we do not interfere with the documents of other groups. Since the repository is cloned, all groups are synced to each other: any file we upload onto this repository then is downloaded and accessible by the other groups. As such, don't upload anything you wouldn't be willing to share, and don't modify anything outside your designated directories. There is a storage limit to how much we can store in the repository- please host large files (videos) elsewhere, only push small files.
 
 A Walkthough
 ------------
@@ -28,7 +28,7 @@ A Walkthough
 
 5. A new directory called 'Canadian-NEMO-Ocean-Modelling-Forum-Commuity-of-Practice' should now appear within your directory. Go inside this
 
-6. Within this directory, there are a few files which should not be editted. head inside the 'docs' directory.
+6. Within this directory, there are a few files which should not be edited. head inside the 'docs' directory.
 
 7. There are more files (to not be touched) as well as some directories here. Of note are '_static' and 'Institutions'. The admin should have created a directory within each of these that match your institution. See if those exist- I'll use 'MyInstitution' as an example:
 
@@ -40,7 +40,7 @@ A Walkthough
 
 * cd _static
 
-10. Your second and final instutional directory resides here, as _MyInstitution. Here is where some documents (.cdv and .pdf at the least) reside. For some reason, figure images can be saved and viewed fine within normal directories, but .pdf and .csv need to be saved and called from this directory. 
+10. Your second and final institutional directory resides here, as _MyInstitution. Here is where some documents (.cdv and .pdf at the least) reside. For some reason, figure images can be saved and viewed fine within normal directories, but .pdf and .csv need to be saved and called from this directory. 
 
 Your First Push and Pull
 ------------
@@ -63,7 +63,7 @@ This will add the Configurations directory and everything within it to push to t
 
 * git commit -m 'SOME USEFUL NOTE TEXT'
 
-Now git knows we plan to submit a push. Before we do that, lets make sure everyhting is up to date by checking we have the same files as what is currently within the repository. This is a 'pull'
+Now git knows we plan to submit a push. Before we do that, lets make sure everything is up to date by checking we have the same files as what is currently within the repository. This is a 'pull'
 
 * git pull
 
