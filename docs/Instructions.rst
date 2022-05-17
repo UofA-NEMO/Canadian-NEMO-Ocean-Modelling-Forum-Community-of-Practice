@@ -4,7 +4,8 @@ Instructions
 For groups/institutions/users who would like to join this community, the following instructions will come in handy. 
 
 Requirements
-^^^^^^^^^^^^
+------------
+
 
 * A GitHub account
 * A local storage/system to push/pull code/documents/etc
@@ -42,7 +43,7 @@ A Walkthough
 10. Your second and final instutional directory resides here, as _MyInstitution. Here is where some documents (.cdv and .pdf at the least) reside. For some reason, figure images can be saved and viewed fine within normal directories, but .pdf and .csv need to be saved and called from this directory. 
 
 Your First Push and Pull
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------
 
 This might be your first time working with git commands, so this section will briefly describe how things work. Open up your local storage command line and head to your /Institutions/{MyInstitution}/ directory. Create a new directory, lets just call it 'Configurations' since many NEMO users have set up their own configurations
 
