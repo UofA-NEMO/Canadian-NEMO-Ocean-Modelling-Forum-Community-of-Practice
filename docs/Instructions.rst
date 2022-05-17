@@ -1,5 +1,5 @@
-Instructions
-============
+User Guide
+==========
 
 For groups/institutions/users who would like to join this community, the following instructions will come in handy. 
 
