@@ -1,4 +1,0 @@
-Simulation,NEMO,Integration,Sea Ice,IC/BDY,Atmo,Ouput,Notes,Publications,Local,HPC
-Name,Version,Period,Model,Data,Forcing,Freq,,,Storage,Storage
-ENG011A,3.6,2002-2018,LIM2,GLORYS2v3,CGRF,5day,Reference 3.6 experiment,N/A,/mnt/storage4/nathan/RUNS/ANHA4-ENG011A-S,/project/6007519/ANHA/ANHA4-ENG011A-S
-lab60,testnote,2,3,4,5,6,7,`8 <https://doi.org/10.5194/gmd-13-4959-2020>`_,9,10
