@@ -4,8 +4,8 @@ Posters
 Here is a list of the posters our group has presented at conferences around the globe:
 |
 
-Canadian Meteorological and Oceanographic Society
--------------------------------------------------
+`Canadian Meteorological and Oceanographic Society (CMOS) <https://www.cmos.ca/>`_
+---------------------------------------------------
 
 2018
 ^^^^
@@ -28,8 +28,8 @@ Canadian Meteorological and Oceanographic Society
 
 |
 
-CANHEIT
--------
+`Canadian Higher Education Information Technology Conference (CANHEIT) <https://www.cuccio.net/en/events/canheit.html>`_
+------------------------------------------------------------
 
 2016
 ^^^^
@@ -43,8 +43,8 @@ CANHEIT
 
 |
 
-Ocean Sciences
---------------
+`Ocean Sciences <https://www.aslo.org/>`_
+----------------
 
 2020
 ^^^^
@@ -71,8 +71,8 @@ AAM
 
 |
 
-ArcticNet
----------
+`ArcticNet <https://arcticnet.ulaval.ca/>`_
+-----------
 
 2014
 ^^^^
@@ -81,8 +81,8 @@ ArcticNet
 
 |
 
-European Geosciences Union (EGU)
---------------------------------
+`European Geosciences Union (EGU) <https://www.egu.eu/>`_
+---------------------------------
 
 2016
 ^^^^
@@ -91,8 +91,8 @@ European Geosciences Union (EGU)
 
 |
 
-Forum for Arctic Modeling and Observational Synthesis (FAMOS)
--------------------------------------------------------------
+`Forum for Arctic Modeling and Observational Synthesis (FAMOS) <https://web.whoi.edu/famos/>`_
+---------------------------------------------------------------
 
 2018
 ^^^^
