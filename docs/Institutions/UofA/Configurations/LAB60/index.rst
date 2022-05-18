@@ -8,14 +8,14 @@ The full documentation for this configuration can be found within `Geoscientific
 
 .. figure:: ./LAB60_horz_vert_grid.png
 
-Figure Caption: The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
+   The horizontal and vertical grid spacing for each domain of our LAB60 configuration.
 
 |
 .. raw:: html
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/P1sWemzJ-jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-Video Caption: Greenland runoff passive tracer
+   Video Caption: Greenland runoff passive tracer
 
 
 |
@@ -23,14 +23,14 @@ Video Caption: Greenland runoff passive tracer
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/TtaZIwaO57w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-Video Caption: Irminger Water passive tracer
+   Video Caption: Irminger Water passive tracer
 
 |
 .. raw:: html
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/rK62guzG3cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-Video Caption: LSW passive tracer
+   Video Caption: LSW passive tracer
 
 |
 .. raw:: html
@@ -38,21 +38,21 @@ Video Caption: LSW passive tracer
    <iframe width="740" height="500" src="https://www.youtube.com/embed/QCDoyX_QZao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Video Caption: LAB60 Vorticity
+   Video Caption: LAB60 Vorticity
 
 |
 .. raw:: html
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/JMFL7OSVOP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video Caption: LAB60 freshwater content
+   Video Caption: LAB60 freshwater content
 
 |
 .. raw:: html
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/gTkzgQKRnWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video Caption: LAB60 Mixed layer depth
+   Video Caption: LAB60 Mixed layer depth
 
 
 |
@@ -60,5 +60,5 @@ Video Caption: LAB60 Mixed layer depth
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/Q3yKIHNPy_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video Caption: LAB60 Stratification
+   Video Caption: LAB60 Stratification
 
