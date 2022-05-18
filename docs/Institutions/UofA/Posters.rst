@@ -50,7 +50,7 @@ Here is a list of the posters our group has presented at conferences around the 
 2020
 ^^^^
 
-* `The North Icelandic Jet is fed by transformation of Atlantic Waters on the Icelandic Shelf; Yarisbel Garcia-Quintana <../../../_static/_UofA/OceanSciences_2020_YarisbelGarciaQuintana.pdf>`_
+* `The North Icelandic Jet is fed by transformation of Atlantic Waters on the Icelandic Shelf; Yarisbel Garcia-Quintana <../../_static/_UofA/OceanSciences_2020_YarisbelGarciaQuintana.pdf>`_
 
 
 2018
