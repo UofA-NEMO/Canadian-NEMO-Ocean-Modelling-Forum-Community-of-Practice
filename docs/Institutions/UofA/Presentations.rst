@@ -5,16 +5,17 @@ Conference/workshop presentations related to members of our lab are listed below
 
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
------------
+-------------------------------------------
 
 2014
 ^^^^
 
 * `Validation of the Arctic and Canadian Arctic Archipelago Ice Thickness in High-resolution NEMO simulations; Xianmin Hu <../../../_static/_UofA/ ArcticNet_T_2014_HU.pdf>`_
 
+|
 
 `GEOTRACERS <https://www.geotraces.org/>`_
-----------------------------------------
+------------------------------------------
 
 2016
 ^^^^
@@ -27,8 +28,9 @@ Conference/workshop presentations related to members of our lab are listed below
 
 * `NEMO Simulation in UA; Xianmin Hu <../../../_static/_UofA/GEOTRACERS_T_2015_HU.pdf>`_
 
+|
 `Canadian Meteorological and Oceanographic Society (CMOS) <https://www.cmos.ca/>`_
----------------------------------------------------
+----------------------------------------------------------------------------------
 
 2016
 ^^^^
@@ -56,7 +58,7 @@ Conference/workshop presentations related to members of our lab are listed below
 |
 
 `Ocean Sciences <https://www.aslo.org/>`_
-----------------
+-----------------------------------------
 
 2020
 ^^^^
