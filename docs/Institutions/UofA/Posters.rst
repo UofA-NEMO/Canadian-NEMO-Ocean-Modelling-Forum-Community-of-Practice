@@ -3,6 +3,7 @@ Posters
 
 Here is a list of the posters our group has presented at conferences around the globe:
 |
+
 Canadian Meteorological and Oceanographic Society
 -------------------------------------------------
 
@@ -26,6 +27,7 @@ Canadian Meteorological and Oceanographic Society
 
 
 |
+
 CANHEIT
 -------
 
@@ -40,6 +42,7 @@ CANHEIT
 
 
 |
+
 Ocean Sciences
 --------------
 
@@ -57,8 +60,9 @@ Ocean Sciences
 * `Frequency of Volume and Freshwater Events Leaving the Arctic Ocean: A Numerical Study; Nathan Grivault <../../../_static/_UofA/Grivault_OceanSciences2018.pdf>`_. 
 
 |
+
 AAM
-----
+---
 
 2021
 ^^^^
@@ -66,6 +70,7 @@ AAM
 * `Impact of Runoff Forcing on Ocean Model Simulations in the Pan-Arctic Region; Tahya Weiss-Gibbons <../../../_static/_UofA/AAM2021 Poster Tahya Weiss-Gibbons.pdf>`_.
 
 |
+
 ArcticNet
 ---------
 
@@ -75,6 +80,7 @@ ArcticNet
 * `Validation of the Arctic and Canadian Arctic Archipelago Ice Thickness in High-resolution NEMO Simulations; Xianmin Hu <../../../_static/_UofA/ArcticNet_T_2014_HU.pdf>`_.
 
 |
+
 European Geosciences Union (EGU)
 --------------------------------
 
@@ -84,6 +90,7 @@ European Geosciences Union (EGU)
 * `Exchanges of volume, heat and freshwater through the Canadian Arctic Archipelago: A numerical study; Nathan Grivault <../../../_static/_UofA/EGU_P_2016_Grivault.pdf>`_. 
 
 |
+
 Forum for Arctic Modeling and Observational Synthesis (FAMOS)
 -------------------------------------------------------------
 
