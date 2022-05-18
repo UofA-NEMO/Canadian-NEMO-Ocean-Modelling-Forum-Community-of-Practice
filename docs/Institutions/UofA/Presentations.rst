@@ -2,7 +2,7 @@ Presentations
 =============
 
 Conference/workshop presentations related to members of our lab are listed below. Click the link to view the presentation.
-
+|
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
 -------------------------------------------
