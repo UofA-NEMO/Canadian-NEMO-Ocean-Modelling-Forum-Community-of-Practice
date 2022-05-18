@@ -14,7 +14,7 @@ ANHA4 is our low resolution regional configuration that affords us a low-cost, e
 test table
 
 .. csv-table:: ANHA4 Simulation List
-   :file: ../../../../_static/_UofA/test.csv
+   :file: ../../../../_static/_UofA/ANHA4_simulation.csv
    :header-rows: 2
    :class: longtable
 
