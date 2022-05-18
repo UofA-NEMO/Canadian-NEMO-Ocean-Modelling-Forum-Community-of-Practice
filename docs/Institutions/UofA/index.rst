@@ -16,5 +16,6 @@ NEMO is the ocean modelling framework used at the University of Alberta. Spearhe
    Documents/index
    Posters
    Presentations
+   Theses
 
    
