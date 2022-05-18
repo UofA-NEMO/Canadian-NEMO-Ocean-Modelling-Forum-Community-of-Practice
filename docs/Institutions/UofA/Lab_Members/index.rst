@@ -5,7 +5,7 @@ Lab Members
 Present Members
 ---------------
 
-* Clark Pennelly
+* Clark Pennelly: Currently a PDF (2021-present). PhD with Paul Myers, Modelling sources of stratification within the Labrador sea (2017-2021).
 .. figure:: Pennelly_picture.png
     :align: right
     :figwidth: 200px
