@@ -7,6 +7,8 @@ Here we show the 1/4 degree resolution ANHA configuration (ANHA4)
 
 .. figure:: ./ANHA4_horzgrid.png
 
+   ANHA4 horizontal grid spacing
+
 ANHA4 is our low resolution regional configuration that affords us a low-cost, eddy-permitting simulation. Such simulations are particularly useful for any sensitivity studies since we can finish a multi-decade simulation within a month or so. ANHA4 has been a very productive configuration. Its fast simulation time allows us to test all sorts of new model development, parameter testing, coupled systems. Here is our incomplete listing of our ANHA4 simulations with some useful information:
  
 test table
