@@ -3,7 +3,7 @@ ANHA12
 
 .. figure:: ./ANHA12_horzgrid.png
 
-
+   ANHA12 horizontal grid spacing
 
 .. list-table:: ANHA12 Simulation list
    :widths: 5 5 5 5 5 5 5 5 5 5 5 20 22
