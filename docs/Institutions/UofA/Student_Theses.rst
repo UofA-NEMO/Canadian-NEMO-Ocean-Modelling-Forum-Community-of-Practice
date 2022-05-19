@@ -6,7 +6,7 @@ A list of PhD and MS thesis from our group
 2021
 ----
 
-* Clark Pennelly, `Modelling Sources of Stratification within the Labrador Sea <https://doi.org/10.7939/r3-2tvx-mj54>`_
+* Clark Pennelly, PhD, `Modelling Sources of Stratification within the Labrador Sea <https://doi.org/10.7939/r3-2tvx-mj54>`_
 
 2020
 ----
