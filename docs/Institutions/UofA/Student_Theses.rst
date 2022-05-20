@@ -1,7 +1,7 @@
 Thesis
 ======
 
-A list of PhD and MS thesis from our group
+A list of PhD and Ms theses from our group.
 
 2021
 ----
