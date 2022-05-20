@@ -22,14 +22,14 @@ ELG010A,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/sol,1day,N/A
 ELG010B,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 73/27% liq/sol,1day,N/A,N/A,75 levels and ICB,no link supplied,N/A
 ELG011A,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,RACMO 46/54% liq/sol,1day,N/A,N/A,75 levels and ICB,/mnt/storage4/gillard/NEMO/ANHA4/ANHA4-ELG011A-S,N/A
 ELG013,3.6,2002-2015,LIM2,GLORYS2v3,DFS,Bamber2018 46/54% liq/sol,5day,N/A,N/A,75 levels and IBC,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG013-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG013-S
-ELG016,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/sol,N/A,N/A,5day,50 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG016-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG016-S
-ELG018,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2012 46/53% liq/sol,N/A,N/A,5day,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG018-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG018-S
-ELG019,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2018 46/53% liq/sol,N/A,N/A,5day,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG019-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG019-S
-ELG020,3.6,2002-2017,LIM2,GLORYS2v3,DFS,RACMO 46/53% liq/sol,N/A,N/A,5day,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG020-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG020-S
-ELG022,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/53% liq/sol,N/A,N/A,5day,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG022-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG022-S
-ELGISF001,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/iceshelf(95-105),N/A,N/A,5day,75 levels iceshelf melt,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF001-S
-ELGISF002,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),N/A,N/A,5day,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
-ELGISF003,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),N/A,N/A,5day,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
+ELG016,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/sol,5dayN/A,N/A,50 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG016-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG016-S
+ELG018,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2012 46/53% liq/sol,5day,N/A,N/A,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG018-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG018-S
+ELG019,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2018 46/53% liq/sol,5day,N/A,N/A,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG019-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG019-S
+ELG020,3.6,2002-2017,LIM2,GLORYS2v3,DFS,RACMO 46/53% liq/sol,5day,N/A,N/A,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG020-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG020-S
+ELG022,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/53% liq/sol,5day,N/A,N/A,75 levels and ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG022-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG022-S
+ELGISF001,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/iceshelf(95-105),5day,N/A,N/A,75 levels iceshelf melt,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF001-S
+ELGISF002,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),5day,N/A,N/A,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
+ELGISF003,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),5day,N/A,N/A,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
 ANHA4,With,Icebergs,,,,,,,,,,
 ANHA4,With,Tides,,,,,,,,,,
 ANHA4,With,BLING,,,,,,,,,,
