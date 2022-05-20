@@ -1,4 +1,20 @@
-Header1,Header2,Header3
-Clark,William,Pennelly
-Romeo,`Geoscientific Model Development <https://doi.org/10.5194/gmd-13-4959-2020>`_,Marbles
-End,of,file
+Simulation,Nemo,Integration,Sea Ice,IC/OBC,Atmospheric,Runoff,Output,Publications,GitHub,Other,Local,HPC
+Name,Version,Period,Model,Data,Forcing,Product,Frequency,Available,Source,Notes,Storage,Storage
+Base,ANHA4,,,,,,,,,,,,
+Nathans,Grivault's,Simuations,,,,,,,,,,,
+ENG011A,3.6,2002-2018,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,3.6 ref case,/mnt/storage4/nathan/RUNS/ANHA4-ENG011A-S,N/A
+ENG011,3.6,2002-2016,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,ice drag 3e-3,/mnt/storage4/nathan/RUNS/ANHA4-ENG011-S,N/A
+ENG012,3.6,2002-2016,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,linear bottom friction,/mnt/storage4/nathan/RUNS/ANHA4-ENG012-S,N/A
+ENG012B,3.6,2002-2006,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,Runoff Mixing 10m,/mnt/storage4/nathan/RUNS/ANHA4-ENG012B-S,N/A
+ENG012C,3.6,2002-2006,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,Runoff Mixing 60m,/mnt/storage4/nathan/RUNS/ANHA4-ENG012B-S,N/A
+ENG16A,3.6,2002-2009,LIM2,GLORYS2v3,CMC GDPS,HYPE/AHYPE,5day,N/A,N/A,Arctic HYPE,/mnt/storage4/yiran/ANHA4runoff/ANHA4-ENG016A,N/A
+Clark,Pennelly's,Simuations,,,,,,,,,,,
+ECP010,3.6,2017-2018,LIM2,ENG011,YOPP,DT/Bamber,5day,N/A,N/A,Year of Polar Prediction,/mnt/storage5/clark/ANHA4-ECP010,N/A
+Pauls,Myers',Simuations,,,,,,,,,,,
+EPM021,3.6,2002-2009,LIM2,GLORYS2v3,ERA-Interim,DT/Bamber2012,5day,N/A,N/A,twin of Arctic Hype,/mnt/storage4/yiran/ANHA4runoff/ANHA4-ENG016A
+EPM025,3.6,2002-2015,LIM2,GLORYS2v3,ERA-Interim,DT PREdam HBC,5day,N/A,N/A,Bamber2021,No link supplied,N/A
+EPM026,3.6,2002-2015,LIM2,GLORYS2v3,ERA-Interim,DT POSTdam HBC,5day,N/A,N/A,Bamber2021,No link supplied,N/A
+Laura,Gillard's,Simuations,,,,,,,,,,,
+ELG016,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber 46/54% liquid/solid,5day,N/A,N/A,ICB,/mnt/storage5/gillard/NEMO/ANHA4/ANHA4-ELG016-S,/project/6007519/lgillard/ANHA4/ANHA4-ELG016-S
+ANHA4,With,Tides,,,,,,,,,,
+
