@@ -22,7 +22,7 @@ A list of PhD and MSc theses from our group.
 2019
 ----
 
-* Yarisbel Garcia-Quintana, PhD `ON THE DRIVING SOURCES AND VARIABILITY OF NORTH ATLANTIC DEEP WATER <https://doi.org/10.7939/r3-cjja-eb52>`_
+* Yarisbel Garcia-Quintana, PhD, `ON THE DRIVING SOURCES AND VARIABILITY OF NORTH ATLANTIC DEEP WATER <https://doi.org/10.7939/r3-cjja-eb52>`_
 
 2018
 ----
@@ -54,7 +54,7 @@ A list of PhD and MSc theses from our group.
 
 * Laura Castro de la Guardia, MSc, `Modeling sea ice in Hudson Bay from a polar bear (Ursus maritimus) perspective <https://doi.org/10.7939/R3G01K>`_
 
-* Qiang Wang, PhD `Numerical modelling of the ocean circulation in the Canadian Arctic Archipelago <https://doi.org/10.7939/R3T66N>`_
+* Qiang Wang, PhD, `Numerical modelling of the ocean circulation in the Canadian Arctic Archipelago <https://doi.org/10.7939/R3T66N>`_
 
 * Praveen, Veluthedathekuzhiyil, PhD, `North Atlantic Finite Element Ocean Modeling <https://doi.org/10.7939/R3PZ51V83>`_
 
