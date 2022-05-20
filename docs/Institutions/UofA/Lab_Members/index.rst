@@ -9,9 +9,7 @@ Present Members
     :align: right
     :figwidth: 200px
 
-    This is a caption for a figure. Text should wrap around the caption.
-
-* 3Clark Pennelly: Currently a PDF (2021-present). PhD with Paul Myers, Modelling sources of stratification within the Labrador sea (2017-2021). LOT OF TEXT TO SEE WRAP. LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.LOT OF TEXT TO SEE WRAP.
+* Clark Pennelly: I'm currently a postdoctoral fellow with Paul Myers, where I spend most of my time developing new NEMO model configurations, updating our lab to newer NEMO versions,  building this website, and addressing any issues our labmembers have with NEMO. I finished my PhD on modelling stratification within the Labrador Sea with Paul Myers in 2021, and before that I worked with Paul as a research assistent, setting up and carying out numerical simulations using the AGRIF nesting software
 
 
 
