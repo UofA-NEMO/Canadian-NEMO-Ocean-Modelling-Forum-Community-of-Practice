@@ -1,7 +1,7 @@
 Thesis
 ======
 
-A list of PhD and Ms theses from our group.
+A list of PhD and MSc theses from our group.
 
 2021
 ----
@@ -10,14 +10,14 @@ A list of PhD and Ms theses from our group.
 
 * Laura Gillard, PhD, `Modelling the Interconnection of the Ocean and the Greenland Ice Sheet <https://doi.org/10.7939/r3-p634-yg06>`_
 
-* Liam Buchart, Ms, `Sea Ice Modelling in the Pikialasorsuaq: Parameters Sensitivities and Future Prospects <https://doi.org/10.7939/r3-btvk-9316>`_
+* Liam Buchart, MSc, `Sea Ice Modelling in the Pikialasorsuaq: Parameters Sensitivities and Future Prospects <https://doi.org/10.7939/r3-btvk-9316>`_
 
 2020
 ----
 
-* Natasha Ridenour, PhD, `ON THE CIRCULATION AND FRESHWATER DYNAMICS OF THE HUDSON BAY COMPLEX <https://doi.org/10.7939/r3-7syy-jd18>`_>`_
+* Natasha Ridenour, PhD, `ON THE CIRCULATION AND FRESHWATER DYNAMICS OF THE HUDSON BAY COMPLEX <https://doi.org/10.7939/r3-7syy-jd18>`_
 
-* Ran Tao, Ms, `Modelling the Long-Term Fate and Transport Pathways of Pollutant in the Canadian Arctic <https://doi.org/10.7939/r3-hgg2-5g21
+* Ran Tao, MSc, `Modelling the Long-Term Fate and Transport Pathways of Pollutant in the Canadian Arctic <https://doi.org/10.7939/r3-hgg2-5g21>`_
 
 2019
 ----
@@ -40,7 +40,7 @@ A list of PhD and Ms theses from our group.
 2015
 ----
 
-* Laura Gillard, Ms, `Ocean Circulation and Marine Terminating Glaciers of the Greenland Ice Sheet <https://doi.org/10.7939/R32R3P50Q>`_
+* Laura Gillard, MSc, `Ocean Circulation and Marine Terminating Glaciers of the Greenland Ice Sheet <https://doi.org/10.7939/R32R3P50Q>`_
 2014
 ----
 
@@ -52,9 +52,9 @@ A list of PhD and Ms theses from our group.
 2012
 ----
 
-* Laura Castro de la Guardia, Ms, `Modeling sea ice in Hudson Bay from a polar bear (Ursus maritimus) perspective <https://doi.org/10.7939/R3G01K>`_
+* Laura Castro de la Guardia, MSc, `Modeling sea ice in Hudson Bay from a polar bear (Ursus maritimus) perspective <https://doi.org/10.7939/R3G01K>`_
 
-* Qiang Wang, `Numerical modelling of the ocean circulation in the Canadian Arctic Archipelago <https://doi.org/10.7939/R3T66N>`_
+* Qiang Wang, PhD `Numerical modelling of the ocean circulation in the Canadian Arctic Archipelago <https://doi.org/10.7939/R3T66N>`_
 
 * Praveen, Veluthedathekuzhiyil, PhD, `North Atlantic Finite Element Ocean Modeling <https://doi.org/10.7939/R3PZ51V83>`_
 
@@ -62,11 +62,48 @@ A list of PhD and Ms theses from our group.
 2011
 ----
 
-* Colin More, Ms, `The role of North Atlantic Current water in exchanges across the Greenland-Scotland Ridge from the Nordic Seas <https://doi.org/10.7939/R3034D>`_
+* Colin More, MSc, `The role of North Atlantic Current water in exchanges across the Greenland-Scotland Ridge from the Nordic Seas <https://doi.org/10.7939/R3034D>`_
 
 2010
 ----
 
-* Anna Katavouta, Ms, `Sea ice data assimilation for the Canadian east coast <https://doi.org/10.7939/R3T91S>`_
+* Anna Katavouta, MSc, `Sea ice data assimilation for the Canadian east coast <https://doi.org/10.7939/R3T91S>`_
 
-* Ji Lei, Ms, `Interdecadal Variability along 38°N in the North Atlantic <https://doi.org/10.7939/R32W26>`_
+* Ji Lei, MSc, `Interdecadal Variability along 38°N in the North Atlantic <https://doi.org/10.7939/R32W26>`_
+
+2009
+----
+
+2008
+----
+
+* Sanjay Rattan, PhD, `North Atlantic Ocean and Sea Ice Modelling and data assimilation <https://doi.org/10.7939/r3-tn3f-1k74>`_
+
+2007
+----
+
+* Nilgun Kulan, PhD, `Development and Application of Labrador Sea Climatologies <https://doi.org/10.7939/r3-0c9f-rf51>`_
+
+
+2006
+----
+
+2005
+----
+
+* Duo Yang, PhD, `Impact of anomalous surface forcing on the sub-polar North Atlantic: Water mass formation and circulation <https://doi.org/10.7939/r3-hj6d-fs71>`_
+
+* Daniel Deacu, PhD, `Contributions to ocean and sea ice modelling with application to the modelling of the sub-polar North Atlantic Ocean <https://doi.org/10.7939/r3-8yqz-dd68>`_
+
+* Jennifer Jackson, MSc, An examination of horizontal advection and the causes of mixed layer variability in the northeast Pacific Ocean from 2001-05 using Argo data and the General Ocean Turbulence Model
+
+
+2004
+----
+
+* Michelle Li, MSc, Investigation of Mixed Layer Depths along Line P and throughout the Gulf of Alaska using Historical Data and Argo Floats
+
+2003
+----
+
+* Mark Cheeseman, MSc, A Partial Cell Topographic Representation in a Model of the Sub-Polar North Atlantic
