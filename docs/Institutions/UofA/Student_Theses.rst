@@ -15,7 +15,9 @@ A list of PhD and Ms theses from our group.
 2020
 ----
 
-* Natasha Ridenour, PhD, `ON THE CIRCULATION AND FRESHWATER DYNAMICS OF THE HUDSON BAY COMPLEX <https://doi.org/10.7939/r3-7syy-jd18>`_
+* Natasha Ridenour, PhD, `ON THE CIRCULATION AND FRESHWATER DYNAMICS OF THE HUDSON BAY COMPLEX <https://doi.org/10.7939/r3-7syy-jd18>`_>`_
+
+* Ran Tao, Ms, `Modelling the Long-Term Fate and Transport Pathways of Pollutant in the Canadian Arctic <https://doi.org/10.7939/r3-hgg2-5g21
 
 2019
 ----
@@ -51,3 +53,20 @@ A list of PhD and Ms theses from our group.
 ----
 
 * Laura Castro de la Guardia, Ms, `Modeling sea ice in Hudson Bay from a polar bear (Ursus maritimus) perspective <https://doi.org/10.7939/R3G01K>`_
+
+* Qiang Wang, `Numerical modelling of the ocean circulation in the Canadian Arctic Archipelago <https://doi.org/10.7939/R3T66N>`_
+
+* Praveen, Veluthedathekuzhiyil, PhD, `North Atlantic Finite Element Ocean Modeling <https://doi.org/10.7939/R3PZ51V83>`_
+
+
+2011
+----
+
+* Colin More, Ms, `The role of North Atlantic Current water in exchanges across the Greenland-Scotland Ridge from the Nordic Seas <https://doi.org/10.7939/R3034D>`_
+
+2010
+----
+
+* Anna Katavouta, Ms, `Sea ice data assimilation for the Canadian east coast <https://doi.org/10.7939/R3T91S>`_
+
+* Ji Lei, Ms, `Interdecadal Variability along 38°N in the North Atlantic <https://doi.org/10.7939/R32W26>`_
