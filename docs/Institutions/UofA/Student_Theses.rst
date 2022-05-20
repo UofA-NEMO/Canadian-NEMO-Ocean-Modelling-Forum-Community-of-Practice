@@ -9,6 +9,9 @@ A list of PhD and MS thesis from our group
 * Clark Pennelly, PhD, `Modelling Sources of Stratification within the Labrador Sea <https://doi.org/10.7939/r3-2tvx-mj54>`_
 
 * Laura Gillard, PhD, `Modelling the Interconnection of the Ocean and the Greenland Ice Sheet <https://doi.org/10.7939/r3-p634-yg06>`_
+
+* Liam Buchart, Ms, `Sea Ice Modelling in the Pikialasorsuaq: Parameters Sensitivities and Future Prospects <https://doi.org/10.7939/r3-btvk-9316>`_
+
 2020
 ----
 
