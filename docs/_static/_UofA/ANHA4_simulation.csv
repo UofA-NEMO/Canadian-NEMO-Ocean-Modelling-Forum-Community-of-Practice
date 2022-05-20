@@ -30,7 +30,21 @@ ELG022,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/53% liq/sol,5day,N/A,
 ELGISF001,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 46/54% liq/iceshelf(95-105),5day,N/A,N/A,75 levels iceshelf melt,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF001-S
 ELGISF002,3.6,2002-2017,LIM2,GLORYS2v3,CMC GDPS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),5day,N/A,N/A,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
 ELGISF003,3.6,2002-2017,LIM2,GLORYS2v3,DFS,Bamber2018 23/22/25% liq/icb/iceshelf(90-120),5day,N/A,N/A,75 levels iceshelf melt and ICB,no link supplied,/project/6007519/lgillard/ANHA4/ANHA4-ELGISF002-S
-ANHA4,With,Icebergs,,,,,,,,,,
-ANHA4,With,Tides,,,,,,,,,,
+ANHA4,WITH,ICEBERGS,,,,,,,,,,
+ANHA4,WITH,TIDES,,,,,,,,,,
+ENG017,3.6,2002-2018,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber,5day,N/A,N/A,Tidal harmonic every 2 years,/mnt/storage4/nathan/RUNS/ANHA4-ENG017,N/A
+-,Pauls,Myers',Simuations,,,,,,,,,
+EPM022,3.6,2002-2009,LIM2,GLORYS2v3,ERA-Interim,HYPE/AHYPE,5day,N/A,N/A,twin of Arctic HYPE test,/mnt/storage4/yiran/ANHA4runoff/ANHA4-EPM022,N/A
+EPM014,3.6,2002-2019,LIM2,GLORYS2v3,ERA-Interim,DT/Bamber2012,5day,N/A,N/A,tides bling icb 7tracers,/mnt/storage5/myers/NEMO/ANHA4-EPM014,/project/6007519/pmyers/ANHA4/ANHA4-EPM014-S
+EPM018,3.6,2002-2019,LIM2,GLORYS2v3,CMC GDPS,DT/Bamber2012,5day,N/A,N/A,tides bling icb 7tracers,/mnt/storage5/myers/NEMO/ANHA4-EPM018,N/A
+EPM101,3.6,2002-2019,LIM2,GLORYS2v3,CMC GDPS,HydroGFD/B18,5day,N/A,N/A,tides bling icb 7tracers,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM101-S
+EPM102,3.6,2002-2019,LIM2,GLORYS2v3,ERA-Interim,HydroGFD/B18,5day,N/A,N/A,tides bling icb 7tracers,/mnt/storage5/myers/NEMO/ANHA4-EPM102,/project/6007519/pmyers/ANHA4/ANHA4-EPM102-S
+EPM103,3.6,2002-2018,LIM2,GLORYS2v3,ERA5,HydroGFD/B18,5day,N/A,N/A,tides bling icb 7tracers,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM103-S
+EPM104,3.6,2002-2017,LIM2,GLORYS2v3,JRA55-do,HydroGFD/B18,5day,N/A,N/A,tides bling icb 7tracers,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM104-S
+EPM105,3.6,2002-2019,LIM2,GLORYS2v3,CMC GDPS,HydroGFD/B18,5day,N/A,N/A,tide bling icb 7PT fox Kemper test,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM105-S
+EPM106,3.6,2002-,LIM2,GLORYS2v3,ERA-Interim,HydroGFD/B18,5day,N/A,N/A,tide bling icb 7PT fox Kemper test,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM106-S
+EPM107,3.6,2002-2019,LIM2,GLORYS2v3,CMC GDPS,HydroGFD/B18,5day,N/A,N/A,bling icb 7PT NO tides,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM107-S
+EPM108,3.6,2002-2019,LIM2,GLORYS2v3,ERA-interim,HydroGFD/B18,5day,N/A,N/A,bling icb 7PT NO tides,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM108-S
+EPM110,3.6,1958-,LIM2,PHC/kiel,JRA55-do,DT/Bamber2018,5day,N/A,N/A,tides bling icb 7tracers,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM110-S
+EPM111,3.6,1958-,LIM2,PHC/kiel,CORE-IA,DT/Bamber2018,5day,N/A,N/A,tides bling icb 7tracers,no link supplied,/project/6007519/pmyers/ANHA4/ANHA4-EPM111-S
 ANHA4,With,BLING,,,,,,,,,,
-
