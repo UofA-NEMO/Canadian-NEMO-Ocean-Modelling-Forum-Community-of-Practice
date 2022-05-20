@@ -62,18 +62,18 @@ Here is a list of the posters our group has presented at conferences around the 
 
 |
 
-AAM
----
+`Arctrain Annual Meeting <https://arctrain.de/>`_
+-------------------------------------------------
 
-2021
-^^^^
+2021: Isle-aux-Coudres, Quebec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Impact of Runoff Forcing on Ocean Model Simulations in the Pan-Arctic Region; Tahya Weiss-Gibbons <../../_static/_UofA/AAM2021_Poster_Tahya_Weiss-Gibbons.pdf>`_
 
 |
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
------------
+-------------------------------------------
 
 2014: Ottawa, Ontario
 ^^^^^^^^^^^^^^^^^^^^^
