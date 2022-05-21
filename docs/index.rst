@@ -19,7 +19,7 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://calendar.google.com/calendar/embed?src=nemouofa%40gmail.com&ctz=America%2FEdmonton" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> 
+   <iframe width="740" height="500" src="https://calendar.google.com/calendar/embed?src=nemouofa%40gmail.com&ctz=America%2FEdmonton" style="border: 0" frameborder="0" scrolling="no"></iframe>> 
    
 and a document?   
    
