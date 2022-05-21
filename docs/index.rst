@@ -25,6 +25,6 @@ and a document?
    
 .. raw:: html  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgY_LMHSSE_vLM1uN8CngpZabPNKFi6gwmWi8W3dvRHCI46cMxZwqGmV60285gYOKJrrkWaE46jA7K/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgY_LMHSSE_vLM1uN8CngpZabPNKFi6gwmWi8W3dvRHCI46cMxZwqGmV60285gYOKJrrkWaE46jA7K/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
    
 This website is under active development.
