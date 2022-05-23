@@ -1,39 +1,14 @@
 ANHA12
 ======
 
+ANHA12 is the nearly the same as our `ANHA4 <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Institutions/UofA/Configurations/ANHA4/index.html#anha4>`_  but a horizontal resolution at 1/12 degree.
+
 .. figure:: ./ANHA12_horzgrid.png
 
    ANHA12 horizontal grid spacing
 
-.. list-table:: ANHA12 Simulation list
-   :widths: 5 5 5 5 5 5 5 5 5 5 5 20 22
-   :header-rows: 1
+ANHA12 requires much more computing resources than ANHA4, thus only a few simulations have been carried out. We list them below:
 
-   * - Simulation Name
-     - NEMO Version
-     - Integration Period
-     - Sea Ice Model
-     - IC/OBC
-     - Atmospheric Forcing
-     - Runoff Product
-     - Output frequency
-     - Special Notes
-     - Local Output Location
-     - HPC output Location
-   * - ANHA12-EXH006
-     - NEMO 3.4
-     - 2002-2018
-     - LIM2
-     - GLORYS2V3
-     - CGRF
-     - Monthly w/ Greenland melt
-     - 5 day average
-     - Second ANHA12 run
-     - local: /mnt/storage3/xhu/NEMO/ANHA12-EXH006
-     - graham: /project/6007519/ANHA/ANHA12-EXH006-S
+   <iframe width="740" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpBSqIbq8np8TladN9wRxKWaZDGLDfttz7oBASybI6lD-E0Kg_hXdQAWqfVic91WVjlqhR0qUvqQR8/pubhtml?gid=507064585&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
-
-
-
-done
