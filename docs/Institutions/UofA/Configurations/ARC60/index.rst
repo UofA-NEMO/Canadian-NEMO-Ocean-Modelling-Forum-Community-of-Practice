@@ -1,11 +1,14 @@
 ARC60
 =====
 
+ARC60 is our most recent high-resolution configuration, our first non-nested 1/60 configuration. This configuration uses the same 50 vertical levels we have used across most of our other configurations. ARC60 features tides, 3 passive tracers, and both liquid runoff and solid ice discharge from Greenland.
 
-Pan-Arctic at 1/60 of a degree of horizontal resolution:
+
 
 .. figure:: ./grid_ARC60.png
 
    ARC60's horizontal grid spacing
 
-done
+.. raw:: html
+
+   <iframe width="740" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpBSqIbq8np8TladN9wRxKWaZDGLDfttz7oBASybI6lD-E0Kg_hXdQAWqfVic91WVjlqhR0qUvqQR8/pubhtml?gid=1122866581&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
