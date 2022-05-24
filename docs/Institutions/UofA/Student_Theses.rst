@@ -1,5 +1,5 @@
-Thesis
-======
+Student Theses
+==============
 
 A list of PhD and MSc theses from our group.
 
