@@ -17,19 +17,19 @@ A Walkthough
 
 1. Each instruction needs to create a GitHub account and activate it accordingly. You will need to set up git on your local system- I cannot explain it here since each system may vary, but it entail setting up your git user name and email to the local system. 
 
-2. Request collaborate access to our repository- email pennelly AT ualberta.ca . Let me know your GitHub user name as well as institution so I can send an invite to collaborate (as well as a passcode to push data)
+2. Request collaborate access to our repository- email pennelly AT ualberta.ca and/or pmyers AT ualberta.ca . Let me know your GitHub user name as well as institution so I can send an invite to collaborate (as well as a passcode to push data) and setup some backend material.
 
 3. Once the request has been accepted, you should be able to clone our repository. Navigate to a part of your local system you want the repository saved to, then issue
 
 * git clone https://github.com/UofA-NEMO/Canadian-NEMO-Ocean-Modelling-Forum-Commuity-of-Practice.git 
 
-4. This may take a few moments depending on how much figures/data we put into the repository.
+4. This may take a few moments depending on how much figures/data are put into the repository.
 
 5. A new directory called 'Canadian-NEMO-Ocean-Modelling-Forum-Commuity-of-Practice' should now appear within your directory. Go inside this
 
-6. Within this directory, there are a few files which should not be edited. head inside the 'docs' directory.
+6. Within this directory, there are a few files which should not be edited. Head inside the 'docs' directory.
 
-7. There are more files (to not be touched) as well as some directories here. Of note are '_static' and 'Institutions'. The admin should have created a directory within each of these that match your institution. See if those exist- I'll use 'MyInstitution' as an example:
+7. There are more files (please do not touch) as well as some directories here. Of note are '_static' and 'Institutions'. The admin should have created a directory within each of these that match your institution. See if those exist and investigate each- I'll use 'MyInstitution' as an example:
 
 * cd Institutions/MyInstitution/
 
@@ -39,22 +39,23 @@ A Walkthough
 
 * cd _static
 
-10. Your second and final institutional directory resides here, as _MyInstitution. Here is where some documents (.cdv and .pdf at the least) reside. For some reason, figure images can be saved and viewed fine within normal directories, but .pdf and .csv need to be saved and called from this directory. 
+10. Your second and final institutional directory resides here, as _MyInstitution. Here is where some documents (.csv and .pdf at the least) reside. For some reason, figure images can be saved and viewed fine within normal directories, but .pdf and .csv need to be saved and called from this directory. 
 
+|
 Your First Push and Pull
 ........................
 
-This might be your first time working with git commands, so this section will briefly describe how things work. Open up your local storage command line and head to your /Institutions/{MyInstitution}/ directory. Create a new directory, lets just call it 'Configurations' since many NEMO users have set up their own configurations
+This might be your first time working with git commands, so this section will briefly describe how things work. Open up your local storage command line and head to your /Institutions/{MyInstitution}/ directory. Create a new directory, lets just call it 'Configurations' since many NEMO users have set up their own configurations and want to share/document them. I'll document how things appear on a Linux OS, windows/mac may have some differences
 
 * mkdir Configurations
 
 * cd Configurations/
 
-Each new directory also needs an index.rst file so the website understands how to connect together. Use whatever program you want to make index.rst. Include a line of text "Configurations". Save and exit
+Each new directory also needs an index.rst file so the website understands how to connect together. Use whatever program you want to make index.rst. Include a line of text "Configurations". Save and exit.
 
 Head back one directory into {MyInstitution}
 
-It is now time to add the files/directories to git. First we let git know what should be included, this is a 'git add'
+It is now time to add the files/directories to git. First we let git know what should be included, this is a 'git add'. We will use an asterix to add everything within the directory:
 
 * git add Configurations/*
 
@@ -66,12 +67,70 @@ Now git knows we plan to submit a push. Before we do that, lets make sure everyt
 
 * git pull
 
-Issues occur when the files you have differ from that at the source, particularly if you are trying to update a file that is different. Keeping up to date via 'git pull' really helps prevent these problems.
+Issues occur when the files you have differ from that at the source, particularly if you are trying to update a file that is different. Keeping up to date via 'git pull' really helps prevent these problems. 
 
 Now your current files are the same as the repository, minus the new ones you are about to push. Lets do that:
 
 * git push
 
-Git will then ask for your user name as well as the passcode the admin should have supplied. Enter those and you should get a successful push message
+Git will then ask for your user name as well as the passcode the admin should have supplied. Enter those and you should get a successful push message. 
 
-If you head to your github page, you can see the new file and directory. Here you can further modify things and save/commit files much quicker than using the terminal. However, you cannot make new directories from the github page, only from the terminal connection. Use the above method to create new directories. You can also copy files into these directories and 'git add' them as well.
+If you head to the github page, you can see the new file and directory. Here you can further modify things and save/commit files much quicker than using the terminal. However, you cannot make new directories from the github page (but you can make new files), only from the terminal/GUI connection. Use the above method to create new directories. You can also copy files into these directories and 'git add' them as well.
+
+|
+Some samples
+............
+
+I spent a lot of time sorting out how to illustrate various aspects on this site. I'll try to make all of our lives easier and document it here so you do not have to repeat my frustrations. One major thing I learned is that leading whitespace is important, I'll explain shortly.
+
+Figures
+^^^^^^^
+
+Displaying figures isn't that tricky. Simply put the figure file into the directory where you want it to be shown. For example, our eORCA025 data figure should reside within the Configurations/eORCA025/ directory. Copy it into this position, git add, git commit, git pull, and git push the figure. Now that it appears on our github page we can call it inside the index.rst file (or {OtherRstFile}.rst, they can be called something else) using the following code:
+
+.. Note::
+   -
+   -.. figure:: ./eORCA025_data_Figure.png
+   -   eORCA025 data figure caption text
+   - 
+   
+The empty leading and trailing lines appear important, as well as the three empty spaces that indent the figure caption test, the empty lines associate this with the thing we are trying to do (in this case a figure)
+
+Embedded content
+^^^^^^^^^^^^^^^^
+
+The internet is great and a lot of content can be produced and embedded elsewhere. Good examples of this that we have used on this website include but are not limited to Google Documents, YouTube videos, Google Calendar, etc. The process to add each of these is functionally the same- we call an HTML object which allows itself to be embedded. And since the object is hosted outside of our GitHub page, you do not need to push a new file like we did with the figure above. The .rst code looks sort of like the following for a youtube video:
+
+.. Note::
+   -
+   -.. raw:: html
+   -   <iframe width="740" height="200" src="EMBEDDED WEBSITE URL;single=true&amp;widget=true&amp;headers=false"></iframe>
+   -
+Embedding other objects likely will have text that differs, but the use of ".. raw:: html" should stay the same. The easiest way is to find each object's embed code (often found if there is a 'share'/publish button), and copy that. You can modify the width/height so it displays the size you are interested in.
+
+Tables
+^^^^^^
+
+Tables are tricky. I've checked out two different paths. One used a google sheet with the embed method above. This lets us modify the table on the fly and have it updated relatively quickly on the website. The other method was using a .csv file you need to push to github. Once on GitHub, you can edit the csv file, but the csv reader isn't spectacular. In my opinion, the google sheets method is far easier and more friendly. For that, just 'publish' your sheet so you can get the embed code, and use that with the technique above.
+
+As for the csv reader, you need to copy your .csv file into your _static/_MyInstitution/ directory. Git add, git commit, git pull, and git push it to github. Then on your .rst file where you want the table hosted, use the following
+
+.. Note::
+   -
+   -.. csv-table:: Table Title
+   -:file: FileName
+   -:widths: 30, 70
+   -:header-rows: 1
+   
+This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience.
+
+PDFs
+^^^^
+
+Hosting PDFs is also possible, although I've only figure out how to make them viewable on their own site, not popup/displayed as an embeded document. Add the PDF to your _static/_MyInstitution/ directory, git add, git commit, git pull, and git push it to github. In the .rst file where you want the PDF to be viewed, make a link:
+
+.. Note::
+
+   -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
+
+done
