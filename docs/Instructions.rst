@@ -161,4 +161,64 @@ Hosting a powerpoint presentation works the same as PDFs above: the files need t
    `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
 
 
+Table of Contents
+^^^^^^^^^^^^^^^^^
+
+A table of contents is rather nice to show your viewers the structure of your page. It is pretty simple too, each table of contents includes directories and/or other .rst files to list. For example, the University of Alberta's main page had a table of contents that looked like this
+
+.. code-block:: RST
+   :linenos:
+   
+   .. toctree::
+   :maxdepth: 1
+   
+   Configurations/index
+   Model_Development/index
+   Datasets/index
+   Lab_Members/index
+   Publications
+   Projects/index
+   Documents/index
+   Posters
+   Presentations
+   Student_Theses
+   
+Where Configurations, Model_development, Datasets, Lab_members, Projects, and Documents all had their own directory with their associated index.rst file. Publications, Posters, Presentations, and Student_theses all were individual .rst files (i.e. Publications.rst) within the current directory. The maxdepth of 1 indicates that we only wanted to show the first level of these .RST files. Increasing that to a 2 would then start to list the first chapter in each of the above: Configurations would then have a chapter of eORCA025, ANHA4, LAB60, and so forth. Showing multiple levels can be useful in some situations, it just was a bit lengthy for our page and thus why we limited it to 1.
+
+
+Empty Lines
+^^^^^^^^^^^
+
+Sometime you just want to add an empty line for effect, this requires the | to be placed on a line. Each | will add a single empty line
+
+Chapter/Subchapters
+^^^^^^^^^^^^^^^^^^^
+
+You may notice that these chaptes and subchapters get indicated within the table of contents on the left side of the page. There is a certain text that must be included to indicate a Chapter (or lower ranked chapter):
+
+.. code-block:: RST
+   :linenos:
+   
+   Main Subject 1
+   ==============
+   Chapter 1.1
+   ***********
+   Sub Chapter 1.1.1
+   =================
+   etc. 1.1.1.1
+   ............
+   etc. 1.1.1.1.1
+   ^^^^^^^^^^^^^^
+   
+   
+You can skip the order, for example this page uses ====== for the main subject and then ^^^^ for the chapters. Note that the indicator text must be the same length as the chapter text it is trying to indicate. Using these indicators with the table of contents can be tricky, you may end up displaying more of the table of contents tree than you would like, try using lower level indicators if that is the case.
+
+
+
+Useful Resources
+^^^^^^^^^^^^^^^^
+
+`Some samples <https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/demo.html>`_ to see what you can do. To learn how to do it, click 'edit on GitHub' at the top right of the page, then click "Raw" on the right side to see the actual text that goes into producing that website.
+
+`Another great source <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html>`_ , This site does a bit better job showing how to build certain things, like the table of contents or a table, since they use code blocks so you do not need to use the 'edit on github' method like the above.
 
