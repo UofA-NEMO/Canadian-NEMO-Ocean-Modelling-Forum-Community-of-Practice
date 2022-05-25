@@ -89,7 +89,7 @@ Figures
 Displaying figures isn't that tricky. Simply put the figure file into the directory where you want it to be shown. For example, our eORCA025 data figure should reside within the Configurations/eORCA025/ directory. Copy it into this position, git add, git commit, git pull, and git push the figure. Now that it appears on our github page we can call it inside the index.rst file (or {OtherRstFile}.rst, they can be called something else) using the following code:
 
 .. code-block:: RST
-   
+   :linenos:
    .. figure:: ./eORCA025_data_Figure.png
       eORCA025 data figure caption text
    
@@ -101,11 +101,12 @@ Embedded content
 
 The internet is great and a lot of content can be produced and embedded elsewhere. Good examples of this that we have used on this website include but are not limited to Google Documents, YouTube videos, Google Calendar, etc. The process to add each of these is functionally the same- we call an HTML object which allows itself to be embedded. And since the object is hosted outside of our GitHub page, you do not need to push a new file like we did with the figure above. The .rst code looks sort of like the following for a youtube video:
 
-.. Note::
-   -
-   -.. raw:: html
-   -   <iframe width="740" height="200" src="EMBEDDED WEBSITE URL;single=true&amp;widget=true&amp;headers=false"></iframe>
-   -
+.. code-block:: RST
+   :linenos:
+   
+   .. raw:: html
+      <iframe width="740" height="200" src="EMBEDDED WEBSITE URL;single=true&amp;widget=true&amp;headers=false"></iframe>
+   
 Embedding other objects likely will have text that differs, but the use of ".. raw:: html" should stay the same. The easiest way is to find each object's embed code (often found if there is a 'share'/publish button), and copy that. You can modify the width/height so it displays the size you are interested in.
 
 Tables
@@ -115,22 +116,42 @@ Tables are tricky. I've checked out two different paths. One used a google sheet
 
 As for the csv reader, you need to copy your .csv file into your _static/_MyInstitution/ directory. Git add, git commit, git pull, and git push it to github. Then on your .rst file where you want the table hosted, use the following
 
-.. Note::
-   -
-   -.. csv-table:: Table Title
-   -:file: FileName
-   -:widths: 30, 70
-   -:header-rows: 1
+.. code-block:: RST
+   :linenos:
+   .. csv-table:: Table Title
+   :file: FileName
+   :widths: 30, 70
+   :header-rows: 1
    
 This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience.
+
+Weblinks
+^^^^^^^^
+
+Setting up links is relatively straitforward. Include something along the lines of the following withing your .rst file:
+
+.. code-block:: RST
+   :linenos:
+   -`Sample Link Text <FULL URL HERE>`_
+
 
 PDFs
 ^^^^
 
 Hosting PDFs is also possible, although I've only figure out how to make them viewable on their own site, not popup/displayed as an embeded document. Add the PDF to your _static/_MyInstitution/ directory, git add, git commit, git pull, and git push it to github. In the .rst file where you want the PDF to be viewed, make a link:
 
-.. Note::
-
+.. code-block:: RST
+   :linenos:
    -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
 
-done
+PowerPoint
+^^^^^^^^^^
+
+Hosting a powerpoint presentation works the same as PDFs above: the files need to be pushed to github from your _static/_MyInstitution/ directory. Just as I was not able to figure out how to make the PDF embedded in the site, I could not figure the same for a powerpoint presentation. Instead we use a link to download the presentation to your computer/ internet browser. Set your .rst file to include a weblink to where the files are found:
+
+.. code-block:: RST
+   :linenos:
+   -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
+
+
+
