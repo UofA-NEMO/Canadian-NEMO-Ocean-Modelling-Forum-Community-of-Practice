@@ -90,6 +90,7 @@ Displaying figures isn't that tricky. Simply put the figure file into the direct
 
 .. code-block:: RST
    :linenos:
+   
    .. figure:: ./eORCA025_data_Figure.png
       eORCA025 data figure caption text
    
@@ -118,6 +119,7 @@ As for the csv reader, you need to copy your .csv file into your _static/_MyInst
 
 .. code-block:: RST
    :linenos:
+   
    .. csv-table:: Table Title
    :file: FileName
    :widths: 30, 70
@@ -132,6 +134,7 @@ Setting up links is relatively straitforward. Include something along the lines 
 
 .. code-block:: RST
    :linenos:
+   
    -`Sample Link Text <FULL URL HERE>`_
 
 
@@ -142,6 +145,7 @@ Hosting PDFs is also possible, although I've only figure out how to make them vi
 
 .. code-block:: RST
    :linenos:
+   
    -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
 
 PowerPoint
@@ -151,6 +155,7 @@ Hosting a powerpoint presentation works the same as PDFs above: the files need t
 
 .. code-block:: RST
    :linenos:
+   
    -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
 
 
