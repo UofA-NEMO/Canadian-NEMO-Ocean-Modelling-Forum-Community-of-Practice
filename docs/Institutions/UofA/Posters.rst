@@ -15,7 +15,7 @@ Here is a list of the posters our group has presented at conferences around the 
 
 1
 
-* `Sub-Mesoscale Modelling of the Labrador Sea; Clark Pennelly <../../_static/_UofA/CMOS_2018_Pennelly_LAB60.pdf>`_
+* `Sub-Mesoscale Modelling of the Labrador Sea; Clark Pennelly <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_UofA/CMOS_2018_Pennelly_LAB60.pdf>`_
 
 2
 
