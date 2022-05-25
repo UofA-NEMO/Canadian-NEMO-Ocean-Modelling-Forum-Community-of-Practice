@@ -121,9 +121,9 @@ As for the csv reader, you need to copy your .csv file into your _static/_MyInst
    :linenos:
    
    .. csv-table:: Table Title
-   :file: FileName
-   :widths: 30, 70
-   :header-rows: 1
+      :file: FileName
+      :widths: 30, 70
+      :header-rows: 1
    
 This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience.
 
