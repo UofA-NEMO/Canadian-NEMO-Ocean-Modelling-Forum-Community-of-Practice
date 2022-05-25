@@ -125,7 +125,7 @@ As for the csv reader, you need to copy your .csv file into your _static/_MyInst
       :widths: 30, 70
       :header-rows: 1
    
-This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience.
+This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience. The filename does not require the full path since csv-table reads files contained within the _source directory as outline within our config.py code in /docs. The admin should have added your directory to be included, contact them if this method fails you as other media will likely also fail (PDF/PPT).
 
 Weblinks
 ^^^^^^^^
@@ -135,7 +135,9 @@ Setting up links is relatively straitforward. Include something along the lines 
 .. code-block:: RST
    :linenos:
    
-   -`Sample Link Text <FULL URL HERE>`_
+   `Sample Link Text <FULL URL HERE>`_
+   Example:
+   `NEMO website <https://www.nemo-ocean.eu/>`_
 
 
 PDFs
@@ -146,7 +148,7 @@ Hosting PDFs is also possible, although I've only figure out how to make them vi
 .. code-block:: RST
    :linenos:
    
-   -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
+   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
 
 PowerPoint
 ^^^^^^^^^^
@@ -156,7 +158,7 @@ Hosting a powerpoint presentation works the same as PDFs above: the files need t
 .. code-block:: RST
    :linenos:
    
-   -`Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
+   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
 
 
 
