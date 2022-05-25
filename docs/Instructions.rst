@@ -88,10 +88,12 @@ Figures
 
 Displaying figures isn't that tricky. Simply put the figure file into the directory where you want it to be shown. For example, our eORCA025 data figure should reside within the Configurations/eORCA025/ directory. Copy it into this position, git add, git commit, git pull, and git push the figure. Now that it appears on our github page we can call it inside the index.rst file (or {OtherRstFile}.rst, they can be called something else) using the following code:
 
-.. Note::
-   -.. figure:: ./eORCA025_data_Figure.png
-   -   eORCA025 data figure caption text
+.. code-block:: RST
    
+   .. figure:: ./eORCA025_data_Figure.png
+      eORCA025 data figure caption text
+   
+
 An empty trailing and leading line around the figure block appears important, as well as the three empty spaces that indent the figure caption test, the empty lines associate this with the thing we are trying to do (in this case a figure)
 
 Embedded content
