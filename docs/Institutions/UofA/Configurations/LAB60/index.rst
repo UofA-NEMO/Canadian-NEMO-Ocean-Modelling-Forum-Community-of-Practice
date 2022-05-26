@@ -5,7 +5,7 @@ The ANHA4-SPG12-LAB60 configuration (LAB60 for short) features a regional ANHA4 
 
 The full documentation for this configuration can be found within `Geoscientific Model Development <https://doi.org/10.5194/gmd-13-4959-2020>`_.
 
-We have thre LAB60 simulations, `click here <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Institutions/UofA/Model_Development/AGRIF/index.html#agrif>`_ to see them within our AGRIF list. All our LAB60 simulations use the same base setup including horizontal/vertical grid spacing:
+We have three LAB60 simulations, `click here <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Institutions/UofA/Model_Development/AGRIF/index.html#agrif>`_ to see them within our AGRIF list. All our LAB60 simulations use the same base setup including horizontal/vertical grid spacing:
 
 .. figure:: ./LAB60_horz_vert_grid.png
 
