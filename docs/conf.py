@@ -23,10 +23,6 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 
-sphinx:
-  config:
-    html_baseurl: 'https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/index.html/'
-
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
