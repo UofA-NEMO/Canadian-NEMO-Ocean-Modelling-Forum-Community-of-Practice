@@ -23,6 +23,13 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+
+sphinx:
+  config:
+    html_baseurl: 'https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/index.html/'
+  extra_extensions:
+    - sphinx_sitemap
+
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
