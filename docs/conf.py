@@ -3,8 +3,7 @@
 ##-- Project information
 
 project = 'Canadian NEMO Ocean Modelling Forum Community of Practice'
-#copyright = '2021, Graziella'
-#author = 'Graziella'
+
 
 release = '0.1'
 version = '0.1.0'
@@ -27,8 +26,6 @@ intersphinx_mapping = {
 sphinx:
   config:
     html_baseurl: 'https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/index.html/'
-  extra_extensions:
-    - sphinx_sitemap
 
 intersphinx_disabled_domains = ['std']
 
