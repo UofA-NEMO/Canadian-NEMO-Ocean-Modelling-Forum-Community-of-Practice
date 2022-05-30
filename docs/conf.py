@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['_static', '_static/_UofA', '_static/_UManitoba']
 
-html_extra_path = ["_html"]
+html_extra_path = ["_static/_html"]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
