@@ -98,3 +98,42 @@ Voelker et al., `Generation of oceanic internal gravity waves by a cyclonic surf
 2018
 ----
 
+Grivault et al., `Impact of the Surface Stress on the Volume and Freshwater Transport Through the Canadian Arctic Archipelago From a High-Resolution Numerical Simulation <https://doi.org/10.1029/2018JC013984>`_, Journal of Geophysical Research: Oceans
+
+Dmitrenko et al., `Wind-forced depth-dependent currents over the eastern Beaufort Sea continental slope: Implications for Pacific water transport <https://doi.org/10.1525/elementa.321>`_, Elemnta Science of the Anthropocene
+
+Crawford et al., `The Aftermath of Petermann Glacier Calving Events (2008–2012): Ice Island Size Distributions and Meltwater Dispersal <https://doi.org/10.1029/2018JC014388>`_, Journal of Geophysical Research: Oceans
+
+Hu et al., `Thermodynamic and dynamic ice thickness contributions in the Canadian Arctic Archipelago in NEMO-LIM2 numerical simulations <https://doi.org/10.5194/tc-12-1233-2018>`_, The Cryosphere
+
+Marson et al., `Using Vertically Integrated Ocean Fields to Characterize
+Greenland Icebergs’ Distribution and Lifetime <https://doi.org/10.1029/2018GL077676>`_, Geophysical Research Letters
+
+Mol et al., `Inorganic carbon fluxes on the Mackenzie Shelf of the Beaufort Sea <https://doi.org/10.5194/bg-15-1011-2018>`_, Biogeosciences
+
+Anrea Scott et al., `Assimilation of Argo Temperature and Salinity Profiles Using a Bias-Aware EnOI Scheme for the Labrador Sea <http://dx.doi.org/10.1175/JTECH-D-17-0222.1>`_, Journal of Atmospheric and Oceanic Technology
+
+|
+2017
+----
+
+Castro de la Guardia et al., `Sea ice cycle in western Hudson Bay, Canada, froma polar bear perspective <https://doi.org/10.3354/meps11964>`_, Marine Ecology Progress Series
+
+Courtois et al., `Mixed layer depth calculation in deep convection regions in ocean numerical models <https://doi.org/10.1016/j.ocemod.2017.10.007>`_, Ocean Modelling
+
+Grivault et al., `Evolution of Baffin Bay Water Masses and Transports in a Numerical Sensitivity Experiment under Enhanced Greenland Melt <https://doi.org/10.1080/07055900.2017.1333950>`_, Atmosphere-Ocean
+
+Hughes et al., `Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago <https://doi.org/10.1002/2016JC012235>`_, Journal of Geophysical Research: Oceans
+
+Lozier et al., `Overturning in the Subpolar North Atlantic Program: A New International Ocean Observing System <https://doi.org/10.1175/BAMS-D-16-0057.1>`_, Bulletin of the American Meteorological Society
+
+Marson et al., `Cascading off the West Greenland Shelf: A numerical perspective <https://doi.org/10.1002/2017JC012801>`_, Journal of Geophysical Research: Oceans
+
+Müller et al., `Temperature flux carried by individual eddies across 47°N in the Atlantic Ocean
+<https://doi.org/10.1002/2016JC012175>`_, Journal of Geophysical Research: Oceans
+
+Saenko et al, `Response of the North Atlantic dynamic sea level and circulation to Greenland meltwater and climate change in an eddy‐permitting ocean model <https://doi.org/10.1007/s00382-016-3495-7>`_, Climate Synamics
+
+|
+2016
+----
