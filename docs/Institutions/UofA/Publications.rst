@@ -65,33 +65,33 @@ Yu et al., `Modeling dissolved and particular 230TH in the Canada Basin: Implica
 
 Castro de la Guardia et al., `Assessing the Role of High-Frequency Winds and Sea Ice Loss on Arctic Phytoplankton Blooms in an Ice-Ocean-Biogeochemical Model <https://doi.org/10.1029/2018JG004869>`_, Journal of Geophysical Sciences: Biogeosciences
 
-Colombo et al., `Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program <https://doi.org/10.1021/acsearthspacechem.9b00083> `_, American Chemical Society Earth Space Chemisty
+Colombo et al., `Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program <https://doi.org/10.1021/acsearthspacechem.9b00083>`_, American Chemical Society Earth Space Chemisty
 
-Dmitrenko et al., `Variability of the Pacific-Derived Arctic Water Over the Southeastern Wandel Sea Shelf (Northeast Greenland) in 2015–2016 <https://doi.org/10.1029/2018JC014567> `_, Journal of Geophysical Research: Oceans.
+Dmitrenko et al., `Variability of the Pacific-Derived Arctic Water Over the Southeastern Wandel Sea Shelf (Northeast Greenland) in 2015–2016 <https://doi.org/10.1029/2018JC014567>`_, Journal of Geophysical Research: Oceans.
 
-Feucher et al., `Labrador Sea Water Formation Rate and Its Impact on the Local Meridional Overturning Circulation <https://doi.org/10.1029/2019JC015065> `_, Journal of Geophysical Research: Oceans
+Feucher et al., `Labrador Sea Water Formation Rate and Its Impact on the Local Meridional Overturning Circulation <https://doi.org/10.1029/2019JC015065>`_, Journal of Geophysical Research: Oceans
 
 Garcia-Quintana et al., `Sensitivity of Labrador Sea Water Formation to Changes in Model Resolution, Atmospheric Forcing, and Freshwater Input <https://doi.org/10.1029/2018JC014459> `_, Journal of Geophysical Research: Oceans
 
-Hayashida et al., `CSIB v1 (Canadian Sea-ice Biogeochemistry): a sea-ice biogeochemical model for the NEMO community ocean modelling framework <https://doi.org/10.5194/gmd-12-1965-2019> `_, Geoscientific Model Development
+Hayashida et al., `CSIB v1 (Canadian Sea-ice Biogeochemistry): a sea-ice biogeochemical model for the NEMO community ocean modelling framework <https://doi.org/10.5194/gmd-12-1965-2019>`_, Geoscientific Model Development
 
-Hu et al., `Pacific Water Pathway in the Arctic Ocean and Beaufort Gyre in Two Simulations With Different Horizontal Resolutions <https://doi.org/10.1029/2019JC015111> `_, Journal of Geophysical Research: Oceans
+Hu et al., `Pacific Water Pathway in the Arctic Ocean and Beaufort Gyre in Two Simulations With Different Horizontal Resolutions <https://doi.org/10.1029/2019JC015111>`_, Journal of Geophysical Research: Oceans
 
-JafariKhasragh et al., `Modelling Sea Surface Temperature (SST) in the Hudson Bay Complex Using Bulk Heat Flux Parameterization: Sensitivity to Atmospheric Forcing, and Model Resolution <https://doi.org/10.1080/07055900.2019.1605974> `_, Atmosphere-Ocean
+JafariKhasragh et al., `Modelling Sea Surface Temperature (SST) in the Hudson Bay Complex Using Bulk Heat Flux Parameterization: Sensitivity to Atmospheric Forcing, and Model Resolution <https://doi.org/10.1080/07055900.2019.1605974>`_, Atmosphere-Ocean
 
-Marchese et al., `Regional differences and inter-annual variability in the timing of surface phytoplankton blooms in the Labrador Sea <https://doi.org/10.1016/j.ecolind.2018.08.053> `_, Ecological Indicators
+Marchese et al., `Regional differences and inter-annual variability in the timing of surface phytoplankton blooms in the Labrador Sea <https://doi.org/10.1016/j.ecolind.2018.08.053>`_, Ecological Indicators
 
-Muilwijk et al., `Arctic Ocean Response to Greenland Sea Wind Anomalies in a Suite of Model Simulations <https://doi.org/10.1029/2019JC015101> `_, Journal of Geophysical Research: Oceans
+Muilwijk et al., `Arctic Ocean Response to Greenland Sea Wind Anomalies in a Suite of Model Simulations <https://doi.org/10.1029/2019JC015101>`_, Journal of Geophysical Research: Oceans
 
-Müller et al., `Heat and Freshwater Transport by Mesoscale Eddies in the Southern Subpolar North Atlantic <https://doi.org/10.1029/2018JC014697> `_, Journal of Geophysical Research: Oceans
+Müller et al., `Heat and Freshwater Transport by Mesoscale Eddies in the Southern Subpolar North Atlantic <https://doi.org/10.1029/2018JC014697>`_, Journal of Geophysical Research: Oceans
 
-Pennelly et al., `Cross-Isobath Freshwater Exchange Within the North Atlantic Subpolar Gyre <https://doi.org/10.1029/2019JC015144> `_, Journal of Geophysical Research: Oceans
+Pennelly et al., `Cross-Isobath Freshwater Exchange Within the North Atlantic Subpolar Gyre <https://doi.org/10.1029/2019JC015144>`_, Journal of Geophysical Research: Oceans
 
-Ridenour et al., `Revisiting the Circulation of Hudson Bay: Evidence for a Seasonal Pattern <https://doi.org/10.1029/2019GL082344> `_, Geophysical Research Letters
+Ridenour et al., `Revisiting the Circulation of Hudson Bay: Evidence for a Seasonal Pattern <https://doi.org/10.1029/2019GL082344>`_, Geophysical Research Letters
 
-Ridenour et al., `Sensitivity of freshwater dynamics to ocean model resolution and river discharge forcing in the Hudson Bay Complex <https://doi.org/10.1016/j.jmarsys.2019.04.002> `_, Journal of Marine Systems
+Ridenour et al., `Sensitivity of freshwater dynamics to ocean model resolution and river discharge forcing in the Hudson Bay Complex <https://doi.org/10.1016/j.jmarsys.2019.04.002>`_, Journal of Marine Systems
 
-Voelker et al., `Generation of oceanic internal gravity waves by a cyclonic surface stress disturbance <https://doi.org/10.1016/j.dynatmoce.2019.03.005>, Dynamics of Atmospheres and Oceans
+Voelker et al., `Generation of oceanic internal gravity waves by a cyclonic surface stress disturbance <https://doi.org/10.1016/j.dynatmoce.2019.03.005>`_, Dynamics of Atmospheres and Oceans
 
 
 |
