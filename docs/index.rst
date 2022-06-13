@@ -7,6 +7,8 @@ Welcome to the NEMO Ocean modelling forum community of practice. The goals of th
 Contents
 ========
 
+Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
+
 .. toctree::
    :maxdepth: 1
    
@@ -20,7 +22,5 @@ Upcoming Events:
 
    <iframe width="740" height="500" src="https://calendar.google.com/calendar/embed?src=nemouofa%40gmail.com&ctz=America%2FEdmonton" style="border: 0" frameborder="0" scrolling="no"></iframe>> 
    
-
-Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
 This website is under active development.
