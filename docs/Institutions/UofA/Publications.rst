@@ -137,3 +137,19 @@ Saenko et al, `Response of the North Atlantic dynamic sea level and circulation 
 |
 2016
 ----
+
+Dukhovskoy et al., `Greenland freshwater pathways in the sub-Arctic Seas from model experiments with passive tracers <https://doi.org/10.1002/2015JC011290>`_, Journal of Geophysical Research: Oceans
+
+Gillard et al., `Meltwater pathways from marine terminating glaciers of the Greenland ice sheet <https://doi.org/10.1002/2016GL070969>`_, Geophysical Research Letters
+
+Yang et al., `Recent increases in Arctic freshwater flux affects Labrador Sea convection and Atlantic overturning circulation <https://doi.org/10.1038/ncomms10525>`_, Nature Communications
+
+|
+2015
+----
+
+Castro de la Guardia et al., `Potential positive feedback between Greenland Ice Sheet melt and Baffin Bay heat content on the west Greenland shelf <https://doi.org/10.1002/2015GL064626>`_, Geophysical Research Letters
+
+
+
+
