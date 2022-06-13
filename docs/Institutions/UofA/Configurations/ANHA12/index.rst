@@ -1,7 +1,7 @@
 ANHA12
 ======
 
-ANHA12 is the nearly the same as our `ANHA4 <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Institutions/UofA/Configurations/ANHA4/index.html#anha4>`_  but a horizontal resolution at 1/12 degree.
+ANHA12 is the nearly the same as our `ANHA4 <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Institutions/UofA/Configurations/ANHA4/index.html#anha4>`_ configuration, but uses a horizontal resolution of 1/12 degree.
 
 .. figure:: ./ANHA12_horzgrid.png
 
