@@ -150,6 +150,37 @@ Yang et al., `Recent increases in Arctic freshwater flux affects Labrador Sea co
 
 Castro de la Guardia et al., `Potential positive feedback between Greenland Ice Sheet melt and Baffin Bay heat content on the west Greenland shelf <https://doi.org/10.1002/2015GL064626>`_, Geophysical Research Letters
 
+Holdsworth and Myers, `The Influence of High-Frequency Atmospheric Forcing on the Circulation and Deep Convection of the Labrador Sea, <https://doi.org/10.1175/JCLI-D-14-00564.1>`_, Journal of Climate
+
+Saenko et al., `Separating the influence of projected changes in air temperature and wind on patterns of sea level change and ocean heat content <https://doi.org/10.1002/2015JC010928>`_, Journal of Geophysical Research: Oceans
+
+Steiner et al., `Observed trends and climate projections affecting marine ecosystems in the Canadian Arctic <https://doi.org/10.1139/er-2014-0066>`_, Environmental Reviews
+
+|
+2014
+----
+
+Hu et al., `Changes to the Canadian Arctic Archipelago Sea Ice and Freshwater Fluxes in the Twenty-First Century under the Intergovernmental Panel on Climate Change A1B Climate Scenario <https://doi.org/10.1080/07055900.2014.942592>`_, Atmosphere-Ocean
+
+Katavouta and Myers, `Sea-Ice Concentration Multivariate Assimilation for the Canadian East Coast in a Coupled Sea Ice–Ocean Model <https://doi.org/10.1080/07055900.2014.954096>`_, Atmosphere-Ocean
+
+Saenko et al., `Role of Resolved and Parameterized Eddies in the Labrador Sea Balance of Heat and Buoyancy <https://doi.org/10.1175/JPO-D-14-0041.1>`_, Journal of Physical Oceanography
+
+Wallace et al., `A Canadian contribution to an integrated Atlantic ocean observing system (IAOOC) <https://doi.org/10.1109/OCEANS.2014.7003244>`_, IEEE 
+
+|
+2013
+----
+
+Castro de la Guardia et al., `Future sea ice conditions in Western Hudson Bay and consequences for polar bears in the 21st century <https://doi.org/10.1111/gcb.12272>`_, Global Change Biology
+
+Hu and Myers, `A Lagrangian view of Pacific water inflow pathways in the Arctic Ocean during model spin-up <http://dx.doi.org/10.1016/j.ocemod.2013.06.007>`_, Ocean Modelling
+
+Myers and Ribergaard, `Warming of the Polar Water Layer in Disko Bay and Potential Impact on Jakobshavn Isbrae <https://doi.org/10.1175/JPO-D-12-051.1>`_, Journal of Physical Oceanography
+
+Steiner et al., `Climate Change Assessment in the Arctic Basin Part 1: Trends and Projections - A Contribution to the Aquatic Climate Change Adaptation Services Program <https://www.researchgate.net/profile/Diane-Lavoie/publication/255947502_Climate_Change_Assessment_in_the_Arctic_Basin_Part_1_Trends_and_Projections_-_A_Contribution_to_the_Aquatic_Climate_Change_Adaptation_Services_Program/links/02e7e520e29dba6110000000/Climate-Change-Assessment-in-the-Arctic-Basin-Part-1-Trends-and-Projections-A-Contribution-to-the-Aquatic-Climate-Change-Adaptation-Services-Program.pdf>`_, Fisheries and Oceans Canada
 
 
-
+|
+2012
+----
