@@ -56,7 +56,7 @@ Hirschi et al., `The Atlantic Meridional Overturning Circulation in High-Resolut
 Pennelly and Myers, `Introducing LAB60: A 1/60◦ NEMO 3.6 numerical simulation of the Labrador Sea <https://doi.org/10.5194/gmd-13-4959-2020>`_, Geoscientific Model Development
 
 Voelker et al., `Estimates of wind power and radiative near-inertial internal wave flux <https://doi.org/10.1007/s10236-020-01388-y>`_, Ocean Dynamics
-`
+
 Yu et al., `Modeling dissolved and particular 230TH in the Canada Basin: Implications for recent changes in particle flux and intermediate circulation <https://doi.org/10.1029/2019JC015640>`_, Journal of Geophysical Research: Oceans
 
 |
