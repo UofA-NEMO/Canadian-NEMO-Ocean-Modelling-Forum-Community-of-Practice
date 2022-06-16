@@ -184,3 +184,42 @@ Steiner et al., `Climate Change Assessment in the Arctic Basin Part 1: Trends an
 |
 2012
 ----
+
+
+Defosser et al., `Comparing Winter and Summer Simulated Estuarine Circulations in Foxe Basin, Canada, <https://doi.org/10.1080/07055900.2012.693256>`_, Atmosphere-Ocean
+
+Melling et al., `The Arctic Ocean—a Canadian perspective from IPY <https://doi.org/10.1007/s10584-012-0576-4>`_, Climate Change
+
+Myers and Kulan, `Changes in the Deep Western Boundary Current at 53N <http://dx.doi.org/10.1175/JPO-D-11-090.1>`_, Journal of Physical Oceanography
+
+Terwisscha van Scheltinga et al., `Mesh generation in archipelagos <https://doi.org/10.1007/s10236-012-0559-z>`_, Ocean Dynamics
+
+Wang et al., `Flow Constraints on Pathways through the Canadian Arctic Archipelago <https://doi.org/10.1080/07055900.2012.704348>`_, Atmosphere-Ocean
+
+|
+Before 2012
+-----------
+
+Terwissha van Scheltinga et al., 2010, `A finite element sea ice model of the Canadian Arctic Archipelago <https://doi.org/doi:10.1007/s10236-010-0356-5>`_, Ocean Dynamics
+
+Myers and Donnelly, 2008, `Water Mass Transformation and Formation in the Labrador Sea <https://doi.org/10.1175/2007JCLI1722.1>`_, Journal of Climate
+
+Myers et al., 2007, `Interdecadal variability in Labrador Sea precipitation minus evaporation and salinity <https://doi.org/10.1016/j.pocean.2006.06.003>`_, Progress in Oceanography
+
+Myers, 2005, `Impact of freshwater from the Canadian Arctic Archipelago on Labrador Sea Water formation <https://doi.org/10.1029/2004GL022082>`_, Geophysical Research Letters
+ 
+Myers and Deacu, 2004, `Labrador sea freshwater content in a model with a partial cell topographic representation, <https://doi.org/10.1016/S1463-5003(03)00025-8>`_, Ocean Modelling
+ 
+Myers and Haines, 2002, `Stability of the Mediterranean’s thermohaline circulation under modified surface evaporative fluxes <https://doi.org/10.1029/2000JC000550>`_, Journal of Geophysical Research: Oceans
+ 
+Myers, 2002, `Flux-forced simulations of the paleocirculation of the Mediterranean  <https://doi.org/10.1029/2000PA000613>`_, Paleoceanography
+
+Myers, 2002, `SPOM: A regional model of the sub‐polar north Atlantic <https://doi.org/10.3137/ao.400405>`_, Atmosphere-Ocean
+
+Myers and Haines, 2000, `Seasonal and Interannual Variability in a Model of the Mediterranean under Derived Flux Forcing <https://doi.org/10.1175/1520-0485(2000)030%3C1069:SAIVIA%3E2.0.CO;2>`_, Journal of Physical Oceanography
+  
+Myers et al., 1996, `JEBAR, Bottom Pressure Torque, and Gulf Stream Separation
+ <https://doi.org/10.1175/1520-0485(1996)026%3C0671:JBPTAG%3E2.0.CO;2>`_, Journal of Physical Oceanography
+ 
+Myers and Weaver, 1995, `A Diagnostic Barotropic Finite-Element Ocean Circulation Model  <https://doi.org/10.1175/1520-0426(1995)012%3C0511:ADBFEO%3E2.0.CO;2>`_, Journal of Atmospheric and Oceanic Technology
+ 
