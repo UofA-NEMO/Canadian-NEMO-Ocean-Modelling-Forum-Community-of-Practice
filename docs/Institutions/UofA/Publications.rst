@@ -19,11 +19,11 @@ Gou et al., `Seasonal Cycle of the Coastal West Greenland Current System Between
 
 Karami et al., `The role of Arctic gateways on sea ice and circulation in the Arctic and North Atlantic Oceans: a sensitivity study with an ocean‐sea‐ice model <https://doi.org/10.1007/s00382-021-05798-6>`_, Climate Dynamics
 
-Lukovich et al., `A baseline evaluation of atmospheric and river discharge conditions in the Hudson Bay Complex during 2016-2018 <https://doi.org/10.1525/elementa.2020.00126>`_, Elementa Ecience of the Anthropocene 
+Lukovich et al., `A baseline evaluation of atmospheric and river discharge conditions in the Hudson Bay Complex during 2016-2018 <https://doi.org/10.1525/elementa.2020.00126>`_, Elementa Science of the Anthropocene 
 
-Lukovich et al., `A baseline evaluation of oceanographic and sea ice conditions in the Hudson Bay Complex during 2016-2018 <https://doi.org/10.1525/elementa.2020.00128>`_, Elementa Ecience of the Anthropocene
+Lukovich et al., `A baseline evaluation of oceanographic and sea ice conditions in the Hudson Bay Complex during 2016-2018 <https://doi.org/10.1525/elementa.2020.00128>`_, Elementa Science of the Anthropocene
 
-Lukovich et al., `Simulated impacts of relative climate change and river discharge regulation on sea ice and oceanographic conditions in the Hudson Bay Complex <https://doi.org/10.1525/elementa.2020.00127>`_, Elementa Ecience of the Anthropocene
+Lukovich et al., `Simulated impacts of relative climate change and river discharge regulation on sea ice and oceanographic conditions in the Hudson Bay Complex <https://doi.org/10.1525/elementa.2020.00127>`_, Elementa Science of the Anthropocene
 
 Marson et al., `Distinct Ocean Responses to Greenland's Liquid Runoff and Iceberg Melt <https://doi.org/10.1029/2021JC017542>`_, Journal of Geophysical Research: Oceans
 
@@ -47,7 +47,7 @@ Courtois et al., `Kinematic Subduction Rate Of Labrador Sea Water From an Eddy-P
 
 Dmitrenko et al., `Atmospheric vorticity sets the basin-scale circulation in Hudson Bay <https://doi.org/10.1525/elementa.049>`_, Elementa Science of the Anthropocene
 
-Eastwood et al., `Role of River Runoff and Sea Ice Brine Rejection in Controlling Stratification Throughout Winter in Southeast Hudson Bay <https://doi.org/10.1007/s12237-020-00698-0>`_, Eastuaries and Coasts
+Eastwood et al., `Role of River Runoff and Sea Ice Brine Rejection in Controlling Stratification Throughout Winter in Southeast Hudson Bay <https://doi.org/10.1007/s12237-020-00698-0>`_, Estuaries  and Coasts
  
 Gillard et al., `Drivers for Atlantic-origin waters abutting Greenland <https://doi.org/10.5194/tc-14-2729-2020>`_, The Cryosphere
 
@@ -65,7 +65,7 @@ Yu et al., `Modeling dissolved and particular 230TH in the Canada Basin: Implica
 
 Castro de la Guardia et al., `Assessing the Role of High-Frequency Winds and Sea Ice Loss on Arctic Phytoplankton Blooms in an Ice-Ocean-Biogeochemical Model <https://doi.org/10.1029/2018JG004869>`_, Journal of Geophysical Sciences: Biogeosciences
 
-Colombo et al., `Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program <https://doi.org/10.1021/acsearthspacechem.9b00083>`_, American Chemical Society Earth Space Chemisty
+Colombo et al., `Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program <https://doi.org/10.1021/acsearthspacechem.9b00083>`_, American Chemical Society Earth Space Chemistry
 
 Dmitrenko et al., `Variability of the Pacific-Derived Arctic Water Over the Southeastern Wandel Sea Shelf (Northeast Greenland) in 2015–2016 <https://doi.org/10.1029/2018JC014567>`_, Journal of Geophysical Research: Oceans.
 
@@ -100,7 +100,7 @@ Voelker et al., `Generation of oceanic internal gravity waves by a cyclonic surf
 
 Grivault et al., `Impact of the Surface Stress on the Volume and Freshwater Transport Through the Canadian Arctic Archipelago From a High-Resolution Numerical Simulation <https://doi.org/10.1029/2018JC013984>`_, Journal of Geophysical Research: Oceans
 
-Dmitrenko et al., `Wind-forced depth-dependent currents over the eastern Beaufort Sea continental slope: Implications for Pacific water transport <https://doi.org/10.1525/elementa.321>`_, Elemnta Science of the Anthropocene
+Dmitrenko et al., `Wind-forced depth-dependent currents over the eastern Beaufort Sea continental slope: Implications for Pacific water transport <https://doi.org/10.1525/elementa.321>`_, Elementa Science of the Anthropocene
 
 Crawford et al., `The Aftermath of Petermann Glacier Calving Events (2008–2012): Ice Island Size Distributions and Meltwater Dispersal <https://doi.org/10.1029/2018JC014388>`_, Journal of Geophysical Research: Oceans
 
@@ -117,7 +117,7 @@ Andrea Scott et al., `Assimilation of Argo Temperature and Salinity Profiles Usi
 2017
 ----
 
-Castro de la Guardia et al., `Sea ice cycle in western Hudson Bay, Canada, froma polar bear perspective <https://doi.org/10.3354/meps11964>`_, Marine Ecology Progress Series
+Castro de la Guardia et al., `Sea ice cycle in western Hudson Bay, Canada, from a polar bear perspective <https://doi.org/10.3354/meps11964>`_, Marine Ecology Progress Series
 
 Courtois et al., `Mixed layer depth calculation in deep convection regions in ocean numerical models <https://doi.org/10.1016/j.ocemod.2017.10.007>`_, Ocean Modelling
 
@@ -132,7 +132,7 @@ Marson et al., `Cascading off the West Greenland Shelf: A numerical perspective 
 Müller et al., `Temperature flux carried by individual eddies across 47°N in the Atlantic Ocean
 <https://doi.org/10.1002/2016JC012175>`_, Journal of Geophysical Research: Oceans
 
-Saenko et al, `Response of the North Atlantic dynamic sea level and circulation to Greenland meltwater and climate change in an eddy‐permitting ocean model <https://doi.org/10.1007/s00382-016-3495-7>`_, Climate Synamics
+Saenko et al, `Response of the North Atlantic dynamic sea level and circulation to Greenland meltwater and climate change in an eddy‐permitting ocean model <https://doi.org/10.1007/s00382-016-3495-7>`_, Climate Dynamics
 
 |
 2016
@@ -218,8 +218,7 @@ Myers, 2002, `SPOM: A regional model of the sub‐polar north Atlantic <https://
 
 Myers and Haines, 2000, `Seasonal and Interannual Variability in a Model of the Mediterranean under Derived Flux Forcing <https://doi.org/10.1175/1520-0485(2000)030%3C1069:SAIVIA%3E2.0.CO;2>`_, Journal of Physical Oceanography
   
-Myers et al., 1996, `JEBAR, Bottom Pressure Torque, and Gulf Stream Separation
- <https://doi.org/10.1175/1520-0485(1996)026%3C0671:JBPTAG%3E2.0.CO;2>`_, Journal of Physical Oceanography
+Myers et al., 1996, `JEBAR, Bottom Pressure Torque, and Gulf Stream Separation <https://doi.org/10.1175/1520-0485(1996)026%3C0671:JBPTAG%3E2.0.CO;2>`_, Journal of Physical Oceanography
  
 Myers and Weaver, 1995, `A Diagnostic Barotropic Finite-Element Ocean Circulation Model  <https://doi.org/10.1175/1520-0426(1995)012%3C0511:ADBFEO%3E2.0.CO;2>`_, Journal of Atmospheric and Oceanic Technology
  
