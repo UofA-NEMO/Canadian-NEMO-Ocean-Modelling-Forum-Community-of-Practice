@@ -186,7 +186,7 @@ Steiner et al., `Climate Change Assessment in the Arctic Basin Part 1: Trends an
 ----
 
 
-Defosser et al., `Comparing Winter and Summer Simulated Estuarine Circulations in Foxe Basin, Canada, <https://doi.org/10.1080/07055900.2012.693256>`_, Atmosphere-Ocean
+Defossez et al., `Comparing Winter and Summer Simulated Estuarine Circulations in Foxe Basin, Canada, <https://doi.org/10.1080/07055900.2012.693256>`_, Atmosphere-Ocean
 
 Melling et al., `The Arctic Ocean—a Canadian perspective from IPY <https://doi.org/10.1007/s10584-012-0576-4>`_, Climate Change
 
