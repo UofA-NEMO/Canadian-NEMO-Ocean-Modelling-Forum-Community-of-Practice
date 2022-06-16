@@ -160,7 +160,7 @@ Steiner et al., `Observed trends and climate projections affecting marine ecosys
 2014
 ----
 
-Hu et al., `Changes to the Canadian Arctic Archipelago Sea Ice and Freshwater Fluxes in the Twenty-First Century under the Intergovernmental Panel on Climate Change A1B Climate Scenario <https://doi.org/10.1080/07055900.2014.942592>`_, Atmosphere-Ocean
+Hu and Myers, `Changes to the Canadian Arctic Archipelago Sea Ice and Freshwater Fluxes in the Twenty-First Century under the Intergovernmental Panel on Climate Change A1B Climate Scenario <https://doi.org/10.1080/07055900.2014.942592>`_, Atmosphere-Ocean
 
 Katavouta and Myers, `Sea-Ice Concentration Multivariate Assimilation for the Canadian East Coast in a Coupled Sea Ice–Ocean Model <https://doi.org/10.1080/07055900.2014.954096>`_, Atmosphere-Ocean
 
