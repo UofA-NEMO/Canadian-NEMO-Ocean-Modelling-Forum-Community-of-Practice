@@ -111,7 +111,7 @@ Greenland Icebergs’ Distribution and Lifetime <https://doi.org/10.1029/2018GL0
 
 Mol et al., `Inorganic carbon fluxes on the Mackenzie Shelf of the Beaufort Sea <https://doi.org/10.5194/bg-15-1011-2018>`_, Biogeosciences
 
-Anrea Scott et al., `Assimilation of Argo Temperature and Salinity Profiles Using a Bias-Aware EnOI Scheme for the Labrador Sea <http://dx.doi.org/10.1175/JTECH-D-17-0222.1>`_, Journal of Atmospheric and Oceanic Technology
+Andrea Scott et al., `Assimilation of Argo Temperature and Salinity Profiles Using a Bias-Aware EnOI Scheme for the Labrador Sea <http://dx.doi.org/10.1175/JTECH-D-17-0222.1>`_, Journal of Atmospheric and Oceanic Technology
 
 |
 2017
