@@ -95,7 +95,7 @@ Displaying figures isn't that tricky. Simply put the figure file into the direct
       eORCA025 data figure caption text
    
 
-An empty trailing and leading line around the figure block appears important, as well as the three empty spaces that indent the figure caption test, the empty lines associate this with the thing we are trying to do (in this case a figure)
+An empty trailing and leading line around the figure block appears important, as well as the three empty spaces that indent the figure caption test, the empty lines associate this with the thing we are trying to do (in this case a figure). Note there should be an extra line between the figure:: line and the caption line but the displaying method of this site doesn't show it.
 
 Embedded content
 ^^^^^^^^^^^^^^^^
