@@ -8,6 +8,7 @@ I've made a document on what they all look like. Right click to open in a new pa
 
 |
 colormap(nclcolormap.{NAME})
+
 |
 
 where NAME is shown undernearth the horizontal colorbar on the figure below.
