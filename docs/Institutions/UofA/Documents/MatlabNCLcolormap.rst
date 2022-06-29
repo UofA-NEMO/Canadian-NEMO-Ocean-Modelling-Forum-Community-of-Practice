@@ -6,6 +6,7 @@ load nclcolormap
 
 I've made a document on what they all look like. Right click to open in a new page so you can scroll/zoom easier. Find one you like and use it by typing
 |
+
 .. code-block:: RST
    :linenos:
    
