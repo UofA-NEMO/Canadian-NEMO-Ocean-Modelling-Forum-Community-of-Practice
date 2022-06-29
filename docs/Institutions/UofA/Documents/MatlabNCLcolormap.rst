@@ -6,4 +6,4 @@ load nclcolormap
 
 I've made a short document on what they all look like
 
-.. figure:: ./NCL_123.png
+.. figure:: ./NCL_full.png
