@@ -148,7 +148,7 @@ Hosting PDFs is also possible, although I've only figure out how to make them vi
 .. code-block:: RST
    :linenos:
    
-   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPDFfile}.pdf>`_
+   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<{MyPDFfile}.pdf>`_
 
 PowerPoint
 ^^^^^^^^^^
@@ -158,7 +158,7 @@ Hosting a powerpoint presentation works the same as PDFs above: the files need t
 .. code-block:: RST
    :linenos:
    
-   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<MyPPTfile}.pptx>`_
+   `Sample Link Text <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_{MyInstitutionName}/<{MyPPTfile}.pptx>`_
 
 
 Table of Contents
