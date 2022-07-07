@@ -109,7 +109,7 @@ Here is a list of the posters our group has presented at conferences around the 
 2016: Woods Hole, Massachusetts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Cascading off the West Greenland Shelf: A numerical prespective; Juliana Marson <../../_static/_UofA/FAMOS_Juliana_Marson_C50.pdf>`_
+* `Cascading off the West Greenland Shelf: A numerical perspective; Juliana Marson <../../_static/_UofA/FAMOS_Juliana_Marson_C50.pdf>`_
 
 2014: Woods Hole, Massachusetts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
