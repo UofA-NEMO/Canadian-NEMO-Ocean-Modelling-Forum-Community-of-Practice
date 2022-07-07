@@ -12,7 +12,7 @@ Requirements
 
 This website is built from documents saved onto the GitHub account which ReadTheDocs.org then produces into a website. For others to collaborate, we all work off of the cloned repository. Each user/institution only works within their assigned directory space so we do not interfere with the documents of other groups. Since the repository is cloned, all groups are synced to each other: any file we upload onto this repository then is downloaded and accessible by the other groups. As such, don't upload anything you wouldn't be willing to share, and don't modify anything outside your designated directories. There is a storage limit to how much we can store in the repository- please host large files (videos) elsewhere, only push small files.
 
-A Walkthough
+A Walkthrough
 ............
 
 1. Each instruction needs to create a GitHub account and activate it accordingly. You will need to set up git on your local system- I cannot explain it here since each system may vary, but it entail setting up your git user name and email to the local system. 
@@ -127,10 +127,10 @@ As for the csv reader, you need to copy your .csv file into your _static/_MyInst
    
 This will load FileName.csv which has 2 columns. Column 1 has a width that is 30% of the table while column 2 has a width that is 70% of the table. There is a single row of headers. There could be many rows but only 2 columns. Since cell width can vary significantly depending on the text within, this method is rather cumbersome in my experience. The filename does not require the full path since csv-table reads files contained within the _source directory as outline within our config.py code in /docs. The admin should have added your directory to be included, contact them if this method fails you as other media will likely also fail (PDF/PPT).
 
-Weblinks
-^^^^^^^^
+Web links
+^^^^^^^^^
 
-Setting up links is relatively straitforward. Include something along the lines of the following withing your .rst file:
+Setting up links is relatively straightforward. Include something along the lines of the following within your .rst file:
 
 .. code-block:: RST
    :linenos:
@@ -143,7 +143,7 @@ Setting up links is relatively straitforward. Include something along the lines 
 PDFs
 ^^^^
 
-Hosting PDFs is also possible, although I've only figure out how to make them viewable on their own site, not popup/displayed as an embeded document. Add the PDF to your _static/_MyInstitution/ directory, git add, git commit, git pull, and git push it to github. In the .rst file where you want the PDF to be viewed, make a link:
+Hosting PDFs is also possible, although I've only figure out how to make them viewable on their own site, not popup/displayed as an embedded document. Add the PDF to your _static/_MyInstitution/ directory, git add, git commit, git pull, and git push it to github. In the .rst file where you want the PDF to be viewed, make a link:
 
 .. code-block:: RST
    :linenos:
@@ -153,7 +153,7 @@ Hosting PDFs is also possible, although I've only figure out how to make them vi
 PowerPoint
 ^^^^^^^^^^
 
-Hosting a powerpoint presentation works the same as PDFs above: the files need to be pushed to github from your _static/_MyInstitution/ directory. Just as I was not able to figure out how to make the PDF embedded in the site, I could not figure the same for a powerpoint presentation. Instead we use a link to download the presentation to your computer/ internet browser. Set your .rst file to include a weblink to where the files are found:
+Hosting a powerpoint presentation works the same as PDFs above: the files need to be pushed to github from your _static/_MyInstitution/ directory. Just as I was not able to figure out how to make the PDF embedded in the site, I could not figure the same for a powerpoint presentation. Instead we use a link to download the presentation to your computer/ internet browser. Set your .rst file to include a web link to where the files are found:
 
 .. code-block:: RST
    :linenos:
@@ -194,7 +194,7 @@ Sometime you just want to add an empty line for effect, this requires the | to b
 Chapter/Subchapters
 ^^^^^^^^^^^^^^^^^^^
 
-You may notice that these chaptes and subchapters get indicated within the table of contents on the left side of the page. There is a certain text that must be included to indicate a Chapter (or lower ranked chapter):
+You may notice that these chapters and subchapters get indicated within the table of contents on the left side of the page. There is a certain text that must be included to indicate a Chapter (or lower ranked chapter):
 
 .. code-block:: RST
    :linenos:
