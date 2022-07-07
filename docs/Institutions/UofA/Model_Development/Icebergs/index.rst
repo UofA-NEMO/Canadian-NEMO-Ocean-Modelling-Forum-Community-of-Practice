@@ -14,7 +14,7 @@ Iceberg Model
 
    <iframe width="740" height="500" src="https://www.youtube.com/embed/fDL1N3L0D4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-   Video Caption: A passive tracer was introduced wherever iceberg melt occured. This video shows how that tracer field evolves.
+   Video Caption: A passive tracer was introduced wherever iceberg melt occurred. This video shows how that tracer field evolves.
 
 
 .. figure:: trajALL.png
