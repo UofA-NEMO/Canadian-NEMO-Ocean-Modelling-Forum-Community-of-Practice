@@ -2,6 +2,7 @@ Presentations
 =============
 
 Conference/workshop presentations related to members of our lab are listed below. Click the link to view the presentation.
+
 |
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
@@ -14,21 +15,6 @@ Conference/workshop presentations related to members of our lab are listed below
 
 |
 
-`GEOTRACERS <https://www.geotraces.org/>`_
-------------------------------------------
-
-2016:
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `Simulation Updates in UofA; Xianmin Hu <../../_static/_UofA/GEOTRACERS_T_2016_HU.pdf>`_
-
-
-2015: 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `NEMO Simulation in UA; Xianmin Hu <../../_static/_UofA/GEOTRACERS_T_2015_HU.pdf>`_
-
-|
 `Canadian Meteorological and Oceanographic Society (CMOS) <https://www.cmos.ca/>`_
 ----------------------------------------------------------------------------------
 
@@ -54,6 +40,22 @@ Conference/workshop presentations related to members of our lab are listed below
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `Mixed Layer Processes in the Labrador Sea from a High Resolution Atlantic and Pan-Arctic Ocean-ice Model Configuration (ANHA12); Xianmin Hu <../../_static/_UofA/CMOS_T_2014_HU.pdf>`_
+
+|
+
+`GEOTRACERS <https://www.geotraces.org/>`_
+------------------------------------------
+
+2016:
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Simulation Updates in UofA; Xianmin Hu <../../_static/_UofA/GEOTRACERS_T_2016_HU.pdf>`_
+
+
+2015: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `NEMO Simulation in UA; Xianmin Hu <../../_static/_UofA/GEOTRACERS_T_2015_HU.pdf>`_
 
 |
 
