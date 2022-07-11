@@ -1,7 +1,7 @@
 Publications
 ============
 
-Publications related to members of our lab are summarized below. 
+Publications related to members of our lab are listed below. 
 
 2022
 ----
