@@ -7,6 +7,8 @@ Do not copy/paste the command without understanding what you’re doing. If you 
 
 Most documents are automatically accessible from a UofA Google account.
 
+|
+
 
 .. toctree::
    :maxdepth: 1
