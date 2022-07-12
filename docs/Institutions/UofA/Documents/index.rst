@@ -17,6 +17,3 @@ Most documents are automatically accessible from a UofA Google account.
    Analysis
    GLOBUS
    ARIANE
-
-
-eof
