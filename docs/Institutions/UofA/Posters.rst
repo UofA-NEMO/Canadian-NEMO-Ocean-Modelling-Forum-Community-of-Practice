@@ -13,12 +13,6 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `Sub-Mesoscale Modelling of the Labrador Sea; Clark Pennelly <../../_static/_UofA/CMOS_2018_Pennelly_LAB60.pdf>`_
 
-1
-
-* `Sub-Mesoscale Modelling of the Labrador Sea; Clark Pennelly <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/_static/_UofA/CMOS_2018_Pennelly_LAB60.pdf>`_
-
-2
-
 * `Iceberg Modelling: Improving Pathways and Sources of Freshwater to the North Atlantic; Juliana Marson <../../_static/_UofA/CMOS2018_poster_Marson.pdf>`_
 
 2015: Whistler, British Columbia
@@ -31,7 +25,6 @@ Here is a list of the posters our group has presented at conferences around the 
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `Effects of different grid resolutions when simulating passive ocean tracers using NEMO and AGRIF; Clark Pennelly <../../_static/_UofA/CMOS_P_2014_PennellyClark.pdf>`_
-
 
 |
 
