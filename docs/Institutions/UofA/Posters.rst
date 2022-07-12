@@ -96,6 +96,8 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `Exchanges of volume, heat and freshwater through the Canadian Arctic Archipelago: A numerical study; Nathan Grivault <../../_static/_UofA/EGU_P_2016_Grivault.pdf>`_
 
+* `The Effect of Gale Force Winds on the Ice/Ocean Surface in the Vicinity of Northern Greenland; Amber Holdsworth <../../_static/_UofA/Holdsworth_ArcticTransports_EGU_2016.pdf>`_ 
+
 |
 
 `Forum for Arctic Modeling and Observational Synthesis (FAMOS) <https://web.whoi.edu/famos/>`_
@@ -115,6 +117,8 @@ Here is a list of the posters our group has presented at conferences around the 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Baffin Bay Heat and Freshwater Contents and Transports from a suite of numerical modelling experiments; Nathan Grivault <../../_static/_UofA/FAMOS_P_2014_Grivault.pdf>`_
+
+* `The Influence of High Frequency Atmospheric Forcing on the Circulation and Deep Convection of the Labrador Sea; Amber Holdsworth <../../_static/_UofA/Holdsworth_FAMOSPOSTER_AMH_2014.pdf>`_ 
 
 
 
