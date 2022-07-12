@@ -1,5 +1,5 @@
-Basic Linux Information documents
-=================================
+Basic Linux Information
+=======================
 
 asd
 
