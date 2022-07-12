@@ -10,11 +10,11 @@ Most documents are automatically accessible from a UofA Google account.
 
 .. toctree::
    :maxdepth: 1
-
-   Basic Linux Information
+   
+   BasicLinuxInformation
    MatlabNCLcolormap
-   NEMO documents
-   Analysis tools tips and tricks
+   NEMOdocuments
+   Analysis
    GLOBUS
    ARIANE
 
