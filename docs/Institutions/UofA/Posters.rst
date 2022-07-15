@@ -59,6 +59,11 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `Frequency of Volume and Freshwater Events Leaving the Arctic Ocean: A Numerical Study; Nathan Grivault <../../_static/_UofA/Grivault_OceanSciences2018.pdf>`_
 
+2016: New Orleans, Louisiana
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Energetics of wind-induced internal wave radiation from the base of the mixed layer in the North Atlantic; Georg Volker <../../_static/_UofA/Sebastian_20160208_osm2016.pdf>`_
+
 |
 
 `Arctrain Annual Meeting <https://arctrain.de/>`_
@@ -90,6 +95,8 @@ Here is a list of the posters our group has presented at conferences around the 
 * `Exchanges of volume, heat and freshwater through the Canadian Arctic Archipelago: A numerical study; Nathan Grivault <../../_static/_UofA/EGU_P_2016_Grivault.pdf>`_
 
 * `The Effect of Gale Force Winds on the Ice/Ocean Surface in the Vicinity of Northern Greenland; Amber Holdsworth <../../_static/_UofA/Holdsworth_ArcticTransports_EGU_2016.pdf>`_ 
+
+* `On the generation of oceanic internal gravity waves by polar lows; Georg Voelker <../../_static/_UofA/Sebastian_20160407_egu2016.pdf>`_
 
 |
 
