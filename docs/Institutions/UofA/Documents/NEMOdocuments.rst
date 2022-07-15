@@ -1,6 +1,9 @@
 NEMO Documents
 ===============
 
+The following is a list of documents we use for our NEMO simulations. Many are locked to current/past lab members only.
+
+
 `Setting up a new NEMO 3.6 Experiment on Graham: Flowchart <https://lucid.app/lucidchart/81024a6b-ac08-4921-930d-fe0ccc99a41d/view?page=0_0#>`_
 
 `Setting up a new NEMO 3.6 Experiment on Graham: document  <https://docs.google.com/document/d/1W2v8cVzn6AiH2SF37aibwz1p_gZpIbgl/edit>`_
@@ -18,4 +21,6 @@ NEMO Documents
 `Inge's hints and suggestions for debugging NEMO <https://docs.google.com/document/d/1UmRvh9IzNX8iATCheNZ4ZpxNTqyDEM4ipnx0Pdxto3o/edit>`_>`_
 
 `Setting up a perpetual year forcing experiment <https://docs.google.com/document/d/1yq6X-NkuLIG8nfOJYV3KVofmCbfl7EoeJK0WVl-2lJc/edit>`_
+
+`XIOS guide for high frequency output in smaller domains <https://docs.google.com/document/d/1eLnbSQKqLbW8d7qdZtUQMJRjcZLbMsrYf6BrFnrC3Rg/edit>`_
 
