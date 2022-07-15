@@ -1,4 +1,14 @@
 Analysis Tools, Tips, and Tricks
 ================================
 
-qasdasd
+The following documents are to help carry our NEMO analysis, often using matlab, cdftools, and so forth
+
+`Rotating veocity components from model grid to real lat/lon <http://knossos.eas.ualberta.ca/anha/data/Rotating_U_and_V_components_of_velocity.pdf>`_
+
+`NOT WORKING: Rotating to obtain across/along section velocities <http://knossos.eas.ualberta.ca/anha/data/Section_Rotation.pdf>`_
+
+`Volume flux calculations on NEMO output <http://knossos.eas.ualberta.ca/anha/data/volume_flux_calculation_NEMO_Aug2015_xhu.pdf>`_ 
+
+`How to calculate eddy kinetic energy (EKE) <http://knossos.eas.ualberta.ca/anha/data/EKE.pdf>`_
+
+`CDFTOOLS usage <http://knossos.eas.ualberta.ca/anha/data/cdftools_usage.pdf>`_

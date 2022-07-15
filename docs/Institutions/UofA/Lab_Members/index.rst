@@ -16,4 +16,4 @@ Present Members
 Past Members
 ------------
 
-
+* Nathan Grivault: I was a PhD student, and briefly a post-doc, under Paul Myers supervision. My main research focus was the freshwater fluxes out of the Arctic towards the northern Atlantic region, and in particular the role of Baffin Bay and the Canadian Arctic Archipelago. Currently working as a geophysical developer at the Swedish Meteorological and Hydrological Institute (SMHI) in the Oceanographic Research unit.
