@@ -67,3 +67,12 @@ Conference/workshop presentations related to members of our lab are listed below
 
 * `Sub-mesoscale modelling of the Labrador Sea by Clark Pennelly <../../_static/_UofA/OceanSciences_T_2020_PennellyClark.pptx>`_
 
+|
+
+`8th International Symposium on Stratified Flows <https://cpaess.ucar.edu/meetings/2016/8th-international-symposium-stratified-flows-issf>`_
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+2016: San Diego, California
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `On The Generation of Oceanic Internal Gravity Waves by a Cyclonic Surface Stress Disturbancel Georg Sebastian Volker <../../_static/_UofA/sebastian-presentation-ISSF1026.pdf>`_ 
