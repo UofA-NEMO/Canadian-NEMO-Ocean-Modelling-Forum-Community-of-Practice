@@ -67,3 +67,12 @@ The following videos were taken from the LAB60-DFS simulation (ANHA4-ECP017), ou
 
    Video Caption: LAB60 Stratification
 
+
+TEST
+
+|
+.. raw:: html
+
+   <iframe width="740" height="500" src="https://era.library.ualberta.ca/items/d4e55007-73dd-4df0-b530-634cc2421c85/view/2f45d067-97d7-43c7-b1c6-f99b15638ce7/LAB60_FWT.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   Video Caption: LAB60 Stratification TEST
