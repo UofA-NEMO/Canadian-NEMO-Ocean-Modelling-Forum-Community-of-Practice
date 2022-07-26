@@ -1,7 +1,9 @@
 Datasets
 ========
 
-We use multiple datasets for our various simulations. 
+(WORK IN PROGRESS)
+
+We use multiple datasets for our various simulations. Please contect us if you are interested in the following datasets, or if you would like to arrange a method to acquire them from us- we are more than happy to share!
 
 Bathymetry Products
 -------------------
