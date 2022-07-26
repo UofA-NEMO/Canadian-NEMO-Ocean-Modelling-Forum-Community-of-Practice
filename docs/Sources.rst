@@ -1,6 +1,9 @@
 Useful Sources
 ==============
 
+Below is a list of some useful sources that others may find useful. Each individual institution may also have their own page with sources they find useful.
+
+Community members are encouraged to populate the list below with additional material.
 
 Modelling systems
 -----------------
