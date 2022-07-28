@@ -48,7 +48,7 @@ Atmospheric Forcing
 
 * CORE2 (`publication <https://rda.ucar.edu/datasets/ds260.2/docs/OSGC-000-000-003-157.pdf>`_) has multiple collections which can be accessed `here <https://data1.gfdl.noaa.gov/nomads/forms/core/COREv2.html>`_  
 
-* NCEP Reanalysis (`version 1 <https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html>`_ and `version 2 <https://psl.noaa.gov/data/gridded/data.ncep.reanalysis2.html>) 
+* NCEP Reanalysis (`version 1 <https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html>`_ and `version 2 <https://psl.noaa.gov/data/gridded/data.ncep.reanalysis2.html>`_) 
 
 * Canadian Meteorlogical Centre Global Deterministic Prediction System ReForecasts (CGRFs: `publication <https://doi.org/10.1002/qj.2194>`_) 
 
