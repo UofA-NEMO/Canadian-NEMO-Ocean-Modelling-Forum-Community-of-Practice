@@ -9,6 +9,8 @@ Modelling systems
 -----------------
 The ocean and sea ice modelling framework `NEMO <https://www.nemo-ocean.eu/>`_
 
+The NEMO `discussion board <https://nemo-ocean.discourse.group/>`_
+ 
 |
 Groups
 ------
