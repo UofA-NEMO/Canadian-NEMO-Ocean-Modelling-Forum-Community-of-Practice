@@ -19,11 +19,14 @@ Groups
 
 `DRAKKAR <https://www.drakkar-ocean.eu/>`_
 
-`O-SNAP <https://www.o-snap.org/>`_
 |
 Projects
 --------
 `VITALS <http://knossos.eas.ualberta.ca/vitals/>`_: Ventilation, Interaction and Transport Across the Labrador Sea
+
+`O-SNAP <https://www.o-snap.org/>`_
+
+
 
 
 
