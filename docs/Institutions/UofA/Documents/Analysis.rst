@@ -11,4 +11,4 @@ The following documents are to help carry our NEMO analysis, often using matlab,
 
 `CDFTOOLS usage <http://knossos.eas.ualberta.ca/anha/data/cdftools_usage.pdf>`_
 
-`O-SNAP python code to calculate MOC across the OSNAP section (`Information <https://www.o-snap.org/for-modelers/>`_ and `download <https://smartech.gatech.edu/handle/1853/67081>`_)
+O-SNAP python code to calculate MOC across the OSNAP section (`Information <https://www.o-snap.org/for-modelers/>`_ and `download <https://smartech.gatech.edu/handle/1853/67081>`_)
