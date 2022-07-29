@@ -19,6 +19,7 @@ Groups
 
 `DRAKKAR <https://www.drakkar-ocean.eu/>`_
 
+`O-SNAP <https://www.o-snap.org/>`_
 |
 Projects
 --------
