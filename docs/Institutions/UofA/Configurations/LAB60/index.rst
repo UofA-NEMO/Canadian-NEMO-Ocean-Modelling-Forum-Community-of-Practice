@@ -18,7 +18,7 @@ The following videos were taken from the LAB60-DFS simulation (ANHA4-ECP017), ou
 
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/P1sWemzJ-jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe src="https://ualberta.aviaryplatform.com/embed/media/164191 " allow="fullscreen" frameborder="0"></iframe>
    
    Video Caption: Greenland runoff passive tracer
 
