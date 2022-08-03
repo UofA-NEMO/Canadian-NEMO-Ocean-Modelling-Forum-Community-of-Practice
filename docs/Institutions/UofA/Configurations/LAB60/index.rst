@@ -26,21 +26,21 @@ The following videos were taken from the LAB60-DFS simulation (ANHA4-ECP017), ou
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/TtaZIwaO57w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164192 " allow="fullscreen" frameborder="0"></iframe>
    
    Video Caption: Irminger Water passive tracer
 
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/rK62guzG3cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164189 " allow="fullscreen" frameborder="0"></iframe>
    
    Video Caption: LSW passive tracer
 
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/QCDoyX_QZao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164190 " allow="fullscreen" frameborder="0"></iframe>
 
 
    Video Caption: LAB60 Vorticity
@@ -48,14 +48,14 @@ The following videos were taken from the LAB60-DFS simulation (ANHA4-ECP017), ou
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/JMFL7OSVOP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164194 " allow="fullscreen" frameborder="0"></iframe>
 
    Video Caption: LAB60 freshwater content
 
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/gTkzgQKRnWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164186 " allow="fullscreen" frameborder="0"></iframe>
 
    Video Caption: LAB60 Mixed layer depth
 
@@ -63,7 +63,7 @@ The following videos were taken from the LAB60-DFS simulation (ANHA4-ECP017), ou
 |
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://www.youtube.com/embed/Q3yKIHNPy_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="740" height="500" src="https://ualberta.aviaryplatform.com/embed/media/164188 " allow="fullscreen" frameborder="0"></iframe>
 
    Video Caption: LAB60 Stratification
 
