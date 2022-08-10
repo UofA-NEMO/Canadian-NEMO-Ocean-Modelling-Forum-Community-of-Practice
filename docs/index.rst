@@ -2,7 +2,7 @@
 NEMO Ocean Modelling Forum Community of Practice
 ***************************************
 
-Welcome to the NEMO Ocean modelling forum community of practice. The goals of this site is to encourage collaboration across Canadian institutions to share our NEMO modelling progress, development, code, accomplishments, successes and failures, and many other aspects.
+Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of this site is to encourage collaboration across Canadian institutions to share our NEMO modelling progress, development, code, accomplishments, successes and failures, and many other aspects. This is one of the `Communities of Practice <https://meopar.ca/knowledge-mobilization/communities-of-practice/#infographic>`_ that MEOPAR supports. Click `here <https://meopar.ca/knowledge-mobilization/communities-of-practice/>`_ to see the other Communities of Practice.
 
 Contents
 ========
