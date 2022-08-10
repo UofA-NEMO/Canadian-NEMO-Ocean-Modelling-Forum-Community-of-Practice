@@ -8,7 +8,7 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `Setting up a new NEMO 3.6 Experiment on Graham: document  <https://docs.google.com/document/d/1W2v8cVzn6AiH2SF37aibwz1p_gZpIbgl/edit>`_
 
-`Setting up a new NEMO 3.6 Experiment on Graham with passive tracers: docment <https://docs.google.com/document/d/12Nzcb61-5_qufylLfv8NJDHcX4JXhTX7zUVX-rQ_MIk/edit>`_
+`Setting up a new NEMO 3.6 Experiment on Graham with passive tracers: document <https://docs.google.com/document/d/12Nzcb61-5_qufylLfv8NJDHcX4JXhTX7zUVX-rQ_MIk/edit>`_
 
 `Optimixing NEMO 3.6 decomposition <https://docs.google.com/document/d/1Fx6kQOL6UJxaxDruBoPRz-G5UjJHi-8zH42tc1hVcWI/edit>`_
 
