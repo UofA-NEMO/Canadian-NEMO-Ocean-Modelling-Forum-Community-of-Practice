@@ -15,4 +15,9 @@ O-SNAP python code to calculate MOC across the OSNAP section (`Information <http
 
 `M map <https://www.eoas.ubc.ca/~rich/map.html>`_, for nice figures
 
-`Create a movie from a series of images < >`https://docs.google.com/document/d/13fxOFUH5NGnBHHHpmr_0gLzhr0aBEWzJUQzIQL6nIaY/edit?usp=sharing 
+`Create a movie from a series of images <https://docs.google.com/document/d/13fxOFUH5NGnBHHHpmr_0gLzhr0aBEWzJUQzIQL6nIaY/edit?usp=sharing>`_ 
+
+`Combine multiple figures together using Linux's Convert program <https://docs.google.com/document/d/1jLi8MTEUavnAPLtNhKnQ4Ic2t4lnc1QOynixhWLDf8Q/edit?usp=sharing>`_ 
+
+`Make a multi-panel movie from a series of images <https://docs.google.com/document/d/1SJgsvEI7txiPzPnao93vASBPTL_j1ADAAh2bkLEThTg/edit?usp=sharing>`_ 
+
