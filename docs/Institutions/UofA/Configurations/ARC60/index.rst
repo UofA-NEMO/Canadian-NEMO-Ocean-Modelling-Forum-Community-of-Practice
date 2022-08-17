@@ -1,9 +1,8 @@
 ARC60
 =====
 
-ARC60 is our most recent high-resolution configuration, our first non-nested 1/60 configuration. This configuration uses the same 50 vertical levels we have used across most of our other configurations. ARC60 features tides, 3 passive tracers, and both liquid runoff and solid ice discharge from Greenland.
-
-
+ARC60 is our most recent high-resolution configuration, and our first non-nested 1/60 configuration. This configuration uses the same 50 vertical levels we have used across most of our other configurations. ARC60 features tides, 4 passive tracers (Eurasian/Canadian river runoff, Barent's Sea Opening Atlantic Inflow, and Bering St. inflow of Pacific Water), and both liquid runoff and solid ice discharge from Greenland from Bamber et al. (2018) data. Runoff elsewhere is via Dai and Trenberth.
+4
 
 .. figure:: ./grid_ARC60.png
 
