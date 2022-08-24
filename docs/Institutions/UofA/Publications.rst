@@ -8,6 +8,8 @@ Publications related to members of our lab are listed below.
 
 Pennelly and Myers, `Tracking Irminger Ring's properties using a submesoscale ocean model <https://doi.org/10.1016/j.pocean.2021.102735>`_, Progress in Oceanography 
 
+Guo et al., `The Changing Behavior of the West Greenland Current System in a Very High-Resolution Model <https://doi.org/10.1029/2022JC018404>`_, Journal of Geophysical Research: Oceans
+
 |
 2021
 ----
