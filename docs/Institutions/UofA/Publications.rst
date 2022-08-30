@@ -5,6 +5,7 @@ Publications related to members of our lab are listed below.
 
 2022
 ----
+Tao and Myers, `Modelling the Oceanic Advection of Pollutants Spilt Along with the Northwest Passage <https://doi.org/10.1080/07055900.2022.2065965>`_ , Atmosphere-Ocean
 
 Pennelly and Myers, `Tracking Irminger Ring's properties using a submesoscale ocean model <https://doi.org/10.1016/j.pocean.2021.102735>`_, Progress in Oceanography 
 
@@ -13,6 +14,8 @@ Guo et al., `The Changing Behavior of the West Greenland Current System in a Ver
 |
 2021
 ----
+Tao et al., `Modelling the advection of pollutants in the Hudson Bay complex <https://doi.org/10.1016/j.jmarsys.2020.103474>`_, Journal of Marine Systems
+
 Dukhovskoy et al., `Time scales of the Greenland freshwater anomaly in the subpolar North Atlantic <https://doi.org/10.1175/JCLI-D-20-0610.1>`_, Journal of Climate
 
 Garcia-Quintana et al., `Dense water formation on the Icelandic Shelf and its contribution to the North Icelandic Jet <https://doi.org/10.1029/2020JC016951>`_,  Journal of Geophysical Research: Oceans
@@ -44,6 +47,7 @@ Tao and Myers, `Modelling the advection of pollutants in the Hudson Bay complex 
 |
 2020
 ----
+Dmitrenko et al., `Atmospheric vorticity sets the basin-scale circulation in Hudson Bay <https://doi.org/10.1525/elementa.049>`_, Elementa: Science of the Anthropocene.
 
 Courtois et al., `Kinematic Subduction Rate Of Labrador Sea Water From an Eddy-Permitting Numerical Model <https://doi.org/10.1029/2019JC015475>`_, Journal of Geophysical Research: Oceans
 
