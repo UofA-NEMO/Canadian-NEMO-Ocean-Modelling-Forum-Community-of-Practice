@@ -7,6 +7,11 @@ Conference/workshop presentations related to members of our lab are listed below
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
 -------------------------------------------
+2021: Virtual meeting
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `Modelling the oceanic advection of pollutants spilt along the Northwest Passage; Ran Tao <https://cdnsciencepub.com/doi/10.1139/as-2022-0002>`_ 
+
 
 2014: Ottawa, Ontario
 ^^^^^^^^^^^^^^^^^^^^^
