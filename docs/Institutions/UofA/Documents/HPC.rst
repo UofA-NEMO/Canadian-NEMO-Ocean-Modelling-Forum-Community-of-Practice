@@ -10,6 +10,90 @@ The HPC system is often broken into 2 main components: project and scratch. Your
 
 In general, best practice is to produce things that you require, but won't change, and host them on Project. Scratch is for temporary work to carry out our simulations, produce figures/movies, and so forth- and then to move those important files elsewhere. If they are to be moved to project or nearline, tar and zip them up first as storage space is short. You can always untar/zip them back to scratch to redo analysis.
 
+Modules
+-------
+
+HPC systems have a wide variety of modules and software available to its users. Often there are multiple versions of the same software: matlab, ncview, openmpi, etc. This makes things a little complicated as not all versions of one software work correctl with libraries/binaries of another software. NEMO requires multiple forms of software to communicate. If gfortran and perl are working fine together but a library from XIOS doesn't communicate corretly with netcdf/hdf, you may have a model run corretly but crash when producing output. Managing the modules during compilation and running your jobs is crucial and time-consuming to figure out. Good thing is for the most part, we have figured out the correct list of modules to run our usual suite of software. But upgrading to a newer version or installing something new can present these challenges again.
+
+Generally, when users log into Graham, a series of login scripts are executed from their /home/$USER/ directory:
+.bashrc runs, even though we do not put anything inside of this
+.bash_profile runs, setting up aliases and loading our standard modules, and also runs .login36
+.login36 sets up some environmental variables.
+The modules loaded (below) was a correct set to compile/run NEMO and various other software as of Oct 2022. This may change in the future, but you often can load previous modules even when the standard environment changes
+"
+module --force purge
+module load StdEnv/2016.4
+module load mcr/R2013a
+module load openmpi
+module load netcdf-mpi/4.4.1.1
+module load netcdf-fortran-mpi/4.4.4
+module load perl/5.22.2
+module load ncview/2.1.7
+"
+
+Tinkering with modules
+......................
+|
+Sometimes you need a module that isn't within the above auto-loading method. I'm going to use matlab as an example. You want to use matlab but do not know how to load the appropriate modules to do so. First thing we want to do is check what our current modules are by using "module list":
+|
+pennelly@gra-login3:~ > module list
+Currently Loaded Modules:
+  1) nixpkgs/16.09   (S)      3) gcccore/.5.4.0  (H)   5) ifort/.2016.4.258 (H)   7) StdEnv/2016.4  (S)   9) mcr/R2013a    (t)  11) perl/5.22.2     (t)   13) netcdf-mpi/4.4.1.1       (io)  15) udunits/2.2.24 (t)
+  2) imkl/11.3.4.258 (math)   4) icc/.2016.4.258 (H)   6) intel/2016.4      (t)   8) java/1.8.0_121 (t)  10) openmpi/2.1.1 (m)  12) hdf5-mpi/1.8.18 (io)  14) netcdf-fortran-mpi/4.4.4 (io)  16) ncview/2.1.7   (vis)
+|
+This shows us what we currently have loaded- 16 modules. We can learn about any of these by using "module spider":
+|
+pennelly@gra-login3:~ > module spider ncview/2.1.7
+  ncview: ncview/2.1.7
+    Description:
+      Ncview is a visual browser for netCDF format files. Typically you would use ncview to get a quick and easy, push-button look at your netCDF files. You can view simple movies of the data, view along various dimensions, take a
+      look at the actual data values, change color maps, invert the data, etc.
+|
+We should do the same for matlab, lets see what the Graham system states:
+|
+pennelly@gra-login3:~ > module spider matlab
+  matlab:
+    Description:
+      MATLAB is a high-level language and interactive environment that enables you to perform computationally intensive tasks faster than with traditional programming languages such as C, C++, and Fortran.
+     Versions:
+        matlab/2014a
+        matlab/2016b
+( and many more versions including matlab/2022a)
+|
+Lets try to activate the most recent version since that might have the toolbox we are interesting in:
+|
+pennelly@gra-login3:~ > module spider matlab/2022a
+  matlab: matlab/2022a
+    Description:
+      MATLAB is a high-level language and interactive environment that enables you to perform computationally intensive tasks faster than with traditional programming languages such as C, C++, and Fortran.
+    Properties:
+      Tools for development / Outils de développement
+    You will need to load all module(s) on any one of the lines below before the "matlab/2022a" module is available to load.
+      StdEnv/2020
+( and some more information not so important)
+|
+The last line here, sating we need to load StdEnf/2020 is key. That module must be loaded to active the 2022a matlab module. It may also have its own requirements/dependencies, but we would get an error if that is the case when we load it up:
+|
+module load StdEnv/2020
+Inactive Modules:
+  1) hdf5-mpi/1.8.18     2) java/1.8.0_121     3) mcr/R2013a     4) ncview/2.1.7     5) netcdf-fortran-mpi/4.4.4     6) netcdf-mpi/4.4.1.1     7) perl/5.22.2     8) udunits/2.2.24
+The following have been reloaded with a version change:
+  1) StdEnv/2016.4 => StdEnv/2020     2) gcccore/.5.4.0 => gcccore/.9.3.0     3) imkl/11.3.4.258 => imkl/2020.1.217     4) intel/2016.4 => intel/2020.1.217     5) openmpi/2.1.1 => openmpi/4.0.3
+|
+No errors (but plenty of module deactivation/changes) means it was a success! Now lets load the matlab 2022a module
+|
+module load matlab/2022a
+Activating Modules:
+  1) java/13.0.2
+|
+That forced the java module to be re-activated and updated. We should now be able to run matlab. You can check which matlab binary you would be running by using 'which'
+|
+pennelly@gra-login3:~ > which matlab
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/matlab/2022a/bin/matlab
+|
+And you see it is indeed the 2022a matlab version. Succes! You should be able to follow this sort of procedure for any module/software you would like to use.
+
+|
 Submission Script
 -----------------
 Regardless of the HPC you are working on, tasks generally require a submission of a job script: to run NEMO, matlab code, ARIANE, other fortran code, etc. The scheduling system requires some information that we place at the top of the submission script:
@@ -26,7 +110,7 @@ Regardless of the HPC you are working on, tasks generally require a submission o
 #SBATCH --account={ALLOCATION (dev/rrg name)}
 "
 |
-Afterwhich you should load your modules and the associated code you want to carry out. For a matlab job, the following lines might look like this:
+Afterwhich you should load your modules and the associated code you want to carry out. For a matlab job, the following lines might look like this: 
 "
 date
 module --force purge
@@ -52,7 +136,7 @@ module load matlab/2018a
 matlab -nodisplay
 5: Do your matlab debugging/work.
 |
-Notes: keep interactive jobs to a duration no more than 3 hours- anything longer can take a long time to open up. 3 hours or less should open quickly (unless you request a lot of ntasks)
+Notes: keep interactive jobs to a duration no more than 3 hours- anything longer can take a long time to open up. 3 hours or less should open quickly (unless you request a lot of ntasks). 
 
 More to come.
 
