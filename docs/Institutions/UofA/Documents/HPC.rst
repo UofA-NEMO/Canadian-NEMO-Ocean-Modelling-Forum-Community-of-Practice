@@ -35,6 +35,7 @@ Tinkering with modules
 ......................
 |
 Sometimes you need a module that isn't within the above auto-loading method. I'm going to use matlab as an example. You want to use matlab but do not know how to load the appropriate modules to do so. First thing we want to do is check what our current modules are by using "module list":
+
 |
 pennelly@gra-login3:~ > module list
 Currently Loaded Modules:
@@ -42,6 +43,7 @@ Currently Loaded Modules:
   2) imkl/11.3.4.258 (math)   4) icc/.2016.4.258 (H)   6) intel/2016.4      (t)   8) java/1.8.0_121 (t)  10) openmpi/2.1.1 (m)  12) hdf5-mpi/1.8.18 (io)  14) netcdf-fortran-mpi/4.4.4 (io)  16) ncview/2.1.7   (vis)
 |
 This shows us what we currently have loaded- 16 modules. We can learn about any of these by using "module spider":
+
 |
 pennelly@gra-login3:~ > module spider ncview/2.1.7
   ncview: ncview/2.1.7
@@ -50,6 +52,7 @@ pennelly@gra-login3:~ > module spider ncview/2.1.7
       look at the actual data values, change color maps, invert the data, etc.
 |
 We should do the same for matlab, lets see what the Graham system states:
+
 |
 pennelly@gra-login3:~ > module spider matlab
   matlab:
@@ -61,6 +64,7 @@ pennelly@gra-login3:~ > module spider matlab
 ( and many more versions including matlab/2022a)
 |
 Lets try to activate the most recent version since that might have the toolbox we are interesting in:
+
 |
 pennelly@gra-login3:~ > module spider matlab/2022a
   matlab: matlab/2022a
@@ -73,6 +77,7 @@ pennelly@gra-login3:~ > module spider matlab/2022a
 ( and some more information not so important)
 |
 The last line here, sating we need to load StdEnf/2020 is key. That module must be loaded to active the 2022a matlab module. It may also have its own requirements/dependencies, but we would get an error if that is the case when we load it up:
+
 |
 module load StdEnv/2020
 Inactive Modules:
@@ -81,12 +86,14 @@ The following have been reloaded with a version change:
   1) StdEnv/2016.4 => StdEnv/2020     2) gcccore/.5.4.0 => gcccore/.9.3.0     3) imkl/11.3.4.258 => imkl/2020.1.217     4) intel/2016.4 => intel/2020.1.217     5) openmpi/2.1.1 => openmpi/4.0.3
 |
 No errors (but plenty of module deactivation/changes) means it was a success! Now lets load the matlab 2022a module
+
 |
 module load matlab/2022a
 Activating Modules:
   1) java/13.0.2
 |
 That forced the java module to be re-activated and updated. We should now be able to run matlab. You can check which matlab binary you would be running by using 'which'
+
 |
 pennelly@gra-login3:~ > which matlab
 /cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/matlab/2022a/bin/matlab
