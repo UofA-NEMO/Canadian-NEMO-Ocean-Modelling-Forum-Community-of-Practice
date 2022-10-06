@@ -17,3 +17,4 @@ Most documents are automatically accessible from a UofA Google account. Outsider
    Analysis
    GLOBUS
    ARIANE
+   HPC
