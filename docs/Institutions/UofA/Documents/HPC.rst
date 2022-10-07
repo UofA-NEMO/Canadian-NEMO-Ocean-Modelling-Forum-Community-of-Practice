@@ -41,7 +41,7 @@ gra-login3:~ > module list
     1) nixpkgs/16.09   (S)      3) gcccore/.5.4.0  (H)   5) ifort/.2016.4.258 (H)   7) StdEnv/2016.4  (S)   9) mcr/R2013a    (t)  11) perl/5.22.2     (t)   13) netcdf-mpi/4.4.1.1       (io)  15) udunits/2.2.24 (t)
     2) imkl/11.3.4.258 (math)   4) icc/.2016.4.258 (H)   6) intel/2016.4      (t)   8) java/1.8.0_121 (t)  10) openmpi/2.1.1 (m)  12) hdf5-mpi/1.8.18 (io)  14) netcdf-fortran-mpi/4.4.4 (io)  16) ncview/2.1.7   (vis)
 
-This shows us what we currently have loaded- 16 modules. We can learn about any of these by using "module spider":
+This shows us what we currently have loaded 16 modules. We can learn about any of these by using "module spider":
 
 gra-login3:~ > module spider ncview/2.1.7
   ncview: ncview/2.1.7
@@ -70,9 +70,9 @@ gra-login3:~ > module spider matlab/2022a
       Tools for development / Outils de développement
     You will need to load all module(s) on any one of the lines below before the "matlab/2022a" module is available to load.
       StdEnv/2020
-( and some more information not so important)
+( and some more information that isn't important)
 
-The last line here, sating we need to load StdEnf/2020 is key. That module must be loaded to active the 2022a matlab module. It may also have its own requirements/dependencies, but we would get an error if that is the case when we load it up:
+The last line here, stating we need to load StdEnv/2020, is key. That module must be loaded to active the 2022a matlab module. It may also have its own requirements/dependencies, but we would get an error if that is the case when we load it up:
 
 gra-login3:~ > module load StdEnv/2020
   Inactive Modules:
@@ -91,7 +91,7 @@ That forced the java module to be re-activated and updated. We should now be abl
 gra-login3:~ > which matlab
    /cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/matlab/2022a/bin/matlab
 
-And you see it is indeed the 2022a matlab version. Succes! You should be able to follow this sort of procedure for any module/software you would like to use.
+And you see it is indeed the 2022a matlab version. Success! You should be able to follow this sort of procedure for any module/software you would like to use.
 
 |
 Submission Script
