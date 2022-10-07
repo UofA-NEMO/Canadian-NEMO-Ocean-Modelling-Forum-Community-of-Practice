@@ -132,6 +132,7 @@ Sometimes you need to debug something or test some code out that requires more t
 gra-login3:~ > salloc --time=0:20:0 --ntasks=1 --account={rrg/dev allocation} --mem=4000M
 
 2: Wait for the interactive node to spin your job up, it can take a minute or 2 depending on what you ask for
+
 3: You are now in the job- it currently does not share the same environmental variables as your regular login space. So load whatever modules and set variables as you require:
 
 gra-login3:~ > module load nixpkgs/16.09
