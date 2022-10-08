@@ -127,7 +127,7 @@ Interactive Jobs
 
 Sometimes you need to debug something or test some code out that requires more time/CPU than the login-node provides. We are allowed to use the login nodes for short simple tests (like compiling NEMO and ncviewing files), but the admin has limits on what they want done on these login-nodes. So maybe you want to write/debug some matlab code to run analysis on ANHA4 output. To get the code ready, you should open an `interactive job <https://docs.alliancecan.ca/wiki/Running_jobs#Interactive_jobs>`_. Below is a short example on how to do that for a matlab job:
 
-1:enter the interactive job information (example 20 minute job, 4000m memory, 1 cpu)
+1:enter the interactive job information using salloc (example 20 minute job, 4000m memory, 1 cpu). NOTE the hypens (-) below are double(- -) but this website prints as a single 
 
 gra-login3:~ > salloc --time=0:20:0 --ntasks=1 --account={rrg/dev allocation} --mem=4000M
 
@@ -136,9 +136,10 @@ gra-login3:~ > salloc --time=0:20:0 --ntasks=1 --account={rrg/dev allocation} --
 3: You are now in the job- it currently does not share the same environmental variables as your regular login space. So load whatever modules and set variables as you require:
 
 gra-login3:~ > module load nixpkgs/16.09
+
 gra-login3:~ > module load matlab/2018a
 
-4: Matlab requirements are now set, you should be able to open matlab without a GUI (as we didn't forward X11)
+4: Matlab requirements are now set, you should be able to open matlab without a GUI (as we didn't forward X11 via salloc)
 
 gra-login3:~ > matlab -nodisplay
 
