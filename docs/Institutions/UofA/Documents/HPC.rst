@@ -96,28 +96,47 @@ And you see it is indeed the 2022a matlab version. Success! You should be able t
 |
 Submission Script
 -----------------
-Regardless of the HPC you are working on, tasks generally require a submission of a job script: to run NEMO, matlab code, ARIANE, other fortran code, etc. The scheduling system requires some information that we place at the top of the submission script:
+Regardless of the HPC you are working on, tasks generally require a submission of a job script: to run NEMO, matlab code, ARIANE, other fortran code, etc. The scheduling system requires some information that we place at the top of the submission script (some double hypens get shown as single on this website, I'll identify them below):
 "
+
 #!/bin/ksh
+
 #SBATCH -J {NAME_OF_JOB}
-#SBATCH --nodes=1 --ntasks-per-node=1
-#SBATCH --mem-per-cpu=4000
+
+#SBATCH --nodes=1 --ntasks-per-node=1 ## double hypen for - -nodes
+
+#SBATCH --mem-per-cpu=4000   ## double hypen - - mem-per-cpu
+
 #SBATCH -t 00-02:00        ## 0 day, 2 hour, 0 minutes
+
 #SBATCH -o slurm-mem-%j.out
+
 #SBATCH -e slurm-mem-%j.err
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user={EMAIL ADDRESS}
-#SBATCH --account={ALLOCATION (dev/rrg name)}
+
+#SBATCH --mail-type=ALL   ## double hypen for - -mail-type=ALL
+
+#SBATCH --mail-user={EMAIL ADDRESS}  ## double hypen for - -mail-user
+
+#SBATCH --account={ALLOCATION (dev/rrg name)}  ## double hypen for - -account
+
 "
 |
 Afterwhich you should load your modules and the associated code you want to carry out. For a matlab job, the following lines might look like this: 
 "
 date
+
 module --force purge
+
+   (double hypen for - -force purge)
+
 module load nixpkgs/16.09
+
 module load matlab/2018a
+
 matlab -nodisplay -singleCompThread -r "CheckVosaline"
+
 matlab -nodisplay -singleCompThread -r "CheckVotemper"
+
 date
 "
 |
@@ -127,7 +146,7 @@ Interactive Jobs
 
 Sometimes you need to debug something or test some code out that requires more time/CPU than the login-node provides. We are allowed to use the login nodes for short simple tests (like compiling NEMO and ncviewing files), but the admin has limits on what they want done on these login-nodes. So maybe you want to write/debug some matlab code to run analysis on ANHA4 output. To get the code ready, you should open an `interactive job <https://docs.alliancecan.ca/wiki/Running_jobs#Interactive_jobs>`_. Below is a short example on how to do that for a matlab job:
 
-1:enter the interactive job information using salloc (example 20 minute job, 4000m memory, 1 cpu). NOTE the hypens (-) below are double(- -) but this website prints as a single 
+1:enter the interactive job information using salloc (example 20 minute job, 4000m memory, 1 cpu). NOTE the hypens (-) below are double(- -) but this website prints as a single. 
 
 gra-login3:~ > salloc --time=0:20:0 --ntasks=1 --account={rrg/dev allocation} --mem=4000M
 
