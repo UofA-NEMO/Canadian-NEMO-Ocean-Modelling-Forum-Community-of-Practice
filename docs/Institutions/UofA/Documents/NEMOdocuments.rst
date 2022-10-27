@@ -25,3 +25,5 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 `XIOS guide for high frequency output in smaller domains <https://docs.google.com/document/d/1eLnbSQKqLbW8d7qdZtUQMJRjcZLbMsrYf6BrFnrC3Rg/edit>`_
 
 `Building NEMO mesh/mask files <https://docs.google.com/document/d/15lg7maZ3CBJK7vLW5oA-e_dU8EPLEl1kwI9xm_wXZUE/edit?usp=sharing>`_ 
+
+`Section Tracers <https://docs.google.com/document/d/e/2PACX-1vR1368vugtUov5VFNzQuDF-baqTyx6E1fUwkBUtNIJXFMZ8Clc6a37Bh1yjAEOLBWSRKoMIuHWZFCGV/pub>`_ 
