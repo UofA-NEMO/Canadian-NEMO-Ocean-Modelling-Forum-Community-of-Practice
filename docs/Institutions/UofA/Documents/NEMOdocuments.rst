@@ -27,3 +27,5 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 `Building NEMO mesh/mask files <https://docs.google.com/document/d/15lg7maZ3CBJK7vLW5oA-e_dU8EPLEl1kwI9xm_wXZUE/edit?usp=sharing>`_ 
 
 `Section Tracers <https://docs.google.com/document/d/e/2PACX-1vR1368vugtUov5VFNzQuDF-baqTyx6E1fUwkBUtNIJXFMZ8Clc6a37Bh1yjAEOLBWSRKoMIuHWZFCGV/pub>`_ 
+
+`Mesh/mask file locations on our servers <https://docs.google.com/document/d/e/2PACX-1vSt67rAGoOvcE2BTcTR-Wx-LTS0EFFOxZYRiUkwHjnioM1a3zf3WpvAt_3nxNd-gDI1l18fPe1DbNfo/pub>`_
