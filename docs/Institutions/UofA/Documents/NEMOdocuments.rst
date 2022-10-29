@@ -18,7 +18,7 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `NEMO timed out but my job finished, what can i do? <https://docs.google.com/document/d/18ZxZAJbwPkFo_wDmAeVc5IValYMT6xj7Yma4IMhfjX0/edit?usp=sharing>`_
 
-`Inge's hints and suggestions for debugging NEMO <https://docs.google.com/document/d/1UmRvh9IzNX8iATCheNZ4ZpxNTqyDEM4ipnx0Pdxto3o/edit>`_>`_
+`Inge's hints and suggestions for debugging NEMO <https://docs.google.com/document/d/1UmRvh9IzNX8iATCheNZ4ZpxNTqyDEM4ipnx0Pdxto3o/edit>`_
 
 `Setting up a perpetual year forcing experiment <https://docs.google.com/document/d/1yq6X-NkuLIG8nfOJYV3KVofmCbfl7EoeJK0WVl-2lJc/edit>`_
 
