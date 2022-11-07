@@ -3,6 +3,8 @@ HPC system
 
 Currently, we use High Performance Computing systems via Compute Canada, specifically `Graham <https://docs.alliancecan.ca/wiki/Graham>`_ and `Niagara <https://docs.alliancecan.ca/wiki/Niagara>`_. Graham is the HPC that is open to most users while Niagara is via special allocation proposals for massive CPU tasks. There are other HPCs available to our group including Cedar and Narval that is very similar to Graham, but we currently generally work on Graham. The information below will hopefully answer some questions about working on these systems.
 
+Accessing Niagara, `see this <https://docs.google.com/document/d/e/2PACX-1vSlD2KERnOfFmlIMv6KKHBbdy9xZKNRwZsqGIp5H3nYcziZnpxVXr3qzREkZXiPIw/pub>`_ 
+
 Overview
 --------
 
