@@ -29,3 +29,5 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 `Section Tracers <https://docs.google.com/document/d/e/2PACX-1vR1368vugtUov5VFNzQuDF-baqTyx6E1fUwkBUtNIJXFMZ8Clc6a37Bh1yjAEOLBWSRKoMIuHWZFCGV/pub>`_ 
 
 `Mesh/mask file locations on our servers <https://docs.google.com/document/d/e/2PACX-1vSt67rAGoOvcE2BTcTR-Wx-LTS0EFFOxZYRiUkwHjnioM1a3zf3WpvAt_3nxNd-gDI1l18fPe1DbNfo/pub>`_
+
+`Updating the ERA5 and/or CMC GDPS atmospheric forcing sets once a full year of data becomes available <https://docs.google.com/document/d/e/2PACX-1vQz2_SJnNrHzVvoifjSqHSIr0EOy5Ov2Tt7ddM-cGLZNBQngsArHZ2ifQ2sXL4AOlfZCLbE8h8O_Zrj/pub>`_ 
