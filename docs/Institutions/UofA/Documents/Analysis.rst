@@ -3,6 +3,8 @@ Analysis Tools, Tips, and Tricks
 
 The following documents are to help carry our NEMO analysis, often using matlab, cdftools, and so forth
 
+A simple "plot sea surface height' matlab script that introduces a new user to matlab, NEMO output and M_map. A good place for a new user to start to learn a bit (WESSEX: /home/clark/TestMatlabScript.m)
+
 `Rotating veocity components from model grid to real lat/lon <http://knossos.eas.ualberta.ca/anha/data/Rotating_U_and_V_components_of_velocity.pdf>`_
 
 `Volume flux calculations on NEMO output <http://knossos.eas.ualberta.ca/anha/data/volume_flux_calculation_NEMO_Aug2015_xhu.pdf>`_ 
