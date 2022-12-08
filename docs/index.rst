@@ -8,7 +8,8 @@ Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of th
 
 <img alt="image"
          src="https://meopar.ca/wp-content/uploads/2020/09/meopar_logo-BLUE.png"></img>
-         
+       
+test       
 |
 .. raw:: html
    <iframe width="300" height="200" src="https://meopar.ca/wp-content/uploads/2020/09/meopar_logo-BLUE.png;single=true&amp;widget=true&amp;headers=false"></iframe>
