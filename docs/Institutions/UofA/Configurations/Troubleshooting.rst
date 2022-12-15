@@ -34,6 +34,6 @@ This is an automatic email to request data which was initiated by a user via a l
  
    GLOBUS EMAIL:
  
-   REASON for the data request:
+   REASON FOR DATA REQUEST:
  
 This user is requesting output stored at [ see table "Local Output Location"  ]. Our server admin will reply once this request is approved and will provide further instruction on how to transfer the data via GLOBUS
