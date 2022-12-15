@@ -19,9 +19,9 @@ This is a result of the email protocol handlers not functioning like we want the
 |
 
 3: Still cannot get it to work:
-At this point, you should just be able to copy the below and send it to our admin. The link automatically includes some infomation within [] so it would be very helpful if you could fill those in below as well.
+At this point, you should just be able to copy the below and send it to our admin. The link automatically includes some infomation within [] that the admin requires to give you access (globus email as well as the path to the output), so it would save them a bit of time if you could manually edit that below:
 
-Email to: pennelly AT ualberta.ca and nemouofa AT gmail.com
+Email: pennelly AT ualberta.ca and nemouofa AT gmail.com
 
 Subject: Request for model output: [ Inset simulation name like ANHA4-ECP007 ]
 
