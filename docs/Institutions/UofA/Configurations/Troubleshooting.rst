@@ -28,7 +28,7 @@ Subject: Request for model output: [ Inset simulation name like ANHA4-ECP007 ]
 Body of text:
 This is an automatic email to request data which was initiated by a user via a link on the Canadian NEMO forum site. This user should fill in their contact information, specifically their
 
-   NAME: tahya
+   NAME: 
  
    INSTITUTION:
  
