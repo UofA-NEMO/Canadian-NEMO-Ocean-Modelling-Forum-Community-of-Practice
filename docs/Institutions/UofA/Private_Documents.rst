@@ -1,7 +1,7 @@
-Private_Documents
+Private Documents
 =================
 
-Documents listed below are for private lab members only. Visitors will not have access to them:
+Documents listed below are for private lab use only. Visitors(lab members) will not have access to any(some) of the following:
 
 |
 
