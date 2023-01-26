@@ -25,5 +25,5 @@ O-SNAP python code to calculate MOC across the OSNAP section (`Information <http
 
 `OpenStreetMap Versus M_Map coastlines with matlab: <https://docs.google.com/document/d/e/2PACX-1vQy8pWV4fbrw6dvuzNMF1ZSVcjCAHzozz-bVhyg6YOZ0GV8u7oNHOKHgEGOgZYvvUPqYrM8jSR2di5w/pub>`_ 
 
-`Ocean Parcels: Langrangian Python toolbox <https://oceanparcels.org/>`_ 
+`Ocean Parcels: Lagrangian Python toolbox <https://oceanparcels.org/>`_ 
 
