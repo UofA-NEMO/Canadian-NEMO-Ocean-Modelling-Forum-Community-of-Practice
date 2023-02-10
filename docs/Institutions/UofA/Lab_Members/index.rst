@@ -19,9 +19,6 @@ Present Members
 
 |
 
-|
-
-
 .. figure:: hannah_headshot.jpeg
     :align: right
     :figwidth: 200px
