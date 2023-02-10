@@ -11,6 +11,29 @@ Present Members
 
 * Clark Pennelly: I'm currently a postdoctoral fellow with Paul Myers, where I spend most of my time developing new NEMO model configurations, updating our lab to newer NEMO versions,  building this website, and addressing any issues our lab members have with NEMO. I finished my PhD on modelling stratification within the Labrador Sea with Paul Myers in 2021, and before that I worked with Paul as a research assistant, setting up and carrying out numerical simulations using the AGRIF nesting software
 
+.. figure:: hannah_headshot.jpeg
+    :align: right
+    :figwidth: 200px
+
+* Hannah Louis: I'm currently a MSc student with Dr. Myers working on understanding climate change in the Hudson and James Bay region using NEMO. In my free time, you can find me either bouldering, training in the boxing gym, or trying to improve my espresso making. 
+
+.. figure:: rowan_headshot.png
+    :align: right
+    :figwidth: 200px
+
+* Rowan Brown: I am a master’s student working on modelling the Labrador Sea under the supervision of Dr Paul Myers. Ironically, I recently moved here from Newfoundland and Labrador where I was working as an ocean engineer.
+
+.. figure:: nadiya_headshot.jpeg
+    :align: right
+    :figwidth: 200px
+
+* Nadiya Shore (Undergrad): Nadiya Shore is a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing her undergraduate thesis with Dr. Myers’ lab. Her research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. Nadiya is very passionate about the arts and science communication, engaging with the local community at the TELUS World of Science Edmonton. She hopes to continue her education with a focus on Arctic climate, eventually becoming involved with climate policy.
+
+.. figure:: tahya_photo.jpg
+    :align: right
+    :figwidth: 200px
+
+* Tahya Weiss-Gibbons: I am currently a PhD student with Dr. Paul Myers, and I am interested in understanding climate change in the Arctic through modelling. Currently I study atmosphere-ocean interactions in high resolution coupled climate model simulations. I also previously completed my Masters degree with Paul, looking at the sensitivity of the Arctic Ocean to changes in river runoff. 
 
 
 Past Members
