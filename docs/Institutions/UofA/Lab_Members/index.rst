@@ -23,6 +23,8 @@ Present Members
 
 |
 
+|
+
 .. figure:: rowan_headshot.png
     :align: right
     :figwidth: 200px
@@ -49,6 +51,12 @@ Present Members
     :figwidth: 200px
 
 * Tahya Weiss-Gibbons: I am currently a PhD student with Dr. Paul Myers, and I am interested in understanding climate change in the Arctic through modelling. Currently I study atmosphere-ocean interactions in high resolution coupled climate model simulations. I also previously completed my Masters degree with Paul, looking at the sensitivity of the Arctic Ocean to changes in river runoff. 
+
+|
+
+
+|
+
 
 |
 
