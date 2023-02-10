@@ -23,3 +23,7 @@ O-SNAP python code to calculate MOC across the OSNAP section (`Information <http
 
 `Make a multi-panel movie from a series of images <https://docs.google.com/document/d/1SJgsvEI7txiPzPnao93vASBPTL_j1ADAAh2bkLEThTg/edit?usp=sharing>`_ 
 
+`OpenStreetMap Versus M_Map coastlines with matlab: <https://docs.google.com/document/d/e/2PACX-1vQy8pWV4fbrw6dvuzNMF1ZSVcjCAHzozz-bVhyg6YOZ0GV8u7oNHOKHgEGOgZYvvUPqYrM8jSR2di5w/pub>`_ 
+
+`Ocean Parcels: Lagrangian Python toolbox <https://oceanparcels.org/>`_ 
+
