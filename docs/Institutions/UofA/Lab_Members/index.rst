@@ -11,6 +11,17 @@ Present Members
 
 * Clark Pennelly: I'm currently a postdoctoral fellow with Paul Myers, where I spend most of my time developing new NEMO model configurations, updating our lab to newer NEMO versions,  building this website, and addressing any issues our lab members have with NEMO. I finished my PhD on modelling stratification within the Labrador Sea with Paul Myers in 2021, and before that I worked with Paul as a research assistant, setting up and carrying out numerical simulations using the AGRIF nesting software
 
+.. figure:: adam_headshot.jpg
+    :align: right
+    :figwidth: 200px
+
+* Chuanshuai (Adam) Fu: I study physical oceanography. I work with the numerical output from the coupled ocean/sea ice model NEMO to analyze key processes and variability, explaining how the ocean evolves and interacts with the atmosphere. My MSc project was to investigate how the warm and saline Atlantic Water alters as it flows into the Arctic Ocean through Fram Strait and the Barents Sea Opening. My current projects involve modelling the Beaufort Gyre system and the interaction between sea ice and eddies in the Labrador Sea in very high-resolution (submesoscale) models.
+
+|
+
+|
+
+
 .. figure:: hannah_headshot.jpeg
     :align: right
     :figwidth: 200px
