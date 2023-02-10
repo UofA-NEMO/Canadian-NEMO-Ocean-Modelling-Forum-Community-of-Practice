@@ -17,11 +17,26 @@ Present Members
 
 * Hannah Louis: I'm currently a MSc student with Dr. Myers working on understanding climate change in the Hudson and James Bay region using NEMO. In my free time, you can find me either bouldering, training in the boxing gym, or trying to improve my espresso making. 
 
+|
+
+|
+
+|
+
 .. figure:: rowan_headshot.png
     :align: right
     :figwidth: 200px
 
 * Rowan Brown: I am a master’s student working on modelling the Labrador Sea under the supervision of Dr Paul Myers. Ironically, I recently moved here from Newfoundland and Labrador where I was working as an ocean engineer.
+
+|
+
+|
+
+|
+
+
+|
 
 .. figure:: nadiya_headshot.jpeg
     :align: right
@@ -34,6 +49,8 @@ Present Members
     :figwidth: 200px
 
 * Tahya Weiss-Gibbons: I am currently a PhD student with Dr. Paul Myers, and I am interested in understanding climate change in the Arctic through modelling. Currently I study atmosphere-ocean interactions in high resolution coupled climate model simulations. I also previously completed my Masters degree with Paul, looking at the sensitivity of the Arctic Ocean to changes in river runoff. 
+
+|
 
 
 Past Members
