@@ -5,7 +5,7 @@ Lab Members
 Present Members
 ---------------
 
-.. figure:: pouneh.png
+.. figure:: Pouneh.jpeg
     :align: right
     :figwidth: 200px
 
