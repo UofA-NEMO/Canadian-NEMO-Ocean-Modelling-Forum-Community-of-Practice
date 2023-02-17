@@ -5,6 +5,15 @@ Lab Members
 Present Members
 ---------------
 
+.. figure:: pouneh.png
+    :align: right
+    :figwidth: 200px
+
+
+* Pouneh Hoshyar: I'm a Ph.D. student working with Dr. Myers, focusing on very high-resolution modelling of the Labrador Sea. My research aims to deepen our understanding of how changes in this critical region can affect the Atlantic Meridional Overturning Circulation and global climate. With a background in Civil Engineering, including a BSc and MSc, with a specialization in Water and Hydraulic Structures, I bring a unique perspective to my work. Through my research, I am eager to contribute towards a more sustainable future, one in which we prioritize both scientific discovery and the preservation of our planet.
+
+
+
 .. figure:: Pennelly_picture.png
     :align: right
     :figwidth: 200px
