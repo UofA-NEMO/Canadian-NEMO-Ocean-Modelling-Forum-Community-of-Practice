@@ -34,4 +34,4 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `AGRIF documentation <https://onedrive.live.com/?authkey=%21AJkKZKo31%2DiIwQw&cid=C2D3E0AE7967A795&id=C2D3E0AE7967A795%211695426&parId=C2D3E0AE7967A795%211676213&o=OneUp>`_
 
-`UAlberta NEMO tutorial <https://docs.google.com/document/d/1tWErkIAiK7JBJH2cncMndZaMipDQLvq8UfjwDPBKygA/edit>`_
+`UAlberta NEMO tutorial <https://docs.google.com/document/d/1tWErkIAiK7JBJH2cncMndZaMipDQLvq8UfjwDPBKygA/>`_
