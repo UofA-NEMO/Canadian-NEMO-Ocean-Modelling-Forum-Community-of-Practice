@@ -44,6 +44,8 @@ Stadnyk et al., `Changing freshwater contributions to the Arctic: A 90-year tren
 
 Tao and Myers, `Modelling the advection of pollutants in the Hudson Bay complex <https://doi.org/10.1016/j.jmarsys.2020.103474>`_, Journal of Marine Systems
 
+Schembri et al., `Arctic cod (Boreogadus saida) hatching in the Hudson Bay system: Testing of the freshwater winter refuge hypothesis  <https://doi.org/10.1525/elementa.2021.00042>`_ Elementa, Science of the Anthropocene
+
 |
 2020
 ----
