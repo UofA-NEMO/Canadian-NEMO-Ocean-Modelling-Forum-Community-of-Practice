@@ -23,16 +23,6 @@ Here is a list of the posters our group has presented at conferences around the 
 
 |
 
-`ATLAS Symposium, University of Alberta, Edmonton <https://www.atlasualberta.com/>`_
----------------------------------------------------
-
-2023: Edmonton, Alberta
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
-
-|
-
 2014: Rimouski, Quebec
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -153,6 +143,16 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `Indigenous knowledge co-creation can help predict future climate stability in Hudson Bay; Hannah Louis <../../_static/_UofA/NRD_2023_Edmonton_Hannah_Poster.pdf>`_
 
+
+|
+
+`ATLAS Symposium, University of Alberta, Edmonton <https://www.atlasualberta.com/>`_
+---------------------------------------------------
+
+2023: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
 
 |
 
