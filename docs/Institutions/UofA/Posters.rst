@@ -33,7 +33,7 @@ Here is a list of the posters our group has presented at conferences around the 
 
 |
 
-* Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
+* `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
 
 |
 
