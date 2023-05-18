@@ -20,9 +20,6 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `An Effective Approach to Remap Runoff onto an Ocean Model Grid; Xianmin Hu <../../_static/_UofA/CMOS_P_2015_HU.pdf>`_
 
-
-|
-
 2014: Rimouski, Quebec
 ^^^^^^^^^^^^^^^^^^^^^^
 
