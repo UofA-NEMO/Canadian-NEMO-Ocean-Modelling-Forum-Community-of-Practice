@@ -5,7 +5,7 @@ Lab Members
 Present Members
 ---------------
 
-.. figure:: pouneh.png
+.. figure:: Pouneh.jpeg
     :align: right
     :figwidth: 200px
 
@@ -61,7 +61,7 @@ Present Members
     :align: right
     :figwidth: 200px
 
-* Nadiya Shore (Undergrad): Nadiya Shore is a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing her undergraduate thesis with Dr. Myers’ lab. Her research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. Nadiya is very passionate about the arts and science communication, engaging with the local community at the TELUS World of Science Edmonton. She hopes to continue her education with a focus on Arctic climate, eventually becoming involved with climate policy.
+* I am a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing my undergraduate thesis with Dr. Myers’ lab. My research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. I am very passionate about arts and science communication, and love engaging with the local community through my job at the TELUS World of Science Edmonton. I hope to continue my education with a focus on physical climate, eventually becoming involved with climate policy.
 
 .. figure:: tahya_photo.jpg
     :align: right

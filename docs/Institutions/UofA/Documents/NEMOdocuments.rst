@@ -33,3 +33,8 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 `Updating the ERA5 and/or CMC GDPS atmospheric forcing sets once a full year of data becomes available <https://docs.google.com/document/d/e/2PACX-1vQz2_SJnNrHzVvoifjSqHSIr0EOy5Ov2Tt7ddM-cGLZNBQngsArHZ2ifQ2sXL4AOlfZCLbE8h8O_Zrj/pub>`_ 
 
 `AGRIF documentation <https://onedrive.live.com/?authkey=%21AJkKZKo31%2DiIwQw&cid=C2D3E0AE7967A795&id=C2D3E0AE7967A795%211695426&parId=C2D3E0AE7967A795%211676213&o=OneUp>`_
+
+`UAlberta NEMO tutorial <https://docs.google.com/document/d/1tWErkIAiK7JBJH2cncMndZaMipDQLvq8UfjwDPBKygA/>`_
+
+`Working on Niagara and LAB60 <https://docs.google.com/document/d/e/2PACX-1vTVnzzgpIRgJznZyjqa0h5m61J_XWWxVbWokMX_v8UA4pmChiilBOym59tuddhzg8nEmiKnB7XG8H3D/pub>`_
+
