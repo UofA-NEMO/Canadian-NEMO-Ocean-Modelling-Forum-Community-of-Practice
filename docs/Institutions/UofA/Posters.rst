@@ -21,6 +21,22 @@ Here is a list of the posters our group has presented at conferences around the 
 * `An Effective Approach to Remap Runoff onto an Ocean Model Grid; Xianmin Hu <../../_static/_UofA/CMOS_P_2015_HU.pdf>`_
 
 
+|
+
+`ATLAS Symposium, University of Alberta, Edmonton <https://www.atlasualberta.com/>`_
+---------------------------------------------------
+
+2023: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Bridging the Gap: Examining Climate Change in Hudson Bay with High Resolution Numerical Modelling and Indigenous Knowledge; Hannah Louis <../../_static/_UofA/ATLAS_2023_Edmonton_Hannah_Poster.pdf>`_
+
+|
+
+* Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
+
+|
+
 2014: Rimouski, Quebec
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -120,5 +136,27 @@ Here is a list of the posters our group has presented at conferences around the 
 
 * `The Influence of High Frequency Atmospheric Forcing on the Circulation and Deep Convection of the Labrador Sea; Amber Holdsworth <../../_static/_UofA/Holdsworth_FAMOSPOSTER_AMH_2014.pdf>`_ 
 
+|
 
+`Canadian Conference for Undergraduate Women in Physics <https://ccuwip.cap.ca/>`_
+---------------------------------------------------------------
+
+2023: Regina, Saskachtewan
+^^^^^^^^^^^^^^^^^^^^
+
+* `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/CCUWIP_2023_Regina_Nadiya_poster.pdf>`_
+
+
+|
+
+`Nothern Research Days <https://uanorthernstudents.weebly.com/>`_
+---------------------------------------------------------------
+
+2023: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^
+
+* `Indigenous knowledge co-creation can help predict future climate stability in Hudson Bay; Hannah Louis <NRD_2023_Edmonton_Hannah_Poster.pdf>`_
+
+
+|
 
