@@ -29,10 +29,6 @@ Here is a list of the posters our group has presented at conferences around the 
 2023: Edmonton, Alberta
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Bridging the Gap: Examining Climate Change in Hudson Bay with High Resolution Numerical Modelling and Indigenous Knowledge; Hannah Louis <../../_static/_UofA/ATLAS_2023_Edmonton_Hannah_Poster.pdf>`_
-
-|
-
 * `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
 
 |
@@ -155,7 +151,7 @@ Here is a list of the posters our group has presented at conferences around the 
 2023: Edmonton, Alberta
 ^^^^^^^^^^^^^^^^^^^^
 
-* `Indigenous knowledge co-creation can help predict future climate stability in Hudson Bay; Hannah Louis <NRD_2023_Edmonton_Hannah_Poster.pdf>`_
+* `Indigenous knowledge co-creation can help predict future climate stability in Hudson Bay; Hannah Louis <../../_static/_UofA/NRD_2023_Edmonton_Hannah_Poster.pdf>`_
 
 
 |
