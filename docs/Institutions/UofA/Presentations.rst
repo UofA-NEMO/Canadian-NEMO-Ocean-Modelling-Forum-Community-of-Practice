@@ -81,3 +81,15 @@ Conference/workshop presentations related to members of our lab are listed below
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `On The Generation of Oceanic Internal Gravity Waves by a Cyclonic Surface Stress Disturbancel Georg Sebastian Volker <../../_static/_UofA/sebastian-presentation-ISSF1026.pdf>`_ 
+
+
+|
+
+`ATLAS symposium <https://www.atlasualberta.com/research-symposium.html>`_
+-------------------------------------------------------------------------
+2023: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Bridging the Gap: Examining Climate Change in Hudson Bay with High Resolution Numerical Modelling and Indigenous Knowledge; Hannah Louis <../../_static/_UofA/ATLAS_2023_Edmonton_Hannah_Poster.pdf>`_
+
+|
