@@ -68,11 +68,18 @@ Here is a list of the posters our group has presented at conferences around the 
 `Arctrain Annual Meeting <https://arctrain.de/>`_
 -------------------------------------------------
 
+2022: Orford, Quebec
+^^^^^^^^^^^^^^^^^^^^
+
+* `Exploring the sources and fate of the Cold Atlantic Water (AW) from Ariane experiments, <../../_static/_UofA/Adam_Arctrain_2022_Orford.pdf>`
+
+
 2021: Isle-aux-Coudres, Quebec
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Impact of Runoff Forcing on Ocean Model Simulations in the Pan-Arctic Region; Tahya Weiss-Gibbons <../../_static/_UofA/AAM2021_Poster_Tahya_Weiss-Gibbons.pdf>`_
 
+* `Modelling the Atlantic Water Inflow at the Gateways of the Arctic cean with Two Different Simulations <../../_static/_UofA/Adam_Arctrain_2021_IaC.pdf>`_ 
 |
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
@@ -152,4 +159,11 @@ Here is a list of the posters our group has presented at conferences around the 
 * `Sea Ice and Ocean Evolution of the Northern Canadian Arctic Archipelago Shelf; Nadiya Shore <../../_static/_UofA/ATLAS_2023_Edmonton_Nadiya_Poster.pdf>`_
 
 |
+
+`University of Alberta Internship Poster Symposium`
+
+2019: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Modelling Heat and Salt Flues Across Davis Strait, 2004-2016, uing the ANHA12 Configurations <../../_static/_UofA/Adam_UofA_InternshipPosterSymp_2019.pdf>`_ 
 
