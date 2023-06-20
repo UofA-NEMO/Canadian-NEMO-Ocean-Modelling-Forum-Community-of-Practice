@@ -71,7 +71,7 @@ Here is a list of the posters our group has presented at conferences around the 
 2022: Orford, Quebec
 ^^^^^^^^^^^^^^^^^^^^
 
-* `Exploring the sources and fate of the Cold Atlantic Water (AW) from Ariane experiments; Adam Fu <../../_static/_UofA/Adam_Arctrain_2022_Orford.pdf>`
+* `Exploring the sources and fate of the Cold Atlantic Water (AW) from Ariane experiments; Adam Fu <../../_static/_UofA/Adam_Arctrain_2022_Orford.pdf>`_ 
 
 
 2021: Isle-aux-Coudres, Quebec
