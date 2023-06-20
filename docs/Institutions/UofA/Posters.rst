@@ -166,5 +166,5 @@ University of Alberta Internship Poster Symposium
 2019: Edmonton, Alberta
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Modelling Heat and Salt Flues Across Davis Strait, 2004-2016, uing the ANHA12 Configurations; Adam Fu <../../_static/_UofA/Adam_UofA_InternshipPosterSymp_2019.pdf>`_ 
+* `Modelling Heat and Salt Flues Across Davis Strait, 2004-2016, uing the ANHA12 Configurations; Adam Fu <../../_static/_UofA/Adam_UofA_IntershipPosterSymp_2019.pdf>`_ 
 
