@@ -160,7 +160,8 @@ Here is a list of the posters our group has presented at conferences around the 
 
 |
 
-`University of Alberta Internship Poster Symposium`
+University of Alberta Internship Poster Symposium
+--------------------------------------------------
 
 2019: Edmonton, Alberta
 ^^^^^^^^^^^^^^^^^^^^^^^
