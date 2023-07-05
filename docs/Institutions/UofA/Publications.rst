@@ -5,7 +5,7 @@ Publications related to members of our lab are listed below.
 
 2023
 ----
-Deschepper et al., 'Understanding the Physical Forcings Behind the Biogeochemical Productivity of the Hudson Bay Complex <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007294>`_ , Journal of Geophysical Research: Biogeosciences
+Deschepper et al., `Understanding the Physical Forcings Behind the Biogeochemical Productivity of the Hudson Bay Complex <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007294>`_ , Journal of Geophysical Research: Biogeosciences
 
 |
 2022
