@@ -3,6 +3,11 @@ Publications
 
 Publications related to members of our lab are listed below. 
 
+2023
+----
+Deschepper et al., 'Understanding the Physical Forcings Behind the Biogeochemical Productivity of the Hudson Bay Complex <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007294>`_ , Journal of Geophysical Research: Biogeosciences
+
+|
 2022
 ----
 Tao and Myers, `Modelling the Oceanic Advection of Pollutants Spilt Along with the Northwest Passage <https://doi.org/10.1080/07055900.2022.2065965>`_ , Atmosphere-Ocean
