@@ -14,7 +14,7 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `UofA NEMO FAQ/cheatsheet/hints <https://docs.google.com/document/d/e/2PACX-1vQeYJDD-kAk9ffCqOU15fm27I8FbWCtPdxipjUDHtXtel38-B71xWMeID6k_T6QRaZJ_E4xNFHmCxqk/pub>`_
 
-`Building a weight file for an atmospheric forcing set <https://docs.google.com/document/d/1eIVUDuVo6jB9R4E2EJ94IQupdCAvxDZ4l3WwWMkrpww/edit>`_
+`Building a weight file for an atmospheric forcing set <https://docs.google.com/document/d/e/2PACX-1vQyTC4HP7_sWqgyhjZv_ySh8tMuQBFlr4uWGXHJAzS7wolc8DDihivhZt8jQ4HxdN1qfkP0p1B5wHny/pub>`_
 
 `NEMO timed out but my job finished, what can i do? <https://docs.google.com/document/d/18ZxZAJbwPkFo_wDmAeVc5IValYMT6xj7Yma4IMhfjX0/edit?usp=sharing>`_
 
