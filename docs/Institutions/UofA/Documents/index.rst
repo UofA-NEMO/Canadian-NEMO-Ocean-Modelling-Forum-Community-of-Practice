@@ -18,4 +18,4 @@ Most documents are automatically accessible from a UofA Google account. Outsider
    GLOBUS
    ARIANE
    HPC
-   DOIs
+   Making DOIs
