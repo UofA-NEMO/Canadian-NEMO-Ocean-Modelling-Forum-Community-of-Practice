@@ -8,7 +8,7 @@ A list of PhD and MSc theses from our group.
 
 * Clark Pennelly, PhD, `Modelling Sources of Stratification within the Labrador Sea <https://doi.org/10.7939/r3-2tvx-mj54>`_
 
-* Laura Gillard, PhD, `Modelling the Interconnection of the Ocean and the Greenland Ice Sheet <https://doi.org/10.7939/r3-p634-yg06>`_
+
 
 * Liam Buchart, MSc, `Sea Ice Modelling in the Pikialasorsuaq: Parameters Sensitivities and Future Prospects <https://doi.org/10.7939/r3-btvk-9316>`_
 
@@ -18,6 +18,8 @@ A list of PhD and MSc theses from our group.
 * Natasha Ridenour, PhD, `ON THE CIRCULATION AND FRESHWATER DYNAMICS OF THE HUDSON BAY COMPLEX <https://doi.org/10.7939/r3-7syy-jd18>`_
 
 * Ran Tao, MSc, `Modelling the Long-Term Fate and Transport Pathways of Pollutant in the Canadian Arctic <https://doi.org/10.7939/r3-hgg2-5g21>`_
+
+* Laura Gillard, PhD, `Modelling the Interconnection of the Ocean and the Greenland Ice Sheet <https://doi.org/10.7939/r3-p634-yg06>`_
 
 2019
 ----
