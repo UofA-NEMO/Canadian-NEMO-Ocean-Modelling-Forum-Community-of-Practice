@@ -16,6 +16,8 @@ Pennelly and Myers, `Tracking Irminger Ring's properties using a submesoscale oc
 
 Guo et al., `The Changing Behavior of the West Greenland Current System in a Very High-Resolution Model <https://doi.org/10.1029/2022JC018404>`_, Journal of Geophysical Research: Oceans
 
+Gillard et al., `The effects of atmospheric and lateral buoyancy fluxes on Labrador Sea mixed layer depth <https://www.sciencedirect.com/science/article/pii/S146350032200021X>`_, Ocean Modelling
+
 |
 2021
 ----
