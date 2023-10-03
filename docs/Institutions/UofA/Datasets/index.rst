@@ -17,7 +17,7 @@ Sea Ice Concentration via Satellite
 
 |
 
-AMSR2 data can be found at /mnt/storage6/hlouis/DATA/AMSR2/
+AMSR2 data (regridded to ANAH4 from 6.25km NSIDC North Polar Stereographic grid) can be found at /mnt/storage6/hlouis/DATA/AMSR2/
 
 |
 
