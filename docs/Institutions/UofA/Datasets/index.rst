@@ -11,6 +11,17 @@ Bathymetry Products
 * GEBCO gridded bathymetry data can be found `here <https://www.gebco.net/>`_ or `here <https://www.bodc.ac.uk/data/hosted_data_systems/gebco_gridded_bathymetry_data/>`_
 
 |
+
+Sea Ice Concentration via Satellite
+------------------------------------
+
+|
+
+AMSR2 data can be found at /mnt/storage6/hlouis/DATA/AMSR2/
+
+|
+
+|
 Datasets used to initialize our simulations appear below:
 
 Initial Conditions
