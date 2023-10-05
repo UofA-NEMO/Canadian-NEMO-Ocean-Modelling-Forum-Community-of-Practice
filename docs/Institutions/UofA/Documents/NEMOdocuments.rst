@@ -7,6 +7,8 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `NEMO 3.6 documentation <https://zenodo.org/record/3248739>`_
 
+`Core-year calculator + new configuration estimator <https://docs.google.com/spreadsheets/d/1t-peMbAsEk3sCXb9Sw15VGo5HRBPpGJLXNRbO1Kei8o/edit?usp=sharing>`_ 
+
 `Setting up a new NEMO 3.6 Experiment on Graham: Flowchart <https://lucid.app/lucidchart/81024a6b-ac08-4921-930d-fe0ccc99a41d/view?page=0_0#>`_
 
 `Setting up a new NEMO 3.6 Experiment on Graham: document  <https://docs.google.com/document/d/1W2v8cVzn6AiH2SF37aibwz1p_gZpIbgl/edit>`_
