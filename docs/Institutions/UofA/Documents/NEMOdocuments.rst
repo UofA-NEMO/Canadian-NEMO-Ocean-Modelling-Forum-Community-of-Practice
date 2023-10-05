@@ -3,6 +3,9 @@ NEMO Documents
 
 The following is a list of documents we use for our NEMO simulations. Many are locked to current/past lab members only.
 
+`NEMO 4.2 documentation <https://zenodo.org/record/8167700>`_
+
+`NEMO 3.6 documentation <https://zenodo.org/record/3248739>`_
 
 `Setting up a new NEMO 3.6 Experiment on Graham: Flowchart <https://lucid.app/lucidchart/81024a6b-ac08-4921-930d-fe0ccc99a41d/view?page=0_0#>`_
 
