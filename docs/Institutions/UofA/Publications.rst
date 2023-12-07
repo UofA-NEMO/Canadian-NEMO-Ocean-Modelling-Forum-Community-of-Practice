@@ -7,7 +7,7 @@ Publications related to members of our lab are listed below.
 ----
 Deschepper et al., `Understanding the Physical Forcings Behind the Biogeochemical Productivity of the Hudson Bay Complex <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007294>`_ , Journal of Geophysical Research: Biogeosciences
 
-Fu et al., 'Pulses of Cold Atlantic Water in the Arctic Ocean From an Ocean Model Simulation <https://doi.org/10.1029/2023JC019663>`_, Journal of Geophysical Research: Oceans
+Fu et al., `Pulses of Cold Atlantic Water in the Arctic Ocean From an Ocean Model Simulation <https://doi.org/10.1029/2023JC019663>`_, Journal of Geophysical Research: Oceans
 
 |
 2022
