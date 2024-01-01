@@ -3,6 +3,18 @@ Student Theses
 
 A list of PhD and MSc theses from our group.
 
+
+2023
+----
+
+
+2022
+----
+
+* Chuanshuai (Adam) Fu, MSc, `Modelling the Atlantic Water along its poleward pathway into and through the Arctic Ocean <https://era.library.ualberta.ca/items/5095cc0a-1258-4427-a6b8-86e5d1501b7b>`_
+
+* Tahya Weiss-Gibbons, MSc, `Impacts of River Runoff in the Arctic Ocean: Modelling Changes in Flow and Temperature <https://era.library.ualberta.ca/items/46bc85f1-9029-4736-ad0b-550f9aa892bc>`_
+
 2021
 ----
 
