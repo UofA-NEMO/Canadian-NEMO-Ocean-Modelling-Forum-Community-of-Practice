@@ -1,10 +1,9 @@
 Student Theses
 ==============
 
-A list of PhD and MSc theses from our group.
+A list of PhD, MSc, and/or BS theses from our group.
 
-placeholder:
-|
+
 
 2023
 ----
