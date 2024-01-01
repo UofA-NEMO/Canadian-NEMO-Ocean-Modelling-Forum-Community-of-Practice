@@ -7,7 +7,7 @@ Publications related to members of our lab are listed below.
 ----
 Fu and Myers, `Exceptional sea ice loss leading to anomalously deep winter convection north of Scalbard in 2018 <https://link.springer.com/article/10.1007/s00382-023-07027-8>`_, Climate Dynamics
 
-Ridenour et al., `Drift bottle data hint at large-scale ocean circulation changes <https://www.frontiersin.org/articles/10.3389/fmars.2023.1227894/full>`_, Fronteirs in Marine Science, volume 10.
+Ridenour et al., `Drift bottle data hint at large-scale ocean circulation changes <https://www.frontiersin.org/articles/10.3389/fmars.2023.1227894/full>`_, Frontiers in Marine Science, volume 10.
 
 Deschepper et al., `Understanding the Physical Forcings Behind the Biogeochemical Productivity of the Hudson Bay Complex <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007294>`_ , Journal of Geophysical Research: Biogeosciences
 
