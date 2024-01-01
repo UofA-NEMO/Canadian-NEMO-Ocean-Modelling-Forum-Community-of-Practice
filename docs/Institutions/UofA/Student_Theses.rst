@@ -5,7 +5,6 @@ A list of PhD and MSc theses from our group.
 
 placeholder:
 |
-* Chuanshuai (Adam) Fu, BS, `Sensitivity of Baffin Bay to exchanges through its gateway straits <../../_static/_UofA/Adam_thesis_undergrad.pdf>`_ YEAR NOT KNOWN YET
 
 2023
 ----
@@ -23,8 +22,6 @@ placeholder:
 
 * Clark Pennelly, PhD, `Modelling Sources of Stratification within the Labrador Sea <https://doi.org/10.7939/r3-2tvx-mj54>`_
 
-
-
 * Liam Buchart, MSc, `Sea Ice Modelling in the Pikialasorsuaq: Parameters Sensitivities and Future Prospects <https://doi.org/10.7939/r3-btvk-9316>`_
 
 2020
@@ -35,6 +32,9 @@ placeholder:
 * Ran Tao, MSc, `Modelling the Long-Term Fate and Transport Pathways of Pollutant in the Canadian Arctic <https://doi.org/10.7939/r3-hgg2-5g21>`_
 
 * Laura Gillard, PhD, `Modelling the Interconnection of the Ocean and the Greenland Ice Sheet <https://doi.org/10.7939/r3-p634-yg06>`_
+
+* Chuanshuai (Adam) Fu, BS, `Sensitivity of Baffin Bay to exchanges through its gateway straits <../../_static/_UofA/Adam_thesis_undergrad.pdf>`_
+
 
 2019
 ----
