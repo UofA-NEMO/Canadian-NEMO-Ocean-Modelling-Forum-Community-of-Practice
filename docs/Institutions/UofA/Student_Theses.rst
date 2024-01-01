@@ -4,7 +4,8 @@ Student Theses
 A list of PhD and MSc theses from our group.
 
 placeholder:
-* Chuanshuai (Adam) Fu, BS, `Sensitivity of Baffin Bay to exchanges through its gateway straits <../../_static/_UofA/Adam_thesis_undergrad.pdf>
+|
+* Chuanshuai (Adam) Fu, BS, `Sensitivity of Baffin Bay to exchanges through its gateway straits <../../_static/_UofA/Adam_thesis_undergrad.pdf>`_ YEAR NOT KNOWN YET
 
 2023
 ----
