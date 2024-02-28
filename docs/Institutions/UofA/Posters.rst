@@ -27,23 +27,15 @@ Here is a list of the posters our group has presented at conferences around the 
 
 |
 
-`Canadian Higher Education Information Technology Conference (CANHEIT) <https://www.cuccio.net/en/events/canheit.html>`_
-------------------------------------------------------------
 
-2016: Edmonton, Alberta
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `High-Resolution Ocean Simulations using the NEMO ocean model and AGRIF nesting Software; Clark Pennelly <../../_static/_UofA/CANHEIT_2016_Pennelly.pdf>`_
-
-* `Numerical Simulations of the Ocean and Sea Ice in the Canadian Arctic Archipelago with NEMO; Nathan Grivault <../../_static/_UofA/CANHEIT_P_2016_Grivault.pdf>`_ 
-
-* `Ocean General Circulation Modelling Using NEMO and the ANHA Configuration; Xianmin Hu <../../_static/_UofA/CANHEIT_P_2016_HU.pdf>`_
-
-
-|
 
 `Ocean Sciences <https://www.aslo.org/>`_
 ----------------
+
+2024: New Orleans, Luisiana, USA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* 'Examining Marine Heat Waves in Hudson Bay with High-Resolution Numerical Modelling; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
 
 2020: San Diego, California
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -168,3 +160,28 @@ University of Alberta Internship Poster Symposium
 
 * `Modelling Heat and Salt Flues Across Davis Strait, 2004-2016, uing the ANHA12 Configurations; Adam Fu <../../_static/_UofA/Adam_UofA_IntershipPosterSymp_2019.pdf>`_ 
 
+|
+
+CAMAS
+-----
+
+2024:
+^^^^^^
+
+* `Numerical Modelling of Marine Heat Wave Drivers in James Bay; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
+
+
+`Canadian Higher Education Information Technology Conference (CANHEIT) <https://www.cuccio.net/en/events/canheit.html>`_
+------------------------------------------------------------
+
+2016: Edmonton, Alberta
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `High-Resolution Ocean Simulations using the NEMO ocean model and AGRIF nesting Software; Clark Pennelly <../../_static/_UofA/CANHEIT_2016_Pennelly.pdf>`_
+
+* `Numerical Simulations of the Ocean and Sea Ice in the Canadian Arctic Archipelago with NEMO; Nathan Grivault <../../_static/_UofA/CANHEIT_P_2016_Grivault.pdf>`_ 
+
+* `Ocean General Circulation Modelling Using NEMO and the ANHA Configuration; Xianmin Hu <../../_static/_UofA/CANHEIT_P_2016_HU.pdf>`_
+
+
+|
