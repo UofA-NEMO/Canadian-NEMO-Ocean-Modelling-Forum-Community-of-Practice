@@ -107,6 +107,13 @@ Present Members
 
 |
 
+Monica Figueroa: Monica is a fourth year undergraduate physics student at the University of Alberta doing her 499 thesis project with Dr. Myers. The goal of her research project is to characterize the variability of sea ice, ocean heat content and circulation in Sverdrup Basin over the past 50 years. In her free time, Monica enjoys baking and making pottery.
+
+|
+
+|
+
+|
 
 Past Members
 ------------
