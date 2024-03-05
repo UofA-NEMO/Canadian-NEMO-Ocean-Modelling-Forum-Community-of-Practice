@@ -90,11 +90,6 @@ Present Members
 
 |
 
-.. figure:: nadiya_headshot.jpeg
-    :align: right
-    :figwidth: 200px
-
-* I am a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing my undergraduate thesis with Dr. Myers’ lab. My research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. I am very passionate about arts and science communication, and love engaging with the local community through my job at the TELUS World of Science Edmonton. I hope to continue my education with a focus on physical climate, eventually becoming involved with climate policy.
 
 .. figure:: tahya_photo.jpg
     :align: right
@@ -113,6 +108,11 @@ Present Members
 
 Past Members
 ------------
+.. figure:: nadiya_headshot.jpeg
+    :align: right
+    :figwidth: 200px
+
+* I am a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing my undergraduate thesis with Dr. Myers’ lab. My research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. I am very passionate about arts and science communication, and love engaging with the local community through my job at the TELUS World of Science Edmonton. I hope to continue my education with a focus on physical climate, eventually becoming involved with climate policy.
 
 * Laura Gillard: Previous PhD student (2020) and Masters student (2015) with Paul Mayers. Now working as a Post Doctoral Fellow at the Centre for Earth Observation Science (CEOS) at the University of Manitoba. To be updated on current works, please visit my `Google Scholar page  <https://scholar.google.ca/citations?hl=en&user=N7EQUeMAAAAJ&view_op=list_works&sortby=pubdate>`_ or `ResearchGate <https://www.researchgate.net/profile/Laura-Gillard-2>`_ 
 
