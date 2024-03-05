@@ -42,7 +42,7 @@ Present Members
 
 |
 
-* Ana Heras Duran: bio
+* Ana Heras Duran: I am a PhD student studying Pacific water masses in Jones Sounds (Aujuittuq) Nunvavut, using both the NEMO model and observations. 
 
 |
 
