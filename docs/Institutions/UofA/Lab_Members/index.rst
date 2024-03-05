@@ -112,7 +112,7 @@ Past Members
     :align: right
     :figwidth: 200px
 
-* I am a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta, completing my undergraduate thesis with Dr. Myers’ lab. My research focuses on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. I am very passionate about arts and science communication, and love engaging with the local community through my job at the TELUS World of Science Edmonton. I hope to continue my education with a focus on physical climate, eventually becoming involved with climate policy.
+* Nadiya completed a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta in 2023 Her undergraduate thesis was with Dr. Myers’ lab focusing on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. She is very passionate about arts and science communication, and loves engaging with the local community through her job at the TELUS World of Science Edmonton. Nadiya is now continuing their education, working towards an MSc at University of Victoria with a focus on physical climate and climate policy.
 
 * Laura Gillard: Previous PhD student (2020) and Masters student (2015) with Paul Mayers. Now working as a Post Doctoral Fellow at the Centre for Earth Observation Science (CEOS) at the University of Manitoba. To be updated on current works, please visit my `Google Scholar page  <https://scholar.google.ca/citations?hl=en&user=N7EQUeMAAAAJ&view_op=list_works&sortby=pubdate>`_ or `ResearchGate <https://www.researchgate.net/profile/Laura-Gillard-2>`_ 
 
