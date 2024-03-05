@@ -162,11 +162,11 @@ University of Alberta Internship Poster Symposium
 
 |
 
-CAMAS
------
+`CAMAS: Consortium for the Advancement of Marine Arctic Science <https://web.cvent.com/event/c2f1da11-1eda-45cf-8cd5-9d09e7a73b95/summary?i=3BByGzjjP0un6loKp3B2AA&locale=en-US>`_
+---------------------------------------------------------------
 
-2024:
-^^^^^^
+2024: Sante Fe, New Mexico, USA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Numerical Modelling of Marine Heat Wave Drivers in James Bay; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
 
