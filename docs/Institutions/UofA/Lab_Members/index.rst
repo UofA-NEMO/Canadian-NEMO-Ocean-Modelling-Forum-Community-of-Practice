@@ -32,7 +32,17 @@ Present Members
     :align: right
     :figwidth: 200px
 
-* Hannah Louis: I'm currently a MSc student with Dr. Myers working on understanding climate change in the Hudson and James Bay region using NEMO. In my free time, you can find me either bouldering, training in the boxing gym, or trying to improve my espresso making. 
+* Hannah Louis: I'm currently a MSc student with Dr. Myers working on understanding Marine Heatwaves in the Hudson and James Bay region using NEMO. I'm interested in the intersection between western science and Indigenous knowledge. In my free time I like to go for runs, train in the boxing gym, or try to improve my espresso making. 
+
+|
+
+|
+
+|
+
+|
+
+* Ana Heras Duran: bio
 
 |
 
@@ -47,6 +57,26 @@ Present Members
     :figwidth: 200px
 
 * Rowan Brown: I am a master’s student working on modelling the Labrador Sea under the supervision of Dr Paul Myers. Ironically, I recently moved here from Newfoundland and Labrador where I was working as an ocean engineer.
+
+|
+
+|
+
+|
+
+|
+
+* Robin Whincup: their bio
+
+|
+
+|
+
+|
+
+|
+
+* Mukulika Pahari: bio
 
 |
 
