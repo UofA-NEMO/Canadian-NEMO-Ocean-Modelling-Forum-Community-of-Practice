@@ -32,7 +32,7 @@ Here is a list of the posters our group has presented at conferences around the 
 `Ocean Sciences <https://www.aslo.org/>`_
 ----------------
 
-2024: New Orleans, Luisiana, USA
+2024: New Orleans, Louisiana, USA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * 'Examining Marine Heat Waves in Hudson Bay with High-Resolution Numerical Modelling; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
