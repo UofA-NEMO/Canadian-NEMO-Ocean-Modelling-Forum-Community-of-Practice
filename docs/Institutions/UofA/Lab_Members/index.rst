@@ -75,8 +75,10 @@ Present Members
 |
 
 |
-
-* Mukulika Pahari: bio
+.. figure:: Mukulika Pahari.jpeg
+    :align: right
+    :figwidth: 200px
+* Mukulika Pahari: I am Mukulika (she/her), a first year MSc. student with Dr. Paul Myers. I hope to look at the northern latitude waters through the lens of high resolution ocean models to uncover (some of) their secrets.
 
 |
 
