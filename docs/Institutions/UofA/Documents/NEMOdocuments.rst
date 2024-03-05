@@ -43,3 +43,5 @@ The following is a list of documents we use for our NEMO simulations. Many are l
 
 `Working on Niagara and LAB60 <https://docs.google.com/document/d/e/2PACX-1vTVnzzgpIRgJznZyjqa0h5m61J_XWWxVbWokMX_v8UA4pmChiilBOym59tuddhzg8nEmiKnB7XG8H3D/pub>`_
 
+`BLING variables and what they mean <https://docs.google.com/document/d/e/2PACX-1vTJ64Oxara0GNbhYpas1SrtP8uIiYvkJJ8vZUKtFdNiMPZvze9mocKb2nDUZKRwKjpnqaoZC-Fg-PHA/pub>`_
+
