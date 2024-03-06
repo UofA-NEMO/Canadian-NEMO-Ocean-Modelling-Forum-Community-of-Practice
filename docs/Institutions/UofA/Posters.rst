@@ -35,7 +35,9 @@ Here is a list of the posters our group has presented at conferences around the 
 2024: New Orleans, Louisiana, USA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* 'Examining Marine Heat Waves in Hudson Bay with High-Resolution Numerical Modelling; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
+* `Examining Marine Heat Waves in Hudson Bay with High-Resolution Numerical Modelling; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
+
+* `The Biogeochemical cycle of ocean life: Numerical models reveal the physical drivers behind pelagic and sympagic primary production; Inge Deschepper <../../_static/_UofA/OSC_2024-IDeschepper.pdf>`_
 
 2020: San Diego, California
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
