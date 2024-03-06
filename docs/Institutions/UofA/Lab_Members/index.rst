@@ -69,6 +69,9 @@ Present Members
 
 |
 
+.. figure:: robin_photo.jpeg
+    :align: right
+    :figwidth: 200px
 * Robin Whincup: their bio
 
 |
