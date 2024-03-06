@@ -45,7 +45,7 @@ Present Members
 .. figure:: ana_headshot.jpeg
     :align: right
     :figwidth: 200px
-* Ana Heras Duran: I am a PhD student studying Pacific water masses in Jones Sounds (Aujuittuq) Nunvavut, using both the NEMO model and observations. 
+* Ana Heras Duran: I am a PhD student studying Atlantic water masses in Jones Sound using both the NEMO model and observations. 
 
 |
 
@@ -109,6 +109,14 @@ Present Members
 
 |
 
+* Laura Gillard: Previous PhD student (2020) and Masters student (2015) with Paul Mayers. Now working as a Post Doctoral Fellow at the Centre for Earth Observation Science (CEOS) at the University of Manitoba. To be updated on current works, please visit my `Google Scholar page  <https://scholar.google.ca/citations?hl=en&user=N7EQUeMAAAAJ&view_op=list_works&sortby=pubdate>`_ or `ResearchGate <https://www.researchgate.net/profile/Laura-Gillard-2>`_ 
+
+|
+
+|
+
+|
+
 .. figure:: monica_headshot.jpeg
     :align: right
     :figwidth: 200px
@@ -123,7 +131,6 @@ Past Members
 
 * Nadiya completed a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta in 2023 Her undergraduate thesis was with Dr. Myers’ lab focusing on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. She is very passionate about arts and science communication, and loves engaging with the local community through her job at the TELUS World of Science Edmonton. Nadiya is now continuing their education, working towards an MSc at University of Victoria with a focus on physical climate and climate policy.
 
-* Laura Gillard: Previous PhD student (2020) and Masters student (2015) with Paul Mayers. Now working as a Post Doctoral Fellow at the Centre for Earth Observation Science (CEOS) at the University of Manitoba. To be updated on current works, please visit my `Google Scholar page  <https://scholar.google.ca/citations?hl=en&user=N7EQUeMAAAAJ&view_op=list_works&sortby=pubdate>`_ or `ResearchGate <https://www.researchgate.net/profile/Laura-Gillard-2>`_ 
 
 * Nathan Grivault: I was a PhD student, and briefly a post-doc, under Paul Myers supervision. My main research focus was the freshwater fluxes out of the Arctic towards the northern Atlantic region, and in particular the role of Baffin Bay and the Canadian Arctic Archipelago. Currently working as a geophysical developer at the Swedish Meteorological and Hydrological Institute (SMHI) in the Oceanographic Research unit.
 
