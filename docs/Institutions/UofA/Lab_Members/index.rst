@@ -42,6 +42,9 @@ Present Members
 
 |
 
+.. figure:: ana_headshot.jpeg
+    :align: right
+    :figwidth: 200px
 * Ana Heras Duran: I am a PhD student studying Pacific water masses in Jones Sounds (Aujuittuq) Nunvavut, using both the NEMO model and observations. 
 
 |
@@ -75,7 +78,8 @@ Present Members
 |
 
 |
-.. figure:: Mukulika_Pahari.jpeg
+
+.. figure:: mukulika_headshot.jpeg
     :align: right
     :figwidth: 200px
 
@@ -104,6 +108,11 @@ Present Members
 
 
 |
+
+.. figure:: monica_headshot.jpg
+    :align: right
+    :figwidth: 200px
+* Monica Figueroa: Monica is a fourth year undergraduate physics student at the University of Alberta doing her 499 thesis project with Dr. Myers. The goal of her research project is to characterize the variability of sea ice, ocean heat content and circulation in Sverdrup Basin over the past 50 years. In her free time, Monica enjoys baking and making pottery.
 
 
 Past Members
