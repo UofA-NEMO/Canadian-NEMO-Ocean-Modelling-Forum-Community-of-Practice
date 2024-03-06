@@ -42,10 +42,10 @@ Present Members
 
 |
 
-.. figure:: ana_headshot.jpeg
+.. figure:: ana_photo.jpg
     :align: right
     :figwidth: 200px
-* Ana Heras Duran: I am a PhD student studying Atlantic water masses in Jones Sound using both the NEMO model and observations. 
+* Ana Heras Duran: I'm a PhD student working with Dr. Myers and part of the Ice2Ocean project which is a community based project in the Canadian High Arctic. We work in collaboration with the Aujuittuq hamlet who are our partners in the data collection. My research is focused on understanding the marine physical dynamics in Jones Sound, the distribution and evolution of the Atlantic Water in the region and its impacts on glacier melt. I use both, NEMO model and observations.
 
 |
 
