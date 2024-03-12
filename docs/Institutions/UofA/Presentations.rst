@@ -4,6 +4,12 @@ Presentations
 Conference/workshop presentations related to members of our lab are listed below. Click the link to view the presentation.
 
 |
+`Ocean Sciences <https://www.agu.org/ocean-sciences-meeting>`_
+2024: New Orleans, LA, USA
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Year-round perspective on marine physical dynamics and sea ice in Jones Sound, Nunavut; Ana Heras Duran <../../_static/UofA/OSM2024-Heras Duran.pdf>`_
+
+|
 
 `ArcticNet <https://arcticnet.ulaval.ca/>`_
 -------------------------------------------
