@@ -30,7 +30,7 @@ Here is a list of the posters our group has presented at conferences around the 
 
 
 `Ocean Sciences <https://www.aslo.org/>`_
-----------------
+--------------------------------------------
 
 2024: New Orleans, Louisiana, USA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -38,6 +38,11 @@ Here is a list of the posters our group has presented at conferences around the 
 * `Examining Marine Heat Waves in Hudson Bay with High-Resolution Numerical Modelling; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
 
 * `The Biogeochemical cycle of ocean life: Numerical models reveal the physical drivers behind pelagic and sympagic primary production; Inge Deschepper <../../_static/_UofA/OSC_2024-IDeschepper.pdf>`_
+
+* `Mixing Processes in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models; Rowan Brown  <../../_static/_UofA/RowanBrown_OSM2024_poster_A0.pdf>`_
+
+* `Investigating the role of extratropical cyclones in deep water formation in the Labrador and Nordic Seas; Robin Whincup <../../_static/_UofA/ResearchPosterCAMAS&OSM2024-RobinWhincup.pdf>`_
+
 
 2020: San Diego, California
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -171,6 +176,10 @@ University of Alberta Internship Poster Symposium
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Numerical Modelling of Marine Heat Wave Drivers in James Bay; Hannah L. Louis <../../_static/_UofA/HannahLouis_CAMAS_OS_2023_poster.pdf>`_
+
+* `Exploring the mechanisms driving Irminger Water bifurcation into the northern Labrador Sea and Davis Strait; Mukulika Pahari <../../_static/_UofA/MukulikaCAMAS_Poster2024.pdf>`_
+
+* `Investigating the role of extratropical cyclones in deep water formation in the Labrador and Nordic Seas; Robin Whincup <../../_static/_UofA/ResearchPosterCAMAS&OSM2024-RobinWhincup.pdf>`_
 
 
 `Canadian Higher Education Information Technology Conference (CANHEIT) <https://www.cuccio.net/en/events/canheit.html>`_
