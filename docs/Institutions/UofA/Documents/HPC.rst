@@ -217,7 +217,7 @@ SimName='ARC60-ECP004'
 
 date
 
- tar -czvf ${SimName}_gridT.tar.gz *gridT*.nc
+tar -czvf ${SimName}_gridT.tar.gz *gridT*.nc
 
 date
 
