@@ -192,19 +192,33 @@ Step 2: Tar the files up into a single file. If you know this will exceed 1 TB b
 Tarring files: I have a few sh scripts that look like this (this one is for gridT)
 
 #!/bin/ksh
+
 #SBATCH -J Tar_gridT
+
 #SBATCH --nodes=1 --ntasks-per-node=1
+
 #SBATCH --mem-per-cpu=10000
+
 #SBATCH -t 00-24:00        ## 0 day, 24 hour, 0 minutes
+
 #SBATCH -o slurm-mem-%j.out
+
 #SBATCH -e slurm-mem-%j.err
+
 #SBATCH --switches=1
+
 #SBATCH --mail-type=ALL
+
 #SBATCH --mail-user=YOUR EMAIL
+
 #SBATCH --account=YOUR ACCOUNT INFO
+
 SimName='ARC60-ECP004'
+
 date
+
  tar -czvf ${SimName}_gridT.tar.gz *gridT*.nc
+
 date
 
 That will tar and zip up the gridT files for your SimName. This may take a few hours on the HPC system, ARC60 takes about 12 hours or so, but others will be less. Adjust your time accordingly
@@ -220,7 +234,9 @@ Step 4: Copy/rsync over to nearline. This isn't too difficult, find the director
 Step 5: verify the files are OK on nearline. I like to use tar -tf on the file to make sure the file is readable. It should print out a list of the files contained within the gz file. If it doesn't contain the files you want, or gives some other error (which will happen if you use split, don't worry, but try combining in step 7 to make sure things are OK!), figure out what went wrong and fix it.
 
 tar -tf ARC60-ECP004_icemod.tar.gz
+
 ARC60-ECP004_y1994m01d01_icemod.nc
+
 ARC60-ECP004_y1994m01d02_icemod.nc
 
 Step 6: Retrieving data from nearline. After a week or so of copying your data to nearline, your data should be retrieveable. You can copy the data just like we did in step 4, but this time we send it from nearline to your scratch/project space on Graham
