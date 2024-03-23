@@ -168,5 +168,68 @@ gra-login3:~ > matlab -nodisplay
 
 Notes: keep interactive jobs to a duration no more than 3 hours- anything longer can take a long time to open up. 3 hours or less should open quickly (unless you request a lot of ntasks). 
 
+
+`Nearline <https://docs.alliancecan.ca/wiki/Using_nearline_storage>`_ (Tape storage)
+-------------------------------------------------------------------------------------
+
+On Graham, we have a project space which is permanent, a scratch space which files are deleted after ~60 days of no use, and a tape space for permanent, long-term storage. This tape storage is Nearline. Nearline is an important way for us to back up files as we have a lot of space there, but it has some very particular situations
+
+1: Nearline is not accessible when you sbatch/srun your jobs. This means Nearline data is effectively cold storage and not for analysis. It is meant to be a backup for data you care a lot about, or a final home for data you don't care much for but cannot delete for reasons.
+
+2: It is a tape device, not the regular HDD/SSD disks we are familiar with. This means that when you move data to nearline, it might register as being there, but it may take a week or so to actually be recorded there.
+
+3: The manner of which data is sent to tape is a bit different than the usual HDD/SSD devices. Tape spaces are best when used for individual large files. For our purposes, this means tarring up our model output and/or restarts into a single file (or a couple, I'll get to that below) rather than copying over the individual gridTUVW files. Support makes this very clear, don't copy over many files, copy over a small number of large files
+
+4: How large should these files be? Since you are not able to sbatch or srun to access nearline, you have to copy/rsync from the login node. The login node will shutdown commands that take longer than ~60 minutes. Testing this means that while nearline likes files less than 2 TB in size, if you exceed 1 TB you might have a shutdown occur in your copy/rsync and you will have to repeat it again. Aim for file sizes at about 1TB or a bit less.
+
+How do effectively migrate data to nearline?
+--------------------------------------------
+
+Step 1: Get all your data you want to move to nearline in one location
+
+Step 2: Tar the files up into a single file. If you know this will exceed 1 TB by quite a bit, do it in smaller chunks. For example, ARC60 takes about 6 TB of data for a single simulation year. I'll tar ARC60 files BY year and by file type. So each tar file sent over to nearline looks like ARC60-ECP004_y1993_gridT.tar.gz.
+
+Tarring files: I have a few sh scripts that look like this (this one is for gridT)
+
+#!/bin/ksh
+#SBATCH -J Tar_gridT
+#SBATCH --nodes=1 --ntasks-per-node=1
+#SBATCH --mem-per-cpu=10000
+#SBATCH -t 00-24:00        ## 0 day, 24 hour, 0 minutes
+#SBATCH -o slurm-mem-%j.out
+#SBATCH -e slurm-mem-%j.err
+#SBATCH --switches=1
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=YOUR EMAIL
+#SBATCH --account=YOUR ACCOUNT INFO
+SimName='ARC60-ECP004'
+date
+ tar -czvf ${SimName}_gridT.tar.gz *gridT*.nc
+date
+
+That will tar and zip up the gridT files for your SimName. This may take a few hours on the HPC system, ARC60 takes about 12 hours or so, but others will be less. Adjust your time accordingly
+
+Step 3: Split files if needed. Maybe you just finished tarring your files up but the file is now 2.7 TB in size. That is a bit too much to copy over to nearline without getting the job getting "killed". There is a way to `split this file up <https://docs.alliancecan.ca/wiki/A_tutorial_on_%27tar%27#Splitting_files>`_ :
+
+split -b 1000000MB ARC60_gridT_1993.tar.gz ARC60_gridT_1993_spit
+
+This will make a number of ARC60_gridT_1993_spit files that have a letter added to the end of them (starting with A). They will not exceed the amount of MB you supplied with split, so now you have files that nearline can accept.
+
+Step 4: Copy/rsync over to nearline. This isn't too difficult, find the directory on nearline you want the data stored, making a new directory if needed. Then, from your non-nearline directory, copy/rsync the file over to the destination. It will take some time.
+
+Step 5: verify the files are OK on nearline. I like to use tar -tf on the file to make sure the file is readable. It should print out a list of the files contained within the gz file. If it doesn't contain the files you want, or gives some other error (which will happen if you use split, don't worry, but try combining in step 7 to make sure things are OK!), figure out what went wrong and fix it.
+
+tar -tf ARC60-ECP004_icemod.tar.gz
+ARC60-ECP004_y1994m01d01_icemod.nc
+ARC60-ECP004_y1994m01d02_icemod.nc
+
+Step 6: Retrieving data from nearline. After a week or so of copying your data to nearline, your data should be retrieveable. You can copy the data just like we did in step 4, but this time we send it from nearline to your scratch/project space on Graham
+
+Step 7: Recombining split filets (if you used step 3 above to split). Use 'cat' to combine them back
+
+cat ARC60_gridT_1993_spit* > ARC60_gridT_1993.tar.gz
+
+
+
 More to come.
 
