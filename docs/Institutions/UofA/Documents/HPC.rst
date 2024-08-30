@@ -245,6 +245,19 @@ Step 7: Recombining split filets (if you used step 3 above to split). Use 'cat' 
 
 cat ARC60_gridT_1993_spit* > ARC60_gridT_1993.tar.gz
 
+NIAGARA: Archiving Data to $ARCHIVE
+-----------------------------------
+
+The Niagara HPC system has a nearline-like system to back up data to. I find it superior to nearline for a few reasons: the HSI scripts work nice and fast (more in a moment) and Archive has globus endpoints so we can easily transfer data off the system.
+
+Process:
+log into Niagara as usual
+get a short job using salloc: salloc -p archiveshort -t 1:00:00
+wait until you are allocated the job. Then issue hsi: hsi
+This will activate the link between Niagara and Archive. Before, $archie would have been a known destination but you would not have been able to access it. After using hsi, you can now cd/ls/etc to $archive
+Go to the directory you want to backup some files. I'm going to use ARC60's iceberg data from 1994 as an example
+cd /gpfs/fs0/project/p/pmyers/pennelly/ARC60/ARC60-ECP004-S/1994
+Make a job script that will handle the compression and migration of files to $Archive. I'm naming mine MakeHTARandSendToArchive_icebergs.ksh which looks like the following (see https://docs.scinet.utoronto.ca/index.php/HPSS for some help)
 
 
 More to come.
