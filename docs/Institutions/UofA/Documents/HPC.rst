@@ -250,15 +250,20 @@ NIAGARA: Archiving Data to $ARCHIVE
 
 The Niagara HPC system has a nearline-like system to back up data to. I find it superior to nearline for a few reasons: the HSI scripts work nice and fast (more in a moment) and Archive has globus endpoints so we can easily transfer data off the system.
 
-Process:
+To view the archive:
 log into Niagara as usual
 get a short job using salloc: salloc -p archiveshort -t 1:00:00
 wait until you are allocated the job. Then issue hsi: hsi
-This will activate the link between Niagara and Archive. Before, $archie would have been a known destination but you would not have been able to access it. After using hsi, you can now cd/ls/etc to $archive
-Go to the directory you want to backup some files. I'm going to use ARC60's iceberg data from 1994 as an example
-cd /gpfs/fs0/project/p/pmyers/pennelly/ARC60/ARC60-ECP004-S/1994
-Make a job script that will handle the compression and migration of files to $Archive. I'm naming mine MakeHTARandSendToArchive_icebergs.ksh which looks like the following (see https://docs.scinet.utoronto.ca/index.php/HPSS for some help)
+This will activate the link between Niagara and Archive. Before, $archive would have been a known destination but you would not have been able to access it. After using hsi, you will be dropped into your current $ARCHIVE position. You can use SOME linux commands like mkdir, vi, cd, mv, etc. But not all of them. The recommendation is that you only use this method to create new directories, get paths, and maybe delete some files from $ARCHIVE. You will not have access to /scratch or /project, so this is really just to explore the $archive space. Aliases will not work here, as HSI is literally a special interface
 
+To Migrate data to $ARCHIVE
+Log into Niagara as usual. Dont get an interactive session/hsi like above.
+Head to the directory you want to backup some data. I'll use my example: I want to take a single month of ARC60, tar up the gridT files for a given year, send them to $ARCHIVE. This will take place inside my directory /gpfs/fs0/project/p/pmyers/pennelly/ARC60/ARC60-ECP004-S/1994
+See the script : MakeHTARandSendToArchive_gridT_monthly.ksh
+Copy it over to where you want to tar files. Ready and modify the script as needed. And then submit it with sbatch
+Note, if you look at the .out file, you may see "ERRORS" like the following
+   ERROR: [Uint32_tToOctal]Octal field [thb_gid] overflow - width=8 value=6000276
+These can be ignored, it has something to do with user/group ID numbers throwing false errors. Just make sure you dont see "HTAR FAILURE" in the log, that is a bad sign. Should be "HTAR SUCCESSFUL "
 
 More to come.
 
