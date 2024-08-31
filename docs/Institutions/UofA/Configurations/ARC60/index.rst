@@ -11,3 +11,6 @@ ARC60 is our most recent high-resolution configuration, and our first non-nested
 .. raw:: html
 
    <iframe width="740" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpBSqIbq8np8TladN9wRxKWaZDGLDfttz7oBASybI6lD-E0Kg_hXdQAWqfVic91WVjlqhR0qUvqQR8/pubhtml?gid=1122866581&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+ARC60 has a globus endpoint on the Niagara Archive, at /archive/p/pmyers/pennelly/ARC60/{1993..1997}. We currently have each the entire month per year for each grid file type (gridT, gridU, gridV, gridW, icemod, icebergs) in yearly subdirectories as tar files.
