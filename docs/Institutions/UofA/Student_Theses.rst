@@ -4,6 +4,10 @@ Student Theses
 A list of PhD, MSc, and/or BS theses from our group.
 
 
+2024
+----
+* Inge Deschepper, `The biogeochemical dynamics of Canada's largest inland Arctic Sea, the Hudson Bay Complex, revealed through the use of numerical models <https://corpus.ulaval.ca/entities/publication/17377f82-0178-440b-a450-6fd4965e8a14>`_
+
 
 2023
 ----
