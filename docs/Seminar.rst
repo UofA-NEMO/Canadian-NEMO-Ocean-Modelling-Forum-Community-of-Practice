@@ -1,6 +1,7 @@
 Monthly Seminar Series
 ======================================
 
+test
 Each month we invite NEMO researchers and developers an opportunity to show their work in our seminar series. This takes place on zoom on the first monday of each month. If you are interested in presenting your work, please see `this google form <https://docs.google.com/forms/d/e/1FAIpQLSejoRsr-bj92uA1yKdWmb7neb4x7W8f9FmFb0zgqZLE2tw-TA/viewform?usp=sharing>`_ . See our calendar on the main page for the next speaker's abstract and zoom information. This page will provide past speakers of our seminar series.
 
 |
