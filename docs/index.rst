@@ -21,6 +21,7 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Instructions
    Sources
    Groups
+   Seminar Series
 
 Upcoming Events:
 
