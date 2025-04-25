@@ -23,11 +23,24 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Groups
    Seminar
 
-Upcoming Events:
+Upcoming Events
+===============
+
+Canadian Ocean Modelling Consortium Workshop
+--------------------------------------------
+
+Please register for the workshop using this `link <https://docs.google.com/forms/d/e/1FAIpQLSfhg_Pyq5m8e3ivFNN6g5f1WRg9XY5GRcl-zsMeLzQKJmbUIw/viewform?usp=dialog>`_.
+
+.. image:: NEMO_flyer_website.png
+    :align: right
+    :width: 200px
+
+Events Calendar
+---------------
 
 .. raw:: html
 
-   <iframe width="740" height="500" src="https://calendar.google.com/calendar/embed?src=nemouofa%40gmail.com&ctz=America%2FEdmonton" style="border: 0" frameborder="0" scrolling="no"></iframe>> 
+   <iframe width="740" height="500" src="https://calendar.google.com/calendar/embed?src=nemouofa%40gmail.com&ctz=America%2FEdmonton" style="border: 0" frameborder="0" scrolling="no"></iframe> 
    
 
 This website is under active development.
