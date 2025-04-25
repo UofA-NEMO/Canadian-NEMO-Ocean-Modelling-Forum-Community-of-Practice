@@ -32,6 +32,11 @@ Canadian Ocean Modelling Consortium Workshop
 Please register for the workshop using this `link <https://docs.google.com/forms/d/e/1FAIpQLSfhg_Pyq5m8e3ivFNN6g5f1WRg9XY5GRcl-zsMeLzQKJmbUIw/viewform?usp=dialog>`_.
 
 .. image:: NEMO_flyer_website.png
+    :align: right
+    :width: 200px
+
+Events Calendar
+---------------
 
 .. raw:: html
 
