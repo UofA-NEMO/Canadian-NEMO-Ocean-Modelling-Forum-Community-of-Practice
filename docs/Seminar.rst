@@ -7,6 +7,21 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 2025:
 .....
 
+May 5:
+......
+Stephanne Taylor
+----------------
+"Transitioning Port Models to NEMO4.2 with Wetting and Drying"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Fisheries and Oceans Canada currently has a series of six high-resolution (dx ~500m-20m) port ocean prediction systems developed using NEMO3.6 running in a best-effort operational context. Work is underway to migrate the port-scale prediction systems to NEMO4.2, taking advantage of new features including wetting and drying.  Wetting and drying is important for models with high tidal ranges or shallow bathymetry, including the Bay of Fundy and the south Salish Sea.  We present ongoing work and some preliminary results.
+
+Madhurima Chakraborty, Juliana M. Marson, Paul Myers
+----------------------------------------------------
+"Exploring the environmental factors controlling the iceberg season severity along the east coast of Canada"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As the Arctic warms, discharge from the Greenland ice sheet in the form of icebergs has increased in the last decades. Some of these icebergs drift to Canada’s east coast where they become significant hazards to ships and other offshore structures. The yearly number of icebergs crossing 48°N is widely accepted as a measure of iceberg severity on the east Canadian coast. This number has fluctuated widely from year to year in recent decades, making the iceberg season unpredictable, and causing concern for marine industries. Former studies have attributed this variability to different environmental factors, such as ice conditions encountered by iceberg enroute, calving rates from Greenland glaciers, and the ocean temperature over the Labrador shelf. However, scientists do not agree upon which of these factors plays the key role in determining the severity of the iceberg season. Moreover, scarcity of information about icebergs’ behavior outside of the region monitored by International Ice Patrol in collaboration with Canadian Ice Service, makes the understanding of what governs the icebergs’ drift in the upstream portions of their trajectories challenging. To gain deeper insight into this matter, we analyzed observations and outputs from Nucleus for European Modelling of the Ocean (NEMO version 3.6), an ocean model that treats icebergs as Lagrangian particles and is coupled with a sea ice model. Iceberg count south of 48°N showed stronger correlations with Labrador shelf temperature and sea ice area than with Greenland calving rates. Moreover, model outputs suggest that another important driver affecting the number of icebergs reaching 48°N has not yet been considered in the literature: variations in the ocean circulation in Baffin Bay. Most likely, the main factor driving the iceberg season severity off Canada’s east coast changes in different periods, depending on the environment’s mean state.
+
+
 April 7:
 .........
 Luiz Henrique da Silva
