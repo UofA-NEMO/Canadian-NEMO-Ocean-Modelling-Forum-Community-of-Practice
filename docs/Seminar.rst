@@ -7,6 +7,22 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 2025:
 .....
 
+June 2:
+.......
+Xiner Wu
+--------
+"Arctic gateways: exploring the impacts of the Bering Strait in subpolar North Atlantic during the Middle Holocene"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+During the Holocene (the last 11,700 years), tremendous changes happened worldwide. For example, the Bering Strait being only ~53 m deep, would have been closed during glacial intervals with a global sea level decrease, and then reopened during interglacial intervals (e.g., Elias et al., 1996). Sedimentary records (e.g., Jakobsson et al., 2017; Yamamoto et al., 2017) suggest that the Bering Strait inflow to the Arctic was weak in the Early Holocene (11.7-8 thousand years ago) and stronger during the Middle Holocene (8-3.5 thousand years ago). The opening and the subsequent deepening of the Bering Strait from the Early to the Middle Holocene could have increased freshwater influx and outflux of the Arctic Ocean, possibly causing a weakening of the AMOC. This study aims to investigate the sensitivity of North Atlantic dynamics to varying Bering Strait inflows during the Middle Holocene using NEMO 3.6 and the ANHA4 configuration. Simulations are currently underway, and forthcoming analyses will evaluate the resulting oceanographic changes and assess their consistency with proxy data.
+
+Yarisbel Garcia Quintana
+------------------------
+"On the formation mechanisms of Nares Strait ice arches in the NEMO model"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nares Strait, between Greenland and Ellesmere Island, is one of the main pathways connecting the Arctic Ocean to the North Atlantic, and a major conduit along which multi-year sea-ice leaves the Arctic. This transport is modulated by the winter-time formation of ice arches at both ends of the strait. The arches are tightly linked to the maintenance of the North Water Polynya. Therefore, the strait plays an important role in the mass balance of the Arctic sea-ice, influencing the climate of the North Atlantic region.
+However, the remoteness of Nares Strait and the harsh atmospheric and oceanic conditions that predominate nearly all year round, makes it difficult for data collection. While the satellite imagery might offer a very high spatial resolution, their usage is considerably limited as they fail in providing information on sub-surface ocean dynamics properties. As such, many studies have used numerical models to investigate the mechanisms behind Nares Strait ice arches formation. Initial studies suggested that the formation and the stability of the arches depend on the parameterization of the elastic–viscous–plastic rheology. However, more recent research has suggested that, even when using an EVP approach, a specific set of parameters may need to be modified to better simulate Arctic sea-ice on a basin-scale. Our study presents a suit of experiments carried using the state-of-the-art ocean model Nucleus for European Modelling of the Ocean, coupled to two different sea-ice models LIM3 and SI3. Through these experiments we explore Nares Strait sea-ice sensitivity to atmospheric forcing, model resolution, tides and to a set of parameters involved in ice dynamics and mechanical redistribution. Our main goal is to identify the ideal numerical setting to realistically simulate Nares Strait arches formation, and therefore, the mechanisms behind it. The preliminary results of this project will be presented during the Congress.
+
+
 May 5:
 ......
 Stephanne Taylor
