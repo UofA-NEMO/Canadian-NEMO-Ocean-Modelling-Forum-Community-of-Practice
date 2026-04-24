@@ -28,12 +28,19 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 |
 
 .. figure:: meopar_logo-BLUE.png
-    :align: right
+    :align: left
     :figwidth: 200px
 
 Upcoming Events
 ===============
 Next seminar speakers: `February 2nd 2026, Youyou Lu and Adam Fu <https://canadian-nemo-ocean-modelling-forum-commuity-of-practice.readthedocs.io/en/latest/Seminar.html#id1>`_
+
+Canadian Ocean Modelling CoP Workshop: May 11 and 13, 2026:
+.. figure:: 2026_NEMO_CoP_Poster.pdf
+    :align: right
+    :figwidth: 300px
+
+|
 
 Events Calendar
 ---------------
