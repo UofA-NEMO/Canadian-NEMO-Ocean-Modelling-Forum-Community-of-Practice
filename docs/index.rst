@@ -39,7 +39,7 @@ Next seminar speakers: `February 2nd 2026, Youyou Lu and Adam Fu <https://canadi
 
 Canadian Ocean Modelling CoP Workshop: May 11 and 13, 2026:
 
-.. figure:: 2026_NEMO_CoP_Poster.pdf
+.. figure:: 2026_NEMO_CoP_Workshop.png
     :align: right
     :figwidth: 300px
 
