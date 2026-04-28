@@ -6,8 +6,23 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 |
 2026:
 .....
-February 2nd
-............
+
+May 4th 2026
+.............
+Patrick Farnole from University of Victoria
+"Modeling Ringed and Bearded Seal Future Habitats Indicates Stability, Shifts, and Refugia"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Understanding how marine habitats are changing with a warming Arctic is essential for conservation, management, and adaptation strategies bearing tangible consequences for Arctic communities and ecosystems. Ringed seals and bearded seals rely on specific ice and snow conditions to support critical life history events affecting survival and reproduction. Here, we develop a panarctic habitat suitability model linking life events and environmental conditions. With Earth System Models, we simulate habitat over 1850–2100, revealing a relatively stable past habitat contrasting with rapid regional shifts in contemporary simulations and future projections. Core historical habitats are projected to decline, but two regions arise as potential refugia—the East Siberian Sea and Canadian Arctic Archipelago—that could support ice seal populations towards 2100. These findings underscore the importance of refined monitoring and regional conservation strategies for ringed and bearded seals, and their unique ecosystem
+
+|
+Pouneh Hoshyar from University of Alberta
+"High-Resolution Modelling of Labrador Current Eddies and Instability Processes in a 1/60° NEMO Configuration"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Labrador Sea is a key region of deep water formation that contributes to the Atlantic Meridional Overturning Circulation (AMOC). Along its western boundary, the Labrador Current transports cold, fresh waters originating from Arctic and Greenland. Its close proximity to the deep convection region allows it to potentially influence interior stratification and water mass transformation. However, the role of mesoscale and submesoscale processes, particularly eddies and instability mechanisms, along the western margin of the Labrador Sea in regulating these processes remains incompletely understood and is often poorly represented in coarse-resolution climate models. In this study, we investigate the variability of eddy activity and associated energy conversion processes in the Labrador Current using the high-resolution eddy-resolving configuration of the NEMO ocean-sea-ice model, which includes multiple nests to achieve 1/60° resolution in the Labrador Sea. We quantify the contributions of baroclinic and barotropic instabilities to Eddy Kinetic Energy (EKE). We compute eddy–mean energy conversions, separating baroclinic (mean available potential energy to eddy potential energy) and barotropic (mean kinetic energy to EKE) instabilities, to quantify how shear- and buoyancy-driven processes contribute to transient kinetic energy in the Labrador Current. Our results show that EKE is strongly surface-intensified and organized along the inshore and shelf-break branches of the Labrador Current, with variability largely governed by baroclinic instability. Freshwater exchange across isobaths indicates predominantly onshore transport, while remaining largely confined to the boundary current, suggesting limited lateral spreading into the basin interior. These findings highlight the importance of resolving boundary-current instabilities for accurately representing freshwater redistribution and stratification in the Labrador Sea, with implications for understanding variability in deep convection and the subpolar AMOC.
+
+|
+February 2nd 2026
+..................
 Youyou Lu from DFO
 ------------------
 "Sea level variations and underlying dynamics: Based on comparison and analyses of observation data and models"
@@ -27,8 +42,8 @@ Ocean eddies play crucial roles in climate and marine ecosystems. Still, small m
 |
 2025:
 .....
-December 1st
-............
+December 1st 2025
+..................
 Rowan Brown from LMU Munich
 ----------------------------
 The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models - 
@@ -42,8 +57,8 @@ The MObservationalist Approach: thoughts from a model-adjacent ocean observation
 Advancing our understanding of ocean dynamics and the role of marine heat and freshwater transport, biogeochemical cycling, and climate feedbacks is critical to assess the current state of the ocean and predict its future evolution. To progress in this field requires the use of a variety of tools, including the complimentary application of in situ observations and numerical ocean circulation model. As a field-going Arctic oceanographer I have utilized a wide variety of observational techniques, from CTD profiling through sea ice with Inuit partners, to deploying autonomous underwater vehicles from large icebreakers, to multibeam seabed mapping from polar sailboats. In situ measurements are essential for understanding the real world, but observational datasets are limited in time and space. In contrast, numerical ocean circulation models are an extraordinarily powerful tool that can, in essence, allow an oceanographer to be everywhere all at once. Models are simulations however, and their ability to represent reality is only as good as their boundary and initial conditions, the forcings used to drive them, and the physical parameterizations within. Here, I will discuss what I have learned working alongside a NEMO ocean modelling group, some the limitations and strengths of models, and how field observations and models together have great potential to advance the state of oceanography in a rapidly changing world.
 
 |
-November 3rd
-............
+November 3rd 2025
+..................
 Jonathan Izett
 --------------
 "How large does a “regional” domain have to be to accurately simulate Canada’s three oceans on climate timescales?" 
@@ -57,8 +72,8 @@ Antoine Haddon
 In the Arctic, blooms of primary producers develop at the bottom of sea ice, leading to high concentrations of biomass accumulating at the ice-ocean interface. These dense ice algal formations detach when sea ice warms and can sink rapidly, thereby contributing to the deep export of carbon, as confirmed by the observation of undegraded ice algal strands and aggregates on the seafloor. Ice algae also play a special role in the Arctic ecosystem as their blooms are the first pulse of primary production when light returns to high latitudes and are often the only food source for primary consumers in the spring. The Canadian Sea Ice Biogeochemistry model (CSIB) is being implemented in the Canadian Earth System Model (CanESM) within the NEMO ocean model, thereby allowing the inclusion of sea ice biogeochemistry in both regional and global climate simulations. The sea ice model (SI3) of NEMO offers a number of advantages towards implementing sea ice biogeochemistry, as in particular SI3 includes a sub-grid cell distribution of sea ice thickness, leading to a better representation of the heterogeneity of light at the bottom of sea ice. Along with improvements in the modeling of photophysiology and export processes, this new implementation of CSIB therefore allows a more accurate representation of ice algal blooms. Recent developments to CSIB included adding variable ice algal stoichiometry to represent photoacclimation and the seasonal evolution of carbon to chlorophyll ratios. Sea ice-ocean exchange processes were also further refined, including turbulent diffusion of nutrients as well as the various mechanisms by which ice algae are released from sea ice into the water column. 
 
 |
-October 6th
-...........
+October 6th 2025
+.................
 Abdoul Tall
 -----------
 "Advancing Biogeochemical Parameterizations in SalishSeaCast: Improved Representation of Oxygen Dynamics in the Salish Sea"
@@ -76,8 +91,8 @@ Irminger Water (IW), originating in the Irminger Current, is an important water 
 
 
 
-September 8th
-.............
+September 8th 2025
+...................
 Bill Merryfield
 ---------------
 "Application of ECCC’s NEMO-based global climate models to seasonal and decadal prediction"
@@ -93,8 +108,8 @@ ANHALYZE is an open-source package, actively being developed in Python, aiming t
 
 
 
-June 2:
-.......
+June 2 2025:
+.............
 Xiner Wu
 --------
 "Arctic gateways: exploring the impacts of the Bering Strait in subpolar North Atlantic during the Middle Holocene"
@@ -109,8 +124,8 @@ Nares Strait, between Greenland and Ellesmere Island, is one of the main pathway
 However, the remoteness of Nares Strait and the harsh atmospheric and oceanic conditions that predominate nearly all year round, makes it difficult for data collection. While the satellite imagery might offer a very high spatial resolution, their usage is considerably limited as they fail in providing information on sub-surface ocean dynamics properties. As such, many studies have used numerical models to investigate the mechanisms behind Nares Strait ice arches formation. Initial studies suggested that the formation and the stability of the arches depend on the parameterization of the elastic–viscous–plastic rheology. However, more recent research has suggested that, even when using an EVP approach, a specific set of parameters may need to be modified to better simulate Arctic sea-ice on a basin-scale. Our study presents a suit of experiments carried using the state-of-the-art ocean model Nucleus for European Modelling of the Ocean, coupled to two different sea-ice models LIM3 and SI3. Through these experiments we explore Nares Strait sea-ice sensitivity to atmospheric forcing, model resolution, tides and to a set of parameters involved in ice dynamics and mechanical redistribution. Our main goal is to identify the ideal numerical setting to realistically simulate Nares Strait arches formation, and therefore, the mechanisms behind it. The preliminary results of this project will be presented during the Congress.
 
 
-May 5:
-......
+May 5 2025
+...........
 Stephanne Taylor
 ----------------
 "Transitioning Port Models to NEMO4.2 with Wetting and Drying"
@@ -124,8 +139,8 @@ Madhurima Chakraborty, Juliana M. Marson, Paul Myers
 As the Arctic warms, discharge from the Greenland ice sheet in the form of icebergs has increased in the last decades. Some of these icebergs drift to Canada’s east coast where they become significant hazards to ships and other offshore structures. The yearly number of icebergs crossing 48°N is widely accepted as a measure of iceberg severity on the east Canadian coast. This number has fluctuated widely from year to year in recent decades, making the iceberg season unpredictable, and causing concern for marine industries. Former studies have attributed this variability to different environmental factors, such as ice conditions encountered by iceberg enroute, calving rates from Greenland glaciers, and the ocean temperature over the Labrador shelf. However, scientists do not agree upon which of these factors plays the key role in determining the severity of the iceberg season. Moreover, scarcity of information about icebergs’ behavior outside of the region monitored by International Ice Patrol in collaboration with Canadian Ice Service, makes the understanding of what governs the icebergs’ drift in the upstream portions of their trajectories challenging. To gain deeper insight into this matter, we analyzed observations and outputs from Nucleus for European Modelling of the Ocean (NEMO version 3.6), an ocean model that treats icebergs as Lagrangian particles and is coupled with a sea ice model. Iceberg count south of 48°N showed stronger correlations with Labrador shelf temperature and sea ice area than with Greenland calving rates. Moreover, model outputs suggest that another important driver affecting the number of icebergs reaching 48°N has not yet been considered in the literature: variations in the ocean circulation in Baffin Bay. Most likely, the main factor driving the iceberg season severity off Canada’s east coast changes in different periods, depending on the environment’s mean state.
 
 
-April 7:
-.........
+April 7 2025
+...............
 Luiz Henrique da Silva
 -----------------------
 "Baffin Bay Annual Freshwater Content and Budget" 
@@ -140,8 +155,8 @@ Ruijian Gou
 High-resolution climate models can resolve more climate variability, including ocean eddies and climate extremes, which are projected to be more prominent with sea ice retreat. They are therefore important for studying the interactions of climate variability at different scales in the Arctic Ocean.Although the meridional overturning circulation in high-resolution climate model shows a smooth weakening on a basin scale, there are abrupt shifts on regional scales only in the high-resolution model, such as a strengthening towards the Arctic. This is induced by resolved ocean eddies and boundary currents that increase the heterogeneity of density at ocean boundary, highlighting the disproportionate and interconnected cross-scale climate tipping points in high-resolution models.The Arctic marine heatwaves, as resolved in high-resolution climate models, would induce stronger future Arctic Ocean warming than current projections, as a feedback from the extreme events to the climate. We also identify an abrupt shift in the Arctic Ocean warming due to shifted Arctic sea ice and increased marine heatwaves in recent years, highlight the importance of increasing extremes in inducing climate transitions.
 
 |
-March 3rd:
-..........
+March 3rd 2025
+...............
  Natasha Ridendour
 -------------------
 "Projecting future climate changes for the Salish Sea using high resolution downscaling"
@@ -157,8 +172,8 @@ As part of the BaySys project, an analysis and comparison of two simplified biog
 
 |
 
-February 3rd:
-.............
+February 3rd 2025
+..................
 Claire Parrott
 ----------------
 “The Role of Glacier Melt on Freshwater Dynamics in the Canadian Arctic”
@@ -174,8 +189,8 @@ The Canadian Operational Network of Coupled Environmental Prediction Systems (CO
 
 |
 
-January 6th:
-............
+January 6th 2025
+.................
 Paul Myers
 -----------
 “Modelling of the Arctic Ocean and Labrador Sea at 1/60th Degree”
