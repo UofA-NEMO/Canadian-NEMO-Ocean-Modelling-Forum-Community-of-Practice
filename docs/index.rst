@@ -26,10 +26,6 @@ Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of th
 |
 
 |
-
-|
- 
-|
 Contents
 ========
 
@@ -54,9 +50,11 @@ Next seminar speakers: `May 4th 2026,Patrick Farnole and Pouneh Hoshyar <https:/
 `Canadian Ocean Modelling CoP Workshop: May 11 and 13, 2026 <_static/_UofA/2026_NEMO_CoP_Workshop.pdf>`_:
 
 |
+
+|
 .. figure:: 2026_NEMO_CoP_Workshop.png
     :align: left
-    :figwidth: 600px
+    :figwidth: 700px
 
 
 Events Calendar
