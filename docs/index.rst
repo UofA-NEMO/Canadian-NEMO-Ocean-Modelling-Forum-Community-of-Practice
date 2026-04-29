@@ -66,7 +66,7 @@ Next seminar speakers: `May 4th 2026,Patrick Farnole and Pouneh Hoshyar <https:/
 |
 .. figure:: 2026_NEMO_CoP_Workshop.png
     :align: left
-    :figwidth: 300px
+    :figwidth: 600px
 
 |
 
