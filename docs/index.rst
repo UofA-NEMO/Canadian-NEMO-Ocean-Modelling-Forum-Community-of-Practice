@@ -54,6 +54,8 @@ Next seminar speakers: `May 4th 2026,Patrick Farnole and Pouneh Hoshyar <https:/
 
 |
 
+|
+
 Events Calendar
 ---------------
 
