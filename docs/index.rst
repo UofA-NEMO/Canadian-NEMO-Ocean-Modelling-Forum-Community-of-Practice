@@ -15,7 +15,8 @@ Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of th
     :align: left
     :figwidth: 200px
 
-
+|
+|
 |
 Contents
 ========
