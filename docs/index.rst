@@ -28,16 +28,6 @@ Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of th
 |
 
 |
-
-|
-
-|
-
-|
- 
-|
-
-|
  
 |
 Contents
@@ -68,9 +58,6 @@ Next seminar speakers: `May 4th 2026,Patrick Farnole and Pouneh Hoshyar <https:/
     :align: left
     :figwidth: 600px
 
-|
-
-|
 
 Events Calendar
 ---------------
