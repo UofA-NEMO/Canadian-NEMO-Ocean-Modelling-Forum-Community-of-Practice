@@ -20,19 +20,26 @@ Model Domains
 eORCA1: eORCA1 domain and grid size. Grid size is based on the diagonal line through the cell.
 
 .. image:: eORCA1_domaingridsize.png
+   :width: 50 %
 
+|
 
 eORCA025: eORCA025 domain and grid size. Grid size is based on the diagonal line through the cell.
 
 .. image:: eORCA025_domaingridsize.png
+   :width: 50 %
 
+|
 
 Canadian Three Oceans Downscaling System (CanTODS): Our regional ocean domain covering Canada's three oceans for both 1/4 and 1/12 degree resolutions. Presently, open boundaries are located at 32N in the Pacific and 26N in the Atlantic. 
 
 .. image:: CanTODS4_domain.png
+   :width: 50 %
 
 .. image:: CanTODS12_domain.png
+   :width: 50 %
 
+|
 
 Model Code
 ----------------
@@ -72,6 +79,7 @@ Jean Sterlin (global ocean)
    * email: jean.sterlin@ec.gc.ca
 Neil Swart (global earth system modelling) 
    * email: neil.swart@ec.gc.ca
+   * `Neil Swart's website`_ 
 Duo Yang (global ocean) 
    * email: duo.yang@ec.gc.ca
 
@@ -79,8 +87,7 @@ Duo Yang (global ocean)
 .. _Natasha Ridenour's ResearchGate: https://www.researchgate.net/profile/Natasha-Ridenour
 .. _Geoff Stanley's GitHub: https://geoffstanley.github.io/
 .. _Geoff Stanley's orcid: https://orcid.org/my-orcid?orcid=0000-0003-4536-8602
-
-
+.. _Neil Swart's website: https://swartn.github.io/ 
 
 
 
