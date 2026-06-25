@@ -20,6 +20,8 @@ DAY 1
 
 * `Meeting Chats: day 1 <_static/_UofA/meeting_saved_new_chat_Day1.txt>`_
 
+* `AI/ML lecture slides <_static/_UofA/AI_ML_Intro-Lecture.pdf>`_
+
 DAY 2
 -----
 
