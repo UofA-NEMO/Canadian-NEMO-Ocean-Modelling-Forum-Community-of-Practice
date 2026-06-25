@@ -1,0 +1,101 @@
+09:00:26	 From read.ai meeting notes : Andrew added read.ai meeting notes to the meeting.
+
+Read provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/pp
+
+Type "read stop" to disable, or "opt out" to delete meeting data.
+10:00:19	 From Nadja Steiner : https://doi.org/10.12952/journal.elementa.000084
+10:01:02	 From Nadja Steiner : We wrote this paper for sea ice biogeochemical modelling, but it addresses a lot of what applies for ocean bgc modelling needs as well
+10:03:15	 From Fred Dupont : https://doi.org/10.12952/journal.elementa.000084
+sorry, Nadja, the link appeared broken... :(
+10:03:43	 From Jose Valentí : Oxygen improvements on SalishSeaCast https://essopenarchive.org/doi/full/10.22541/essoar.177100396.68261433/v2
+10:04:55	 From Debora Lucatelli (CMAR) : Reacted to "https://doi.org/10..." with 👍
+10:05:03	 From Fiona Davidson : Reacted to "https://doi.org/10.1..." with 👍
+10:07:16	 From Debora Lucatelli (CMAR) : @Elise Olson Could you mute the room when not speaking? It is echoing a bit. Thanks.
+10:07:16	 From Debora Lucatelli (CMAR) : [This is an encrypted message]
+10:15:45	 From Amber Holdsworth : Replying to "https://doi.org/10.1..."
+
+https://online.ucpress.edu/elementa/article/doi/10.12952/journal.elementa.000084/112911/What-sea-ice-biogeochemical-modellers-need-from I think this is it
+10:38:15	 From Fred Dupont : A réagi à "https://online.ucp..." avec ❤️
+10:46:37	 From Amber Holdsworth : are people familiar with GLOBAL NEWS 2?
+10:47:05	 From Heather Andres : Mercator Ocean International has been exploring ML in BGC modelling.
+10:48:05	 From Amber Holdsworth : Replying to "are people familiar ..."
+
+https://gmd.copernicus.org/articles/19/867/2026/#section3
+10:48:41	 From Heather Andres : They've been developing BGC hindcasts assimilating ocean colour to support that.
+10:49:46	 From Heather Andres : Coralie Perruche
+11:21:07	 From Michael Dunphy : On forum / email list:  this is infrastructure that someone has to run/maintain. The NEMO folks have a discourse forum for this purpose, would it make sense to participate there instead of building our own parallel version of it?
+11:21:25	 From Stephanne Taylor : Reacted to "On forum / email lis..." with 👍
+11:21:31	 From Olivier Riche (DFO IML) : Reacted to "On forum / email lis..." with 👍
+11:21:48	 From Stephanne Taylor : Replying to "On forum / email lis..."
+
+Added benefit of more visibility within the international community if we go this route
+11:22:17	 From Jared Penney : Reacted to "On forum / email l..." with 👍
+11:22:59	 From Jared Penney : I'm going to get this out of the way here because they are not interesting or unique, but time and people resources
+11:23:18	 From Michael Dunphy : Replying to "I'm going to get thi..."
+
+On GoC side, hiring is a challenge
+11:23:41	 From Geoff Stanley : Reacted to "On forum / email lis..." with 👍
+11:25:30	 From Fred Dupont : On forum / email list:  this is infrastructure that someone has to run/maintain. The NEMO folks have a discourse forum for this purpose, would it make sense to participate there instead of building our own parallel version of it?
+especially since NEMO-Slak is dead!
+11:34:49	 From Nadja Steiner : Agree !
+11:41:22	 From Stephanne Taylor : A note on student funding: the dollar amount of  NSERC graduate student awards (CGRS / PGRS) have only just been increased to a few thousand more than what I was awarded ~10-15 years ago -- it absolutely has not kept up with cost of living
+11:41:34	 From Heather Andres : Reacted to "A note on student fu..." with 👍
+11:41:46	 From Fred Dupont : I guess one issue in Montreal is that the pool of students in oceanography is not very large, compared to the Victoria/Vancouver or Halifax!
+11:42:11	 From Fred Dupont : A réagi à "A note on student ..." avec 😮
+11:42:35	 From Nicolas Lambert : CP4C is a collaborative platform for the university to use the CanESM model system and it has been use in many places : McGill, University of Toronto, etc.CP4C - Collaborative Platform for CanESM
+11:43:17	 From Amber Holdsworth : Paul - can you get around that issue of not having gov't scientists as externals by having them become adjunct to U of A?
+11:45:32	 From Stephanne Taylor : Reacted to "CP4C is a collaborat..." with 👍
+11:49:02	 From Paul Myers : Amber - If someone does supervise students, you can get around it, but it requires extra paperwork
+11:53:22	 From Debora Lucatelli (CMAR) : Regarding the model domain, high-resolution in coastal areas would be well appreciated. So we could better predict the effects of climate change on this economically important area.
+11:54:44	 From Paul Myers : AHYPE is missing more than just the Pacific - it is missing most of the globe! It is basically just Arctic
+11:54:53	 From Michael Dunphy : River routing model is OK, but a river dataset is highly valuable -- we have person-time constraints, running a river routing model is not a small task
+11:55:43	 From Michael Dunphy : i think this came up yesterday, we (DFO IOS) have a RAVEN setup for west coast, plans are to make the river dataset available as soon as we can
+11:56:48	 From Fred Dupont : sorry, I will have to leave now!
+11:57:15	 From Heather Andres : Reacted to "sorry, I will have t..." with 👍
+11:57:49	 From Yujuan Sun : data assimilation,  not sure if this has been included in the Machine learning topic
+12:03:48	 From Stephanne Taylor : And what's appropriate for a large scale system may differ from what's appropriate for a near-shore system
+12:03:59	 From Heather Andres : Reacted to "data assimilation,  ..." with 👍
+12:04:00	 From Stephanne Taylor : (re observations for model eval)
+12:04:06	 From Heather Andres : Reacted to "And what's appropria..." with 👍
+12:05:40	 From Jared Penney : https://www.frdr-dfdr.ca/repo/dataset/167e21b2-7eb9-466a-9b80-3980de093b15
+12:08:58	 From Michael Dunphy : Is everything getting linked on GitHub or on the Nemo ocean Modelling forum CoP website?
+12:09:25	 From Michael Dunphy : I suggest to pick one and not both
+12:10:58	 From Nicolas Lambert : @Michael DunphyThe is the github project for the documentation about the Canadian Community of practice: UofA-NEMO/Canadian-NEMO-Ocean-Modelling-Forum-Community-of-Practice
+12:11:08	 From Hatem Hatem : Reacted to "@Michael Dunphy
+The ..." with 👍
+12:11:42	 From Michael Dunphy : Reacted to "@Michael Dunphy
+The ..." with 👍
+12:11:47	 From Stephanne Taylor : Replying to "I suggest to pick on..."
+
+Agreed, but NEMO forum only captures NEMO-relevant topics
+12:12:02	 From Michael Dunphy : Replying to "@Michael Dunphy
+The ..."
+
+OK I see, its GitHub as the single source of truth =)
+12:12:44	 From Tahya Weiss-Gibbons : Yes! More volunteers for talks and discussion would be very helpful!
+12:12:56	 From Nicolas Lambert : Replying to "@Michael DunphyThe ..."
+
+Our group is using gitlab 😄CCCma · GitLab
+12:13:18	 From Michael Dunphy : Replying to "@Michael Dunphy
+The ..."
+
+We are too but it's internal -_-
+12:13:59	 From Nicolas Lambert : Replying to "@Michael DunphyThe ..."
+
+Our single source of true is still in the internal gitlab. The public facing is for collaboration.
+12:15:19	 From Michael Dunphy : Reacted to "Our single source of..." with 👍
+12:21:08	 From Stephanne Taylor : https://nemo-ocean.discourse.group/
+12:23:07	 From Amber Holdsworth : right, it may not be the right place for us to share sources for DFO evaluation data etc.
+12:31:15	 From Fiona Davidson : I think gitlab is internal to government? I’m not sure if we would be able to see it from UofA for example
+12:31:21	 From SterlinJ : as a user, the search function in GitHub works
+12:33:31	 From Amber Holdsworth : I don't think you have to be an academic to be an admin tho - so uni has to set it up, but others could help
+12:33:59	 From Nicolas Lambert : I can give you some help @Natasha Ridenour on the git stuff.
+12:34:20	 From Amber Holdsworth : Reacted to "I can give you some ..." with ❤️
+12:36:08	 From Jared Penney : Taking off now, but great meeting, everyone. Big thanks to the organizers!
+12:37:42	 From Heather Andres : Reacted to "Taking off now, but ..." with 👍
+12:38:13	 From Amber Holdsworth : maybe we just need a link to that existing content
+12:38:22	 From Heather Andres : Reacted to "maybe we just need a..." with 👍
+12:49:27	 From Amber Holdsworth : Agreed! breakout groups can also help with that
+12:49:41	 From Heather Andres : Reacted to "Agreed! breakout gro..." with 👍
+12:51:41	 From Nadja Steiner : yeah Inge!!!
+12:54:19	 From Amber Holdsworth : If someone is interested in coming to Victoria they could visit DFO and ECCC labs :)

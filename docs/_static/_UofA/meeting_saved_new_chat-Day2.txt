@@ -1,0 +1,194 @@
+2026-05-12 10:27:22 From Inge Deschepper to Everyone:
+	Feel free to put questions in the chat as well.
+	Luiz (UofM):👍
+	
+2026-05-12 10:38:11 From Dhamma K (he/him) [NCAR] to Everyone:
+	If people are familiar with model adjoints, back propagation is the same thing
+	
+2026-05-12 10:54:48 From Enrico Pochini to Everyone:
+	I was wondering: how do ANN take into account errors/uncertainty in the input data? 
+	
+2026-05-12 11:07:16 From Dhamma K (he/him) [NCAR] to Everyone:
+	Just a reminder: mathematically a dense layer is just:
+	
+	Ax + b
+	
+2026-05-12 11:10:52 From Andrew Shao [HPE] to Everyone:
+	colab.research.google.com
+	
+2026-05-12 11:11:19 From Andrew Shao [HPE] to Everyone:
+	https://gist.github.com/ashao/e22a96557cb17df024f3a220865d1e2c
+	
+2026-05-12 11:14:53 From Amber Holdsworth to Everyone:
+	this notebook is not authorized by google :o
+	
+2026-05-12 11:15:42 From Andrew Shao [HPE] to Everyone:
+	I solemnly swear that I didn’t do anything nefarious
+	Amber Holdsworth:😂
+	
+2026-05-12 11:16:15 From Andrew Shao [HPE] to Everyone:
+	👿
+	
+2026-05-12 11:16:24 From Dhamma K (he/him) [NCAR] to Everyone:
+	Ill take a look - before I was able to override that warning
+	
+2026-05-12 11:16:51 From Amber Holdsworth to Everyone:
+	It's just a warning
+	Dhamma K (he/him) [NCAR]:👍
+	
+2026-05-12 11:27:54 From Robin Whincup to Everyone:
+	How would you define in general what a hyperparameter is? Like what kinds of things they can affect? eg it sounds like it includes both the structure of the neural network and other "smaller" parameters?
+	
+2026-05-12 11:29:06 From Robin Whincup to Everyone:
+	Thank you!
+	
+2026-05-12 11:29:13 From Diego Martinez to Everyone:
+	Is there a rule of thumb for the number of parameters vs number of layers? I your problem is very non linear you would need a "non linear" amount of layers?
+	
+2026-05-12 11:35:35 From Kirsten Mayer [NCAR] to Everyone:
+	“Inductive bias refers to the set of assumptions a model makes to learn, influencing its structural simplicity, while variance refers to the model's sensitivity to fluctuations in the training data, often causing overfitting. High inductive bias typically leads to low variance (but underfitting), whereas low inductive bias allows high variance (overfitting)”
+	
+2026-05-12 11:35:49 From Diego Martinez to Everyone:
+	Thank you.
+	
+2026-05-12 11:43:54 From Diego Martinez to Everyone:
+	If we view a model's hyperparameter space as a dynamical system sensitive to inital conditiond such as learning rate and so on, similar to the Lorenz attractor, which is sensitive to initial conditions but has some stable regions. Can we treat parameter space with some other mathematical tools?
+	
+	Or have I lost the plot?
+	
+2026-05-12 11:45:18 From Diego Martinez to Everyone:
+	Yes, as if there is a converance zone
+	
+2026-05-12 11:45:25 From Diego Martinez to Everyone:
+	Similar to the attractor
+	
+2026-05-12 11:46:12 From Diego Martinez to Everyone:
+	Yes
+	
+2026-05-12 11:46:14 From Diego Martinez to Everyone:
+	thank you
+	
+2026-05-12 11:46:24 From Diego Martinez to Everyone:
+	Seems like a very fertile field for study
+	
+2026-05-12 11:49:21 From Tessa Sou to Everyone:
+	Running with enso_magnitude = 0. improves accuracy :)
+	Kirsten Mayer [NCAR]:‼️
+	
+2026-05-12 11:50:28 From Kirsten Mayer [NCAR] to Everyone:
+	Maybe its because it has more samples!
+	
+2026-05-12 11:50:45 From Diego Martinez to Everyone:
+	Can you merge to models that maximize different things?
+	
+2026-05-12 11:50:50 From Diego Martinez to Everyone:
+	Run one then the other
+	
+2026-05-12 11:50:57 From Diego Martinez to Everyone:
+	and merge the results
+	
+2026-05-12 11:51:12 From Diego Martinez to Everyone:
+	Sorry my mic is not working
+	
+2026-05-12 11:50:57 From Debora Lucatelli (CMAR) to Everyone:
+	Screenshot 2026-05-12 145102.png
+	
+2026-05-12 11:51:15 From Debora Lucatelli (CMAR) to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	Is this good?
+	
+2026-05-12 11:51:50 From Kirsten Mayer [NCAR] to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	I think you can get closer to 100% accuracy if this is lag=3! Try reducing the LR and increasing the epochs
+	Debora Lucatelli (CMAR):👍
+	
+2026-05-12 11:52:01 From Grace Kirkpatrick to Everyone:
+	I was mostly playing around with layers + numbers of nodes and just found that increasing the number of layers decreased accuracy while increasing the number of nodes increased accuracy.
+	Kirsten Mayer [NCAR]:👀
+	
+2026-05-12 11:53:14 From Jose Valentí to Everyone:
+	I’m roofing at .7347 validation accuracy 🙁
+	
+2026-05-12 11:53:53 From Diego Martinez to Everyone:
+	I have a model that correctly finds all la Nina events and this other model that correctly predicts all El Nino events. Knowing that could I not use both models to achive full correlation?
+	
+2026-05-12 11:55:17 From Debora Lucatelli (CMAR) to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	Screenshot 2026-05-12 145530.png
+	
+2026-05-12 11:56:04 From Kirsten Mayer [NCAR] to Everyone:
+	Replying to "I’m roofing at .7347 validation accuracy 🙁":
+	Have you tried decreasing the learning rate?
+	
+2026-05-12 11:56:03 From Debora Lucatelli (CMAR) to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	Are the two lines suppose to be close to each other?
+	
+2026-05-12 11:57:04 From Andrew Shao [HPE] to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	If the two lines, are right on top of each other then you have evidence that the model isn’t overfitting
+	Debora Lucatelli (CMAR):👍
+	
+2026-05-12 11:57:43 From Diego Martinez to Everyone:
+	Yes, what amber said!
+	
+2026-05-12 11:57:58 From Kirsten Mayer [NCAR] to Everyone:
+	Replying to "Screenshot 2026-05-12 145102.png":
+	The values actually aren’t that different if you look at the y-values! So I think this looks pretty good
+	Debora Lucatelli (CMAR):🎉
+	
+2026-05-12 11:58:23 From Jose Valentí to Everyone:
+	Replying to "I’m roofing at .7347 validation accuracy 🙁":
+	I did, not sure if enough
+	
+2026-05-12 11:58:41 From Jose Valentí to Everyone:
+	Screenshot 2026-05-12 at 10.58.35.png
+	
+2026-05-12 11:59:19 From Kirsten Mayer [NCAR] to Everyone:
+	Replying to "I’m roofing at .7347 validation accuracy 🙁":
+	Try 0.001 or smaller
+	
+2026-05-12 11:59:49 From Kirsten Mayer [NCAR] to Everyone:
+	Replying to "Screenshot 2026-05-12 at 10.58.35.png":
+	I might try increasing your batch size or trying Adam optimizer
+	
+2026-05-12 12:00:10 From Natasha Ridenour to Everyone:
+	I have to head out for another meeting, but this was incredibly helpful!! Thank you all very much!
+	Kirsten Mayer [NCAR], Inge Deschepper:🥰
+	
+2026-05-12 12:00:27 From Dhamma K (he/him) [NCAR] to Everyone:
+	@Andrew Shao [HPE] https://arxiv.org/abs/2605.07896
+	
+2026-05-12 12:01:33 From Enrico Pochini to Everyone:
+	Thank you! That was very interesting! 
+	
+2026-05-12 12:01:43 From Grace Kirkpatrick to Everyone:
+	Remote but interactive was really nice — lots of great discussion!
+	
+2026-05-12 12:01:45 From Emily Jones to Everyone:
+	Thanks for the great the session!
+	
+2026-05-12 12:01:48 From Diego Martinez to Everyone:
+	I did an asynchronous course similar to this. And this was WAY better
+	
+2026-05-12 12:01:48 From Robin Whincup to Everyone:
+	Thanks so much, this was really interesting and helpful!
+	
+2026-05-12 12:02:09 From Jose Valentí to Everyone:
+	Thanks a lot! This was fun
+	
+2026-05-12 12:02:46 From Shuqi Lin to Everyone:
+	Thanks for this!
+	
+2026-05-12 12:03:19 From guyondett to Everyone:
+	Thanks all! Very nice introduction.
+	
+2026-05-12 12:03:24 From Andy Lin to Everyone:
+	Thanks for this!
+	
+2026-05-12 12:03:35 From Diego Martinez to Everyone:
+	Thank you
+	
+2026-05-12 12:05:54 From Kirsten Mayer [NCAR] to Everyone:
+	https://docs.google.com/presentation/d/1nDmbLUAAl9aLTBx4skg_yHToQGKGbD57SoK5fHHAtmY/edit?usp=sharing
+	

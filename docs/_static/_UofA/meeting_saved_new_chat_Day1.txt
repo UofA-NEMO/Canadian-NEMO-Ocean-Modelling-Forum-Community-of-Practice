@@ -1,0 +1,105 @@
+2026-05-11 10:07:01 From Inge Deschepper to Everyone:
+	Meeting Notes: https://docs.google.com/document/d/1CDcjRCThbb19YyNHb8Qha_pbDXo-QrQARDM_pumN020/edit?usp=sharing
+	
+2026-05-11 10:19:38 From Inge Deschepper to Everyone:
+	Meeting Notes: https://docs.google.com/document/d/1CDcjRCThbb19YyNHb8Qha_pbDXo-QrQARDM_pumN020/edit?usp=sharing
+	
+2026-05-11 10:44:23 From Neil Swart (ECCC) to Everyone:
+	In the UK they have organization like NERC that seem to facilitate collaboration on "common configurations" and tools etc. I'm not sure we have a similar mechanism in Canada. But maybe there is some possibility under NSERC or others.
+	
+2026-05-11 11:08:17 From PetersonA to Everyone:
+	Also diahth module
+	
+2026-05-11 11:08:43 From Amber Holdsworth to Everyone:
+	Replying to "Also diahth module":
+	what does that one do?
+	
+2026-05-11 11:18:06 From Fred Dupont to Everyone:
+	I remember that Susan's group developed a whole suite of tools as well... can somebody point to it again?
+	
+2026-05-11 11:20:30 From Krysten Rutherford (she/her) to Everyone:
+	Replying to "I remember that Susan's group developed a whole su...":
+	From Elise Olson: GitHub - SalishSeaCast/tools: Collection of tools for working with the SalishSeaCast NEMO model, its results, and associated data. · GitHub
+	Fred Dupont:❤️
+	Fiona Davidson, Shuqi Lin:👍
+	
+2026-05-11 11:25:43 From Duo Yang to Everyone:
+	There was a NEMO newsletter titled "New NEMO Diagnostics Working Group" back in April, aiming at
+	
+	1. Enhancing online diagnostics within NEMO
+	Improving the availability and robustness of diagnostics computed during model runtime, including tracer and vorticity budgets.
+	
+	2. Supporting offline diagnostic development
+	To support the community in the development, documenting and sharing of offline analysis and validation tools (e.g., NEMO Cookbook)."
+	Fred Dupont:👍
+	
+2026-05-11 11:26:20 From Fred Dupont to Everyone:
+	the old nemo-canada.slack.com stopped working for me... is it dead?
+	
+2026-05-11 11:28:56 From Amber Holdsworth to Everyone:
+	I think Stephanie's tool helps with that for DFO data
+	
+2026-05-11 11:42:59 From Amber Holdsworth to Everyone:
+	we did that in NEMO36mc as well - we made it so you can choose the module that you want to use using a key
+	
+2026-05-11 11:47:35 From Geoff Stanley (ECCC) to Everyone:
+	Replying to "Also diahth module":
+	calculates the depth of various surfaces: mixed layer, 20 deg C isotherm, etc...
+	Amber Holdsworth:👍
+	
+2026-05-11 11:50:19 From Fred Dupont to Everyone:
+	I have good experience of coupling WW3 with NEMO via OASIS
+	
+2026-05-11 11:50:32 From SterlinJ to Everyone:
+	On using XIOS as a coupler: Towards New Community-Oriented Coupling Software In
+	Climate Modeling: Evaluating XIOS Beyond I/O (https://hal.science/tel-05543302v1/file/Polimi_thesis.pdf )
+	Fred Dupont:❤️
+	
+2026-05-11 11:55:08 From Greg Smith to Everyone:
+	Is there a short break planned in the agenda?
+	
+2026-05-11 11:55:17 From Inge Deschepper to Everyone:
+	There is. 15 mins
+	
+2026-05-11 11:55:34 From Inge Deschepper to Everyone:
+	Planning to come back 10 mins past the hour
+	Greg Smith:👍
+	
+2026-05-11 12:46:16 From Neil Swart (ECCC) to Everyone:
+	Cory Doctorow has a nice quote, which is "AI can't replace your job (physical model), but an AI salesman can convince your boss that it can".
+	Fred Dupont, Hatem Yazidi:😂
+	Andrew Shao [HPE]:😃
+	
+2026-05-11 13:13:19 From Nadja Steiner, DFO to Everyone:
+	would it be possible to record that session tomorrow?
+	
+2026-05-11 13:14:14 From Inge Deschepper to Everyone:
+	I will ask if Kirsten and Andrew will be okay with it being recorded and then let everyone know.
+	
+2026-05-11 13:16:02 From Fred Dupont to Everyone:
+	in relation to principe component analysis, for downscaling, there was another home-taking message that Yosvany came too, which is that, if you are able to project EOFs of your coarse model to the high-resolution model, you can get a much better fit...
+	Hatem Yazidi:👍
+	
+2026-05-11 13:18:29 From Heather Andres to Everyone:
+	Have to leave now. Thanks, everyone!
+	Inge Deschepper:👍
+	
+2026-05-11 13:40:52 From Damien Ringeisen (ECCC-CCCma) to Everyone:
+	I can write a down challenges in my field of sea ice dynamics, which would be a great place for ML because sea ice rheology is non-linear, and needs very expensive solver. The problem I faced with a colleague of mine a few years ago are : we could build a sea ice emulator, but we know our current models are wrong. Then, how to build a physics consistent sea ice dynamical model, that is not only a black box that reproduce sea ice movement but also informs us on the nature of sea ice mechanics... also we do not have that much data to train with, and almost no stress in-situ data (which is what our momentun equation needs...)
+	
+2026-05-11 13:46:10 From Fred Dupont to Everyone:
+	At Drakkar, Veros main documentation was prevented, as python-friendly version of oceanigans. fully differentiable.
+	
+2026-05-11 13:46:20 From Fred Dupont to Everyone:
+	*presented :)
+	
+2026-05-11 13:52:23 From Fred Dupont to Everyone:
+	BCG: at the core AI-ML is a fancy statistical model.
+	Andrew Shao [HPE], Olivier Riche (DFO IML), Jared Penney:👍
+	
+2026-05-11 13:56:54 From Hauke Blanken (DFO-OSD) to Everyone:
+	Thanks all, this was super interesting to listen in on as a casual observer of AI developments!
+	
+2026-05-11 13:57:36 From Andy Lin to Everyone:
+	Thank you
+	
