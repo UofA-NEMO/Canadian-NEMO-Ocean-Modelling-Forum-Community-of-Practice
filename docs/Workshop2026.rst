@@ -11,7 +11,7 @@ Below are documents summarising the workshop, minutes, chat logs, and slides:
 
 * `Transcript day 1 session 2 on AI and Machine learning <_static/_UofA/COMW_day_1_session_2_AI_ML_transcript.pdf>`_
 
-* `Transcript day 2, Early Career Researcher <_static/_UofA/COMW_day_1_session_1_transcript.pdf>`_
+* `Transcript day 2, Early Career Researcher <_static/_UofA/COMW_day_2_ECR_workshop_transcript.pdf>`_
 
 * `Transcript day 3 <_static/_UofA/COMW-day_3_session_1_and2_transcript.pdf>`_
 
