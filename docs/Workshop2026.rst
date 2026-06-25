@@ -1,4 +1,4 @@
-NEMO Workshop 2026 Documents
+NEMO Workshop 11-13 May 2026 Documents
 ===================================
 
 The Canadian Ocean Modelling workshop brought together researchers to discuss ocean modelling development, biogeochemical models, and cross-institute coordination of NEMO development. Participants explored various aspects of ocean modelling, including technical challenges, potential collaborations, and the transition between different versions of the NEMO model. The workshop also included discussions on career paths in oceanography and related fields, emphasising the importance of knowledge sharing and collaboration within the modelling community. 
