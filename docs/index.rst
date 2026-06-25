@@ -33,7 +33,8 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Instructions
    Sources
    Seminar
-   Workshop
+   Workshop2026
+   Workshop2025
    Groups
 
 
