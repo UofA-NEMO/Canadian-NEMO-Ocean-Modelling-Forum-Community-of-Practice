@@ -9,6 +9,7 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 
 May 4th 2026
 .............
+
 Patrick Farnole from University of Victoria
 ---------------------------------------------
 "Modeling Ringed and Bearded Seal Future Habitats Indicates Stability, Shifts, and Refugia"
@@ -25,7 +26,7 @@ The Labrador Sea is a key region of deep water formation that contributes to the
 |
 April 13th 2026 
 ................
-* `Recording <https://drive.google.com/drive/u/1/folders/1XSg74yFER52hQsiWIrHdk05iCTk8yhzA>_`
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1XSg74yFER52hQsiWIrHdk05iCTk8yhzA>`_
 Enrico Pochini from University of Alberta
 -----------------------------------------
 "Simulating Surface Waves in the Arctic and North Atlantic Oceans. A risk for local Canadian communities"
@@ -42,6 +43,7 @@ The Chukchi Sea contains two distinct shoals, Herald and Hanna. A previous study
 |
 March 2nd 2026
 ..............
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1FRZZyp_VXESyBJuQvqUq2YtXMyts5gXz>`_
 Jean-François Lemieux
 ----------------------
 "Impact of non-normal flow rule on linear kinematic features in pan-Arctic ice-ocean simulations"
@@ -59,6 +61,8 @@ I will present some work aiming at the characterization of the pathways of summe
 |
 February 2nd 2026
 ..................
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1o92XY2pclUyBvFsPbfqiKDKys7JUzxqi>`_
+
 Youyou Lu from DFO
 ------------------
 "Sea level variations and underlying dynamics: Based on comparison and analyses of observation data and models"
@@ -80,6 +84,8 @@ Ocean eddies play crucial roles in climate and marine ecosystems. Still, small m
 .....
 December 1st 2025
 ..................
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1LUYJ1y4-snfPCYB-pPoluQkCZDXg0nmV>`_
+
 Rowan Brown from LMU Munich
 ----------------------------
 The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models - 
@@ -95,6 +101,7 @@ Advancing our understanding of ocean dynamics and the role of marine heat and fr
 |
 November 3rd 2025
 ..................
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1KyQkPlxTPSXqOVOvMP725Lwn3NerpdYI>`_
 Jonathan Izett
 --------------
 "How large does a “regional” domain have to be to accurately simulate Canada’s three oceans on climate timescales?" 
@@ -110,6 +117,7 @@ In the Arctic, blooms of primary producers develop at the bottom of sea ice, lea
 |
 October 6th 2025
 .................
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1J2Hpkvl7vOAHwAXTVVbHGl-jx2L--3rg>`_
 Abdoul Tall
 -----------
 "Advancing Biogeochemical Parameterizations in SalishSeaCast: Improved Representation of Oxygen Dynamics in the Salish Sea"
@@ -146,6 +154,8 @@ ANHALYZE is an open-source package, actively being developed in Python, aiming t
 
 June 2 2025:
 .............
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1OX_UJZQQ3AJX4pdjjROhn3LkhW6NUqy9>`_
+
 Xiner Wu
 --------
 "Arctic gateways: exploring the impacts of the Bering Strait in subpolar North Atlantic during the Middle Holocene"
@@ -162,6 +172,7 @@ However, the remoteness of Nares Strait and the harsh atmospheric and oceanic co
 
 May 5 2025
 ...........
+* `Recording, transcript and/or chat log: <https://drive.google.com/drive/u/1/folders/1Caxu2FR8acutLnCT2x2ybY8JO54gMkjt>`_
 Stephanne Taylor
 ----------------
 "Transitioning Port Models to NEMO4.2 with Wetting and Drying"
