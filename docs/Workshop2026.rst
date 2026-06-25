@@ -5,7 +5,7 @@ The Canadian Ocean Modelling workshop brought together researchers to discuss oc
 
 Below are documents summarising the workshop, minutes, chat logs, videos, recording transcripts, and slides:
 
-* `Canadian Ocean Modelling Workshop 11-13 May 2026 Summary <_static/_UofA/Canadian_Ocean_Modelling_workshop_11-13_May_2026_summary.pdf >`_
+* `Canadian Ocean Modelling Workshop 11-13 May 2026 Summary <_static/_UofA/Canadian_Ocean_Modelling_workshop_11-13_May_2026_summary.pdf>`_
 
 * `Meeting minutes <_static/_UofA/Canadian_Ocean_Modelling_Forum_workshop_11-13_May_2026.pdf>`_
 
