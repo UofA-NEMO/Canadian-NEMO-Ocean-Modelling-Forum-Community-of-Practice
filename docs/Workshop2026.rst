@@ -7,7 +7,7 @@ Below are documents summarising the workshop, minutes, chat logs, and slides:
 
 * `Canadian Ocean Modelling Workshop 11-13 May 2026 Summary <NOTFOUND>`_
 
-* `Transcript day 1 session 1<_static/_UofA/COMW_day_1_session_1_transcript.pdf>`_
+* `Transcript day 1 session 1 <_static/_UofA/COMW_day_1_session_1_transcript.pdf>`_
 
 * `Transcript day 1 session 2 on AI and Machine learning <_static/_UofA/COMW_day_1_session_2_AI_ML_transcript.pdf>`_
 
