@@ -20,16 +20,26 @@ Model Domains
 eORCA1: eORCA1 domain and grid size. Grid size is based on the diagonal line through the cell.
 
 .. image:: eORCA1_domaingridsize.png
+   :width: 50 %
 
+|
 
 eORCA025: eORCA025 domain and grid size. Grid size is based on the diagonal line through the cell.
 
 .. image:: eORCA025_domaingridsize.png
+   :width: 50 %
 
+|
 
-CanTODS: Our regional ocean domain. This is currently a work in progress.
+Canadian Three Oceans Downscaling System (CanTODS): Our regional ocean domain covering Canada's three oceans for both 1/4 and 1/12 degree resolutions. Presently, open boundaries are located at 32N in the Pacific and 26N in the Atlantic. 
 
+.. image:: CanTODS4_domain.png
+   :width: 50 %
 
+.. image:: CanTODS12_domain.png
+   :width: 50 %
+
+|
 
 Model Code
 ----------------
@@ -40,33 +50,44 @@ Our model code can be found here: `CCCma / CanESM · GitLab`_
 
 Members
 -----------------
-* Jim Christian (biogeochemical modelling): `Jim Christian | Directory of scientists and professionals`_ 
-* Jonathan Izett (regional modelling): `Dr. Jonathan Izett | Directory of scientists and professionals`_ 
-* Nicolas Lambert (global ocean): `Nicolas Lambert | Directory of scientists and professionals`_ 
-* Bill Merryfield (seasonal to decadal predictions): `Dr. William Merryfield | Directory of scientists and professionals`_  
-* Elise Olson (seasonal to decadal predictions): `Dr. Elise Olson | Directory of scientists and professionals`_  
-* Natasha Ridenour (regional modelling): `Dr. Natasha Ridenour | Directory of scientists and professionals`_  
-* Damien Ringeisen (sea ice): `Dr. Damien Ringeisen | Directory of scientists and professionals`_  
-* Krysten Rutherford (biogeochemical modelling): `Dr. Krysten Rutherford | Directory of scientists and professionals`_  
-* Geoff Stanley (global ocean): `Geoff Stanley | Directory of scientists and professionals`_  
-* Nadja Steiner (biogeochemical modelling): `Nadja Steiner | Directory of scientists and professionals`_  
-* Jean Sterlin (global ocean): `Jean Sterlin | Directory of scientists and professionals`_  
-* Neil Swart (global earth system modelling): `Dr. Neil C. Swart | Directory of scientists and professionals`_  
-* Duo Yang (global ocean): `Dr. Duo Yang | Directory of scientists and professionals`_ 
+Jim Christian (biogeochemical modelling)
+   * email: jim.christian@ec.gc.ca
+   * `Jim Christian publications`_ 
+Jonathan Izett (regional modelling)
+   * email: jonathan.izett@ec.gc.ca
+Nicolas Lambert (global ocean)  
+   * email: nicolas.lambert@ec.gc.ca
+Bill Merryfield (seasonal to decadal predictions) 
+   * email: bill.merryfield@ec.gc.ca
+Elise Olson (seasonal to decadal predictions) 
+   * email: elise.olson@ec.gc.ca  
+Natasha Ridenour (regional modelling)
+   * email: natasha.ridenour@ec.gc.ca
+   * `Natasha Ridenour's ResearchGate`_ 
+   * Natasha is interested in using high resolution regional models to understand oceanic processes in Canadian waters and how these processes might change in a future climate. Her current work focuses on downscaling river discharge from global climate models.
+Damien Ringeisen (sea ice) 
+   * email: damien.ringeisen@ec.gc.ca
+Krysten Rutherford (biogeochemical modelling)
+   * email: krysten.rutherford@ec.gc.ca
+Geoff Stanley (global ocean)
+   * email: geoff.stanley@ec.gc.ca
+   * `Geoff Stanley's GitHub`_ 
+   * `Geoff Stanley's orcid`_  
+Nadja Steiner (biogeochemical modelling) 
+   * email: nadja.steiner@ec.gc.ca
+Jean Sterlin (global ocean)
+   * email: jean.sterlin@ec.gc.ca
+Neil Swart (global earth system modelling) 
+   * email: neil.swart@ec.gc.ca
+   * `Neil Swart's website`_ 
+Duo Yang (global ocean) 
+   * email: duo.yang@ec.gc.ca
 
-.. _Jim Christian | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/jim-christian
-.. _Dr. Jonathan Izett | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-jonathan-izett
-.. _Nicolas Lambert | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/nicolas-lambert
-.. _Dr. William Merryfield | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-william-merryfield
-.. _Dr. Elise Olson | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-elise-olson
-.. _Dr. Natasha Ridenour | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-natasha-ridenour
-.. _Dr. Damien Ringeisen | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-damien-ringeisen
-.. _Dr. Krysten Rutherford | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-krysten-rutherford
-.. _Geoff Stanley | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/geoff-stanley
-.. _Nadja Steiner | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/nadja-steiner
-.. _Jean Sterlin | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/jean-sterlin
-.. _Dr. Neil C. Swart | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-neil-c-swart
-.. _Dr. Duo Yang | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-duo-yang
+.. _Jim Christian publications: https://drive.google.com/file/d/1wnoxY4nKDuC9VeDid-ZC5WJhNErVAe9J/view?usp=sharing
+.. _Natasha Ridenour's ResearchGate: https://www.researchgate.net/profile/Natasha-Ridenour
+.. _Geoff Stanley's GitHub: https://geoffstanley.github.io/
+.. _Geoff Stanley's orcid: https://orcid.org/my-orcid?orcid=0000-0003-4536-8602
+.. _Neil Swart's website: https://swartn.github.io/ 
 
 
 
