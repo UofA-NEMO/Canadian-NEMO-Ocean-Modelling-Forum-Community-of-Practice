@@ -7,6 +7,59 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 2026:
 .....
 
+November 2nd 
+..............
+Michael Dunphy
+--------------
+"Hourly runoff forcing for the Pacific coast of Canada"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ocean models of the British Columbia coast are often forced with a monthly runoff climatology, which lacks interannual variability and storm events and combines runoff from the many small ungauged watersheds that drain into the fjords. Other approaches, including area-ratio and precipitation-based estimates, provide time-varying discharge but the area ratio misestimates volume and the precipitation-based estimate misses the timing. We have developed a system that computes hourly discharge for approximately 7,200 watersheds along the Pacific coast from southeast Alaska to northern Oregon. The system is based on the RAVEN model and routes surface runoff from ECCC's High Resolution Deterministic Land Prediction System. The system is calibrated using observations from 219 gauges, and ungauged watersheds are assigned parameters from the most similar gauged watersheds. It is more accurate than both simpler estimates and reproduces the timing and volume of observed flow well, although storm peaks are underestimated in the smallest watersheds. The hourly record covers July 2019 to July 2026. Future work will evaluate the effects of this discharge product on ocean simulations in operational systems such as CIOPS-W and Salish Sea Cast
+
+|
+Tahya Weiss-Gibbons
+--------------------
+The Role of the North Pacific on Arctic Ocean Freshwater Pathways
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+With climate change, and warming Arctic temperatures, there has been a large increase in freshwater sources into the Arctic Ocean. Part of this increase has come from relatively fresh inflow from the North Pacific entering through the Bering Strait. This has all contributed to increased surface freshwater observed in the Beaufort Gyre and central Arctic Ocean. We present a new ¼ degree regional configuration of the NEMO modelling framework, version 5.0, to understand the role the North Pacific plays in regulating freshwater content in the Arctic Ocean. Boundary locations in regional ocean model configurations can have a large impact on model results, and this study will investigate the role of the location of the boundary between the Arctic and the North Pacific plays. This will be investigated through the use of online passive tracers which track freshwater pathways and propagation through the different model domains. Understanding and development of improved regional ocean models is a crucial step in understanding the processes and mechanisms which drive changes in the Beaufort Gyre and Arctic.
+
+|
+
+October 5th 
+.............
+Raisha Lovindeer
+----------------
+"Ecosystem impact modelling of oil-based contaminants in the Salish Sea"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+While individual polycyclic aromatic hydrocarbons (PAHs) from oil spills have been documented to be toxic to marine species, the combined effect across a marine ecosystem of multiple PAH toxicities is difficult to measure. Detailed assessments of ecosystem impact in coastal waters require species-specific responses that can account for varying exposure durations, species tissue concentrations, and resulting biological impacts over time. Modelling studies that account for such factors are data-intensive, with high numbers of parameters and uncertainty, but are helpful to disentangle long-term ecosystem impacts of PAH toxicity that can be masked by other ecosystem changes. In this talk, I'll share results from using an Atlantis whole-of-ecosystem model built for the Salish Sea to understand some long-term implications to the ecosystem of combined PAHs from spill scenarios of common oils transported through the Salish Sea.
+
+|
+Lina Garcia Suarez
+-------------------
+"Coastal biogeochemical responses to shifting physical conditions in the northwest North Atlantic Ocean"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The northwest North Atlantic shelf is warming rapidly, with major consequences for its productive ecosystems. This work examines how circulation change reshapes shelf nutrients and productivity, and how reliably proxies and models capture it. Using a regional ocean biogeochemical model nested in a high-resolution global climate model, alongside observations, gridded products, and multi-model intercomparisons, I trace how rising atmospheric CO2 propagates from the open ocean onto the shelf, and why the tools used to diagnose it must be tested, not trusted. I show that common Gulf Stream proxies overstate its northward shift, that higher model resolution does not guarantee better coastal CO2 flux estimates, and that the shelfbreak jet, the shelf edge limb of the Labrador Current, weakens as warming and freshening lighten upper slope waters, reducing nutrient supply to the Scotian Shelf. By 2100, the model projects a roughly 15% decline in shelf primary production, driven in near equal measure by offshore nutrient depletion and local circulation change.
+
+|
+
+September 14th
+..............
+Sawyer Brand
+-------------
+"Potential Drivers of Ocean Heat Transport into the Arctic on Subannual Time Scales"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ocean heat transport (OHT) into the Arctic Ocean takes place through a finite number of gateways; Fram Strait is the second largest contributing gateway and the most important region for Arctic sea ice export. Multiple mechanisms over different timescales control fluctuations in OHT into the Arctic, creating complex connections between different aspects of the climate system. Disentangling the impacts of these mechanisms can be difficult due to the nature of their connections, and nontraditional analysis can assist in this research.
+
+Self-organizing maps (SOMs) are a powerful, nonlinear machine learning tool used to help identify complex connections in multidimensional datasets. We use the SOM framework to find links between anomalous OHT through Fram Strait and local atmospheric circulation in the E3SM-ARRM model on interannual scales. We evaluate the different atmospheric patterns presented by the SOM and how they impact ocean circulation and transport, working exclusively with high-pass-filtered monthly averages. Our work touches on possible OHT drivers in the ocean and atmosphere, and how they might work together or against each other to impact OHT into the Arctic.
+
+|
+Nadiya Shore
+------------
+"The ClimatEx research group: machine learning downscaling and prediction for the atmosphere and ocean"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Machine Learning (ML) has become a popular tool in recent years, as its flexible framework is well-suited to a variety of climate and ocean modelling applications. Physics-based climate models have coarse resolutions due to their high computational costs, though much higher resolutions are required to produce local information that directly informs real-life adaptation planning. Downscaling addresses this gap by turning low-resolution (LR) climate model outputs into actionable high-resolution (HR) information. The ClimatEx ML Generative Adversarial Network (GAN) downscales 25 km (~1/4 o) atmospheric reanalysis data to 4 km (~1/28 o) resolution. GANs are made up of two competitive components, the Generator and the Critic, that push the model to create highly detailed and accurate fields. The ClimatEx GAN was designed to be stochastic, where it generates multiple plausible HR fields for each LR input, capturing the internal variability in the HR distribution. The models have demonstrated skill in producing ensembles of HR fields with realistic textures, near-tail extremes, and spatial dependence. Oceanographic models have been developed to represent processes associated with storm surge. Other non-downscaling ML models, such as the ClimatEx U-NET model, predict sea surface height fields based on various inputs of ocean and atmospheric variables. The model can quickly produce large fields covering the entire Canadian Pacific. This model is also planned to produce wave fields and operate on all three Canadian coastlines, including the Arctic Ocean. More ML applications alongside traditional statistical techniques are being developed over the ocean within and beyond the research group.
+
+|
+
 May 4th 2026
 .............
 
