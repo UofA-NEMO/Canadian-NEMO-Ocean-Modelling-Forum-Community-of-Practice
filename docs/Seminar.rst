@@ -18,7 +18,7 @@ Ocean models of the British Columbia coast are often forced with a monthly runof
 |
 Tahya Weiss-Gibbons
 --------------------
-The Role of the North Pacific on Arctic Ocean Freshwater Pathways
+"The Role of the North Pacific on Arctic Ocean Freshwater Pathways"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 With climate change, and warming Arctic temperatures, there has been a large increase in freshwater sources into the Arctic Ocean. Part of this increase has come from relatively fresh inflow from the North Pacific entering through the Bering Strait. This has all contributed to increased surface freshwater observed in the Beaufort Gyre and central Arctic Ocean. We present a new ¼ degree regional configuration of the NEMO modelling framework, version 5.0, to understand the role the North Pacific plays in regulating freshwater content in the Arctic Ocean. Boundary locations in regional ocean model configurations can have a large impact on model results, and this study will investigate the role of the location of the boundary between the Arctic and the North Pacific plays. This will be investigated through the use of online passive tracers which track freshwater pathways and propagation through the different model domains. Understanding and development of improved regional ocean models is a crucial step in understanding the processes and mechanisms which drive changes in the Beaufort Gyre and Arctic.
 
